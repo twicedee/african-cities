@@ -1,0 +1,4151 @@
+,city,lat,lng,country,population
+0,Cairo,30.0444,31.2358,Egypt,20296000.0
+1,Lagos,6.455,3.3841,Nigeria,16637000.0
+2,Luanda,-8.8383,13.2344,Angola,9051000.0
+3,Johannesburg,-26.2044,28.0456,South Africa,8000000.0
+4,Dar es Salaam,-6.8161,39.2803,Tanzania,7962000.0
+5,Khartoum,15.5006,32.56,Sudan,7869000.0
+6,Douala,4.05,9.7,Cameroon,5768400.0
+7,Giza,29.987,31.2118,Egypt,5598402.0
+8,Nairobi,-1.2864,36.8172,Kenya,5545000.0
+9,Alexandria,31.1975,29.8925,Egypt,4870000.0
+10,Casablanca,33.5333,-7.5833,Morocco,4370000.0
+11,Mogadishu,2.0392,45.3419,Somalia,4249083.0
+12,Kano,12.0,8.5167,Nigeria,3848885.0
+13,Abuja,9.0667,7.4833,Nigeria,3770000.0
+14,Ibadan,7.3964,3.9167,Nigeria,3552000.0
+15,Algiers,36.7539,3.0589,Algeria,3415811.0
+16,Boankra,6.6944,-1.4028,Ghana,3348000.0
+17,Addis Ababa,9.03,38.74,Ethiopia,3041002.0
+18,Omdurman,15.65,32.4833,Sudan,2805396.0
+19,Antananarivo,-18.9333,47.5167,Madagascar,2610000.0
+20,Lusaka,-15.4167,28.2833,Zambia,2467563.0
+21,Ouagadougou,12.3686,-1.5275,Burkina Faso,2453496.0
+22,Yaoundé,3.8667,11.5167,Cameroon,2440462.0
+23,Accra,5.55,-0.2,Ghana,2388000.0
+24,Harare,-17.8292,31.0522,Zimbabwe,2150000.0
+25,Kumasi,6.6667,-1.6167,Ghana,2069350.0
+26,Bamako,12.6458,-7.9922,Mali,2009109.0
+27,Bamenda,5.9614,10.1517,Cameroon,2000000.0
+28,Boosaaso,11.2886,49.1819,Somalia,2000000.0
+29,Blantyre,-15.7861,35.0058,Malawi,1895973.0
+30,Port Harcourt,4.8242,7.0336,Nigeria,1865000.0
+31,Meru,0.05,37.65,Kenya,1833000.0
+32,Kampala,0.3136,32.5811,Uganda,1680600.0
+33,Conakry,9.5092,-13.7122,Guinea,1667864.0
+34,Balandougou,13.3558,-9.5517,Mali,1596882.0
+35,Aba,5.1167,7.3667,Nigeria,1530000.0
+36,Onitsha,6.1667,6.7833,Nigeria,1483000.0
+37,El Kelaa des Srarhna,32.0481,-7.4083,Morocco,1450021.0
+38,Dakar,14.6928,-17.4467,Senegal,1438725.0
+39,Tripoli,32.8872,13.1914,Libya,1293016.0
+40,Cacuaco,-8.8053,13.2444,Angola,1279488.0
+41,Soweto,-26.2678,27.8585,South Africa,1271628.0
+42,Mombasa,-4.05,39.6667,Kenya,1208333.0
+43,Hargeysa,9.5631,44.0675,Somalia,1200000.0
+44,Maiduguri,11.8333,13.15,Nigeria,1197497.0
+45,Maputo,-25.9667,32.5833,Mozambique,1191613.0
+46,Pikine,14.75,-17.4,Senegal,1170791.0
+47,Kigali,-1.9536,30.0606,Rwanda,1156663.0
+48,Bafoussam,5.4667,10.4167,Cameroon,1146000.0
+49,Benin City,6.3333,5.6222,Nigeria,1147188.0
+50,Shagamu,6.8333,3.65,Nigeria,1132270.0
+51,Fès,34.0433,-5.0033,Morocco,1112072.0
+52,N’Djamena,12.11,15.05,Chad,1092066.0
+53,Ikare,7.5167,5.75,Nigeria,1099931.0
+54,Tamale,9.4075,-0.8533,Ghana,1095808.0
+55,Bujumbura,-3.3833,29.3667,Burundi,1075000.0
+56,Nouakchott,18.0858,-15.9785,Mauritania,1077169.0
+57,Vereeniging,-26.6736,27.9319,South Africa,1074000.0
+58,Tunis,36.8064,10.1817,Tunisia,1056247.0
+59,Matola,-25.9667,32.4667,Mozambique,1032197.0
+60,Ogbomoso,8.1333,4.25,Nigeria,1032000.0
+61,Niamey,13.515,2.1175,Niger,1026848.0
+62,Shubrā al Khaymah,30.1286,31.2422,Egypt,1025569.0
+63,Monrovia,6.3133,-10.8014,Liberia,1021762.0
+64,Lilongwe,-13.9833,33.7833,Malawi,989318.0
+65,Asmara,15.3228,38.925,Eritrea,963000.0
+66,Freetown,8.4844,-13.2344,Sierra Leone,951000.0
+67,Bangui,4.3733,18.5628,Central African Republic,889231.0
+68,Lomé,6.1319,1.2228,Togo,837437.0
+69,Libreville,0.3903,9.4542,Gabon,797003.0
+70,Cotonou,6.3667,2.4333,Benin,762000.0
+71,Pretoria,-25.7461,28.1881,South Africa,741651.0
+72,Djibouti,11.5883,43.145,Djibouti,603900.0
+73,Rabat,34.0209,-6.8416,Morocco,572717.0
+74,Juba,4.85,31.6,South Sudan,525953.0
+75,Maseru,-29.31,27.48,Lesotho,519186.0
+76,Bissau,11.85,-15.5667,Guinea-Bissau,492004.0
+77,Cape Town,-33.9253,18.4239,South Africa,433688.0
+78,Windhoek,-22.57,17.0836,Namibia,322500.0
+79,Porto-Novo,6.4972,2.605,Benin,300000.0
+80,Bloemfontein,-29.1167,26.2167,South Africa,256185.0
+81,Gaborone,-24.6581,25.9122,Botswana,231626.0
+82,Dodoma,-6.1731,35.7419,Tanzania,213636.0
+83,Malabo,3.75,8.7833,Equatorial Guinea,187302.0
+84,Port Louis,-20.1644,57.5042,Mauritius,149194.0
+85,Gitega,-3.4283,29.925,Burundi,135467.0
+86,Praia,14.918,-23.509,Cabo Verde,127832.0
+87,Moroni,-11.699,43.256,Comoros,111329.0
+88,São Tomé,0.3361,6.7306,Sao Tome and Principe,56166.0
+89,Victoria,-4.6167,55.45,Seychelles,26450.0
+90,Tifariti,26.158,-10.567,Morocco,3000.0
+91,Domaa-Ahenkro,7.2833,-2.8833,Ghana,1000000.0
+92,Al Mijlad,11.0339,27.74,Sudan,985000.0
+93,Godē,5.9527,43.5516,Ethiopia,980782.0
+94,Al Manşūrah,31.05,31.3833,Egypt,960423.0
+95,Tangier,35.7767,-5.8039,Morocco,947952.0
+96,Baidoa,3.1167,43.65,Somalia,950000.0
+97,Gaalkacyo,6.7697,47.4308,Somalia,950000.0
+98,Khartoum North,15.6333,32.6333,Sudan,936349.0
+99,Marrakech,31.63,-8.0089,Morocco,928850.0
+100,Owerri,5.4833,7.0333,Nigeria,908109.0
+101,Bobo-Dioulasso,11.1833,-4.2833,Burkina Faso,903887.0
+102,Abeokuta,7.1608,3.3483,Nigeria,888924.0
+103,Sale,34.0333,-6.8,Morocco,850403.0
+104,Ikeja,6.6186,3.3426,Nigeria,861300.0
+105,Oran,35.6969,-0.6331,Algeria,852000.0
+106,Akure,7.25,5.195,Nigeria,847903.0
+107,Ilorin,8.5,4.55,Nigeria,847582.0
+108,Warri,5.5167,5.75,Nigeria,830106.0
+109,Mediouna,33.45,-7.51,Morocco,822851.0
+110,Androtsy,-24.1,46.3,Madagascar,809313.0
+111,Lubango,-14.9167,13.5,Angola,776249.0
+112,Kaduna,10.5167,7.4333,Nigeria,760084.0
+113,Pietermaritzburg,-29.6167,30.3833,South Africa,750845.0
+114,Baardheere,2.3333,42.2833,Somalia,755500.0
+115,Burco,9.5279,45.5345,Somalia,750211.0
+116,Nampula,-15.1167,39.2667,Mozambique,743000.0
+117,Osogbo,7.7667,4.5667,Nigeria,731000.0
+118,Cabinda,-5.56,12.19,Angola,739182.0
+119,Mwanza,-2.5167,32.9,Tanzania,706453.0
+120,Enugu,6.4528,7.5111,Nigeria,715774.0
+121,Bauchi,10.3158,9.8442,Nigeria,693700.0
+122,Huambo,-12.7767,15.7347,Angola,665564.0
+123,Jalingo,8.9195,11.3264,Nigeria,660213.0
+124,Abomey-Calavi,6.4486,2.3556,Benin,655965.0
+125,Bulawayo,-20.17,28.58,Zimbabwe,653337.0
+126,Ērer Sātā,9.5667,41.3833,Ethiopia,649000.0
+127,Benghazi,32.1167,20.0667,Libya,631555.0
+128,Ḩalwān,29.8453,31.3333,Egypt,619293.0
+129,Jos,9.9167,8.8903,Nigeria,622802.0
+130,Malanje,-9.5333,16.35,Angola,604215.0
+131,Garoua,9.3,13.4,Cameroon,600000.0
+132,Durban,-29.8833,31.05,South Africa,595061.0
+133,Mbale,1.0806,34.175,Uganda,586300.0
+134,Port Sudan,19.6167,37.2167,Sudan,579942.0
+135,Al Maḩallah al Kubrá,30.9686,31.1636,Egypt,535278.0
+136,Benguela,-12.55,13.4167,Angola,561775.0
+137,Rustenburg,-25.6667,27.2428,South Africa,549575.0
+138,Nansana,0.3639,32.5286,Uganda,532800.0
+139,Kassala,15.45,36.4,Sudan,536009.0
+140,Cadaado,6.1403,46.6256,Somalia,534023.0
+141,Touba,14.8667,-15.8833,Senegal,529176.0
+142,Ndola,-12.9667,28.6333,Zambia,528330.0
+143,Port Said,31.2625,32.3061,Egypt,524433.0
+144,Meknès,33.895,-5.5547,Morocco,520428.0
+145,Suez,29.9667,32.55,Egypt,516959.0
+146,Al ‘Āshir min Ramaḑān,30.3065,31.7415,Egypt,511987.0
+147,Kitwe,-12.8167,28.2,Zambia,504194.0
+148,Kimberley,-28.7383,24.7639,South Africa,500757.0
+149,Belas,-8.9983,13.265,Angola,500000.0
+150,Talatona,-8.9167,13.1833,Angola,500000.0
+151,Ile-Ife,7.4667,4.5667,Nigeria,501952.0
+152,Oujda-Angad,34.6867,-1.9114,Morocco,494252.0
+153,Marka,1.6833,44.75,Somalia,499000.0
+154,Nyala,12.05,24.8833,Sudan,492984.0
+155,Berbera,10.4356,45.0164,Somalia,478000.0
+156,Mbeya,-8.9,33.45,Tanzania,467000.0
+157,Katlehong,-26.3333,28.15,South Africa,467890.0
+158,Agege,6.6219,3.3258,Nigeria,459939.0
+159,Calabar,4.9767,8.3383,Nigeria,461796.0
+160,Ţanţā,30.7833,31.0,Egypt,429503.0
+161,Constantine,36.365,6.6147,Algeria,448374.0
+162,Ado-Ekiti,7.6167,5.2167,Nigeria,446749.0
+163,Beira,-19.8333,34.85,Mozambique,436240.0
+164,Welkom,-27.9831,26.7208,South Africa,431944.0
+165,Kenitra,34.25,-6.5833,Morocco,431282.0
+166,Agadir,30.4333,-9.6,Morocco,421844.0
+167,Somolu,6.5408,3.3872,Nigeria,403569.0
+168,Uyo,5.05,7.9333,Nigeria,429900.0
+169,Sokoto,13.0622,5.2339,Nigeria,427760.0
+170,Sidi Bouzid,35.0381,9.4858,Tunisia,429912.0
+171,Owo,7.1961,5.5864,Nigeria,425700.0
+172,Ugep,5.8,8.0833,Nigeria,420000.0
+173,El Obeid,13.1833,30.2167,Sudan,418280.0
+174,Arusha,-3.3667,36.6833,Tanzania,416442.0
+175,Ajdābiyā,30.7556,20.2253,Libya,416000.0
+176,Kisumu,-0.0833,34.7667,Kenya,409928.0
+177,Zaria,11.0667,7.7,Nigeria,408198.0
+178,Asyūţ,27.1833,31.1667,Egypt,389307.0
+179,Khayelitsha,-34.0403,18.6778,South Africa,391749.0
+180,Nnewi,6.0167,6.9167,Nigeria,391227.0
+181,Thiès,14.7833,-16.9167,Senegal,394544.0
+182,Betsiboka,-16.95,46.83,Madagascar,394561.0
+183,Yola,9.23,12.46,Nigeria,392854.0
+184,Lobito,-12.3597,13.5308,Angola,393079.0
+185,Saurimo,-9.65,20.4,Angola,393000.0
+186,Gwoza,11.0861,13.6914,Nigeria,388600.0
+187,Saki,8.6667,3.4,Nigeria,388225.0
+188,Tétouan,35.5667,-5.3667,Morocco,380787.0
+189,Bibā,28.9218,30.9844,Egypt,385528.0
+190,Oyo,7.85,3.933,Nigeria,386723.0
+191,Ilesa,7.6167,4.7167,Nigeria,384334.0
+192,Garoowe,8.4,48.4667,Somalia,385000.0
+193,Ceel Baraf,3.2073,45.7587,Somalia,384630.0
+194,Gusau,12.15,6.6667,Nigeria,383162.0
+195,Chitungwiza,-17.9939,31.0481,Zimbabwe,371244.0
+196,Mamou,10.3833,-12.0833,Guinea,376269.0
+197,Qardho,9.5,49.0833,Somalia,365000.0
+198,Newcastle,-27.7464,29.9328,South Africa,363236.0
+199,Buurhakaba,2.7833,44.0833,Somalia,360795.0
+200,Ash Shuhadā’,30.6039,30.9021,Egypt,358486.0
+201,Umuahia,5.5333,7.4833,Nigeria,359230.0
+202,Gedaref,14.0333,35.3833,Sudan,354927.0
+203,Kismaayo,-0.3581,42.5453,Somalia,358000.0
+204,Cubal,-13.1117,14.3672,Angola,357618.0
+205,Luena,-11.7918,19.9062,Angola,357413.0
+206,Cuito,-12.3833,16.9333,Angola,355423.0
+207,Guédiawaye,14.7833,-17.4,Senegal,329659.0
+208,António Enes,-16.2333,39.9167,Mozambique,347175.0
+209,Wad Medani,14.4,33.5167,Sudan,345290.0
+210,Kūstī,13.1667,32.6667,Sudan,345068.0
+211,East London,-33.0175,27.9047,South Africa,338627.0
+212,Randburg,-26.0936,28.0064,South Africa,337053.0
+213,Az Zaqāzīq,30.5667,31.5,Egypt,302840.0
+214,Nazrēt,8.5414,39.2689,Ethiopia,324000.0
+215,Al Fayyūm,29.3084,30.8441,Egypt,315940.0
+216,Blida,36.4722,2.8333,Algeria,331779.0
+217,Nakuru,-0.3,36.0667,Kenya,307990.0
+218,Lafia,8.5,8.5167,Nigeria,330712.0
+219,Taourirt,34.4169,-2.885,Morocco,321876.0
+220,Roodepoort,-26.1625,27.8725,South Africa,326416.0
+221,Minna,9.6139,6.5569,Nigeria,322163.0
+222,Gonder,12.6075,37.4592,Ethiopia,323900.0
+223,Kikuyu,-1.25,36.6667,Kenya,323881.0
+224,Mekele,13.4969,39.4769,Ethiopia,323700.0
+225,Temara,33.9267,-6.9122,Morocco,313510.0
+226,Uíge,-7.6167,15.05,Angola,322531.0
+227,Okene,7.55,6.2333,Nigeria,320260.0
+228,Menongue,-14.6556,17.6842,Angola,320914.0
+229,Katsina,12.9889,7.6008,Nigeria,318459.0
+230,Maroua,10.5971,14.3157,Cameroon,319941.0
+231,Safi,32.2833,-9.2333,Morocco,308508.0
+232,Mitchells Plain,-34.0506,18.6181,South Africa,310485.0
+233,Bor,6.2125,31.5608,South Sudan,315351.0
+234,Port Elizabeth,-33.9581,25.6,South Africa,312392.0
+235,Al ‘Ajamī,31.0959,29.7604,Egypt,300000.0
+236,Āwasa,7.05,38.4667,Ethiopia,300100.0
+237,Awka,6.2,7.0667,Nigeria,301657.0
+238,Curepipe,-20.3188,57.5263,Mauritius,299975.0
+239,Al Maţarīyah,31.1833,32.0333,Egypt,300000.0
+240,Ismailia,30.5833,32.2667,Egypt,293184.0
+241,Vila Teixeira da Silva,-12.0072,15.7792,Angola,294494.0
+242,Batna,35.55,6.1667,Algeria,290645.0
+243,Sekondi,4.9433,-1.704,Ghana,286248.0
+244,Sétif,36.19,5.41,Algeria,288461.0
+245,Ihosy,-22.4036,46.1258,Madagascar,283047.0
+246,Sumbe,-11.2053,13.8417,Angola,279968.0
+247,Sfax,34.74,10.76,Tunisia,272801.0
+248,Dire Dawa,9.6,41.8667,Ethiopia,277000.0
+249,Kafr ad Dawwār,31.1311,30.13,Egypt,262748.0
+250,Gabela,-10.85,14.3667,Angola,271843.0
+251,Nguru,12.8792,10.4525,Nigeria,270632.0
+252,Maradi,13.4833,7.1,Niger,267249.0
+253,Gombe,10.2904,11.17,Nigeria,270366.0
+254,Aswān,24.0889,32.8997,Egypt,267913.0
+255,Bimo,4.2558,18.4042,Central African Republic,267859.0
+256,Djelfa,34.6667,3.25,Algeria,265833.0
+257,Ed Daein,11.4608,26.1283,Sudan,264734.0
+258,Damanhūr,31.0361,30.4694,Egypt,244043.0
+259,El Fasher,13.6306,25.35,Sudan,263243.0
+260,Annaba,36.9,7.7667,Algeria,257359.0
+261,Boksburg,-26.2125,28.2625,South Africa,260321.0
+262,Singa,13.15,33.9333,Sudan,259000.0
+263,Mişrātah,32.3775,15.092,Libya,259056.0
+264,Ndulo,-11.4833,15.8333,Angola,258161.0
+265,Germiston,-26.2178,28.1672,South Africa,255863.0
+266,Antsirabe,-19.8667,47.0333,Madagascar,257163.0
+267,Ondo,7.0833,4.8333,Nigeria,257005.0
+268,Damaturu,11.7444,11.9611,Nigeria,255895.0
+269,Arua,3.0353,30.9108,Uganda,250000.0
+270,Godomè,6.3667,2.35,Benin,253262.0
+271,Moçâmedes,-15.1953,12.1508,Angola,255000.0
+272,El Geneina,13.45,22.45,Sudan,252744.0
+273,Bata,1.865,9.77,Equatorial Guinea,250770.0
+274,Al Minyā,28.1194,30.7444,Egypt,236043.0
+275,Iwo,7.6333,4.1833,Nigeria,250443.0
+276,Al Bayḑā’,32.7664,21.7417,Libya,250000.0
+277,Kurmuk,10.55,34.2833,Sudan,250000.0
+278,Banikoara,11.3,2.4333,Benin,248621.0
+279,Mahajanga,-15.7167,46.3167,Madagascar,246022.0
+280,Tanga,-5.0667,39.1,Tanzania,243580.0
+281,Bahir Dar,11.6,37.3833,Ethiopia,243300.0
+282,Sapele,5.8261,5.6536,Nigeria,242652.0
+283,Dagana,16.4833,-15.6,Senegal,241695.0
+284,Chimoio,-19.1167,33.45,Mozambique,238976.0
+285,Springs,-26.2547,28.4428,South Africa,236083.0
+286,Zinder,13.8053,8.9883,Niger,235605.0
+287,Centurion,-25.8603,28.1894,South Africa,236580.0
+288,Djougou,9.7,1.6667,Benin,237040.0
+289,Ganda,-13.0858,14.7417,Angola,235486.0
+290,Kasulu,-4.58,30.1,Tanzania,234452.0
+291,Bo,7.9564,-11.74,Sierra Leone,233684.0
+292,Mambéré,5.5,15.5,Central African Republic,233666.0
+293,Damboa,11.15,12.75,Nigeria,233500.0
+294,Khénifra,32.9394,-5.6675,Morocco,228567.0
+295,Apapa,6.45,3.3667,Nigeria,217362.0
+296,Sousse,35.8333,10.6333,Tunisia,221530.0
+297,Nyanza,-2.35,29.7333,Rwanda,225209.0
+298,Toamasina,-18.15,49.4167,Madagascar,225116.0
+299,Mutare,-18.9667,32.6333,Zimbabwe,224802.0
+300,Mubi,10.2604,13.2606,Nigeria,225705.0
+301,Sandton,-26.107,28.0517,South Africa,222415.0
+302,Ijebu-Ode,6.8208,3.9208,Nigeria,222653.0
+303,Mallawī,27.7333,30.8333,Egypt,212628.0
+304,Rufisque,14.7167,-17.2667,Senegal,221066.0
+305,Barra do Dande,-8.4728,13.3731,Angola,222528.0
+306,Guéckédou,8.5667,-10.1333,Guinea,221715.0
+307,Polokwane,-23.9,29.45,South Africa,220045.0
+308,Tchaourou,8.8833,2.6,Benin,221108.0
+309,Osisioma,5.1497,7.3303,Nigeria,219632.0
+310,Damietta,31.4167,31.8214,Egypt,206664.0
+311,Kafue,-15.7667,28.1833,Zambia,219000.0
+312,Laâyoune,27.1536,-13.2033,Morocco,217732.0
+313,Shashemenē,7.2,38.6,Ethiopia,208368.0
+314,Ar Ruseris,11.85,34.3833,Sudan,215857.0
+315,Mohammedia,33.6833,-7.3833,Morocco,208612.0
+316,Sikasso,11.3167,-5.6667,Mali,213977.0
+317,Sidi Bel Abbès,35.2,-0.6333,Algeria,212935.0
+318,Limbe,4.0167,9.2167,Cameroon,212474.0
+319,Kuje,8.8822,7.2203,Nigeria,212100.0
+320,Ashaiman,5.7,-0.0333,Ghana,208060.0
+321,Kasangati,0.4378,32.6025,Uganda,207800.0
+322,Burutu,5.35,5.5167,Nigeria,209666.0
+323,Sunyani,7.3333,-2.3333,Ghana,208496.0
+324,Qinā,26.1667,32.7167,Egypt,201191.0
+325,Morogoro,-6.8242,37.6633,Tanzania,207000.0
+326,Banī Suwayf,29.0667,31.0833,Egypt,193048.0
+327,Cidade de Nacala,-14.5428,40.6728,Mozambique,206449.0
+328,Parakou,9.35,2.6167,Benin,206667.0
+329,Biskra,34.85,5.7333,Algeria,204661.0
+330,Zanzibar,-6.165,39.199,Tanzania,205870.0
+331,Ziguinchor,12.5833,-16.2667,Senegal,205294.0
+332,Kukawa,12.9167,13.5667,Nigeria,203864.0
+333,Timayy al Imdīd,30.9438,31.5293,Egypt,201956.0
+334,Mazabuka,-15.8467,27.7475,Zambia,203219.0
+335,Luxor,25.6833,32.65,Egypt,202232.0
+336,Al Khums,32.6497,14.2644,Libya,201943.0
+337,El Jadid,33.2333,-8.5,Morocco,194934.0
+338,Mai’Adua,13.1906,8.2117,Nigeria,201178.0
+339,Néma,16.6167,-7.25,Mauritania,200000.0
+340,Soio,-6.1333,12.3667,Angola,200920.0
+341,Isanlu,8.1667,5.8,Nigeria,200000.0
+342,Az Zāwīyah,32.7522,12.7278,Libya,200000.0
+343,Kasama,-10.2117,31.1783,Zambia,200000.0
+344,Kouribga,32.8833,-6.9167,Morocco,196196.0
+345,Kankan,10.3833,-9.3,Guinea,198013.0
+346,Desē,11.1333,39.6333,Ethiopia,187900.0
+347,Béni Mellal,32.3394,-6.3608,Morocco,192676.0
+348,N’Zérékoré,7.75,-8.8167,Guinea,195027.0
+349,Eldoret,0.5167,35.2833,Kenya,193830.0
+350,Sūhāj,26.55,31.7,Egypt,193931.0
+351,Mbarara,-0.6133,30.6583,Uganda,195013.0
+352,Kenema,7.8758,-11.1908,Sierra Leone,188463.0
+353,Kajo Kaji,3.8492,31.6578,South Sudan,196000.0
+354,Sodo,6.855,37.7808,Ethiopia,194977.0
+355,Ārba Minch’,6.0333,37.55,Ethiopia,192043.0
+356,Tchitato,-7.345,20.8198,Angola,195136.0
+357,Malema,-14.9486,37.4144,Mozambique,195077.0
+358,Quelimane,-17.8764,36.8872,Mozambique,192876.0
+359,Tébessa,35.4,8.1167,Algeria,194461.0
+360,Fianarantsoa,-21.4536,47.0858,Madagascar,191776.0
+361,Chibia,-15.1833,13.7,Angola,190670.0
+362,Ngaoundéré,7.3167,13.5833,Cameroon,189800.0
+363,Klerksdorp,-26.8667,26.6667,South Africa,186515.0
+364,Gharyān,32.1697,13.0167,Libya,187854.0
+365,Ucu Seles,-11.4047,14.3006,Angola,187127.0
+366,Kairouan,35.6772,10.1008,Tunisia,186653.0
+367,Shendi,16.6833,33.4333,Sudan,186611.0
+368,Shibīn al Kawm,30.5586,31.01,Egypt,177112.0
+369,Ed Damazin,11.7667,34.35,Sudan,186051.0
+370,Jamaame,0.0667,42.75,Somalia,185270.0
+371,Yei,4.0904,30.68,South Sudan,185000.0
+372,Siguiri,11.4189,-9.1644,Guinea,183875.0
+373,Cuango,-9.1444,18.0464,Angola,183767.0
+374,Ongata Rongai,-1.4,36.77,Kenya,172570.0
+375,Epe,6.5573,3.9912,Nigeria,181409.0
+376,Jīma,7.6667,36.8333,Ethiopia,177900.0
+377,Kindia,10.0497,-12.8542,Guinea,181126.0
+378,Funtua,11.5204,7.32,Nigeria,180475.0
+379,Njeru,0.4311,33.1478,Uganda,178800.0
+380,Obuase,6.2,-1.6833,Ghana,180460.0
+381,Tiaret,35.3667,1.3167,Algeria,178915.0
+382,Hosa’ina,7.55,37.85,Ethiopia,179761.0
+383,Mongu,-15.2775,23.1319,Zambia,179585.0
+384,Al ‘Arīsh,31.1249,33.8006,Egypt,178651.0
+385,Bida,9.0804,6.01,Nigeria,173849.0
+386,Kandi,11.1286,2.9369,Benin,177683.0
+387,Dundo,-7.3801,20.8351,Angola,177604.0
+388,Bejaïa,36.7511,5.0642,Algeria,176139.0
+389,Loum,4.718,9.73,Cameroon,177429.0
+390,Kadugli,11.0167,29.7167,Sudan,176931.0
+391,Saint-Louis,16.0333,-16.5,Senegal,176000.0
+392,Biu,10.6111,12.195,Nigeria,176072.0
+393,Ait Melloul,30.3342,-9.4972,Morocco,171847.0
+394,Habaswein,1.01,39.49,Kenya,174134.0
+395,Catumbela,-12.4167,13.5333,Angola,175805.0
+396,Harar,9.3111,42.1278,Ethiopia,174994.0
+397,Banhā,30.4667,31.1833,Egypt,157701.0
+398,Tlemcen,34.8828,-1.3167,Algeria,173531.0
+399,Kaolack,14.1389,-16.0764,Senegal,172305.0
+400,Cape Coast,5.1,-1.25,Ghana,169894.0
+401,Cazanga,-9.3,14.95,Angola,171743.0
+402,Makurdi,7.7306,8.5361,Nigeria,170925.0
+403,Bordj Bou Arreridj,36.0667,4.7667,Algeria,168346.0
+404,Aplahoué,6.9333,1.6833,Benin,170069.0
+405,Métouia,33.9667,10.0,Tunisia,170000.0
+406,Magwe,4.1333,32.3,South Sudan,169826.0
+407,Al Marj,32.5005,20.83,Libya,169540.0
+408,Caluquembe,-13.9208,14.5347,Angola,169420.0
+409,Toliara,-23.35,43.6667,Madagascar,168756.0
+410,Kalalé,10.2953,3.3786,Benin,168882.0
+411,Malanville,11.8667,3.3833,Benin,168006.0
+412,Catape,-13.7667,15.0833,Angola,167820.0
+413,Mukono,0.3533,32.7553,Uganda,161996.0
+414,Tabora,-5.0167,32.8,Tanzania,160608.0
+415,Skikda,36.8667,6.9,Algeria,163318.0
+416,Béchar,31.6333,-2.2,Algeria,165627.0
+417,Nador,35.1667,-2.9333,Morocco,161726.0
+418,Ebo,-11.0,14.6667,Angola,165129.0
+419,Bocoio,-12.4667,14.1333,Angola,164685.0
+420,Tema,5.6667,-0.0167,Ghana,161612.0
+421,Quibala,-10.7333,14.9833,Angola,163991.0
+422,Wau,7.7,28.0,South Sudan,163442.0
+423,Kebili,33.705,8.965,Tunisia,163257.0
+424,Bhisho,-32.8494,27.4381,South Africa,160997.0
+425,Benoni,-26.1883,28.3206,South Africa,158777.0
+426,Al Ghardaqah,27.2578,33.8117,Egypt,160901.0
+427,Ndalatando,-9.3,14.9167,Angola,161584.0
+428,Koudougou,12.25,-2.3667,Burkina Faso,160207.0
+429,Ede,7.7389,4.4361,Nigeria,159866.0
+430,Jijiga,9.35,42.8,Ethiopia,159300.0
+431,George,-33.9667,22.45,South Africa,157394.0
+432,Quipungo,-14.8167,14.5167,Angola,158918.0
+433,Molo,-0.25,35.7333,Kenya,156732.0
+434,Bariadi,-2.7919,33.9894,Tanzania,155620.0
+435,El Eulma,36.1528,5.69,Algeria,155038.0
+436,Chlef,36.1647,1.3317,Algeria,155134.0
+437,Kétou,7.3581,2.6075,Benin,156497.0
+438,Kisi,9.0833,3.85,Nigeria,155510.0
+439,Gulu,2.7817,32.2992,Uganda,152276.0
+440,Souk Ahras,36.2864,7.9511,Algeria,155259.0
+441,Middelburg,-25.7684,29.4783,South Africa,154706.0
+442,Zango,12.9333,8.5333,Nigeria,154743.0
+443,Sasolburg,-26.8142,27.8286,South Africa,153038.0
+444,Kafr ash Shaykh,31.1117,30.9458,Egypt,147393.0
+445,Kitenkela,-1.5167,36.85,Kenya,154436.0
+446,Madīnat as Sādis min Uktūbar,29.9361,30.9269,Egypt,154093.0
+447,Lucapa,-8.4228,20.7393,Angola,154305.0
+448,Tete,-16.1667,33.6,Mozambique,152909.0
+449,Iringa,-7.77,35.69,Tanzania,151345.0
+450,Dutse,11.8283,9.3158,Nigeria,153000.0
+451,Kiambu,-1.1667,36.8167,Kenya,147870.0
+452,Singida,-4.8167,34.75,Tanzania,150379.0
+453,Dīla,6.4083,38.3083,Ethiopia,151682.0
+454,Bohicon,7.2,2.0667,Benin,149271.0
+455,Ramu,3.9375,41.2203,Kenya,143850.0
+456,Taza,34.2167,-4.0167,Morocco,148456.0
+457,Nek’emtē,9.0833,36.55,Ethiopia,148613.0
+458,Al Manāqil,14.25,32.9833,Sudan,151827.0
+459,Tororo,0.6928,34.1811,Uganda,150000.0
+460,Mzuzu,-11.4581,34.0151,Malawi,150100.0
+461,Vryheid,-27.7669,30.8,South Africa,150012.0
+462,M’Sila,35.7058,4.5419,Algeria,150000.0
+463,Sumbawanga,-7.9667,31.6167,Tanzania,147483.0
+464,Auchi,7.0667,6.2667,Nigeria,150000.0
+465,Kashikishi,-9.3,28.7167,Zambia,150000.0
+466,Potchefstroom,-26.715,27.1033,South Africa,148804.0
+467,Chingola,-12.5333,27.85,Zambia,147448.0
+468,Mostaganem,35.9333,0.0833,Algeria,145696.0
+469,Pemba,-12.9667,40.55,Mozambique,141316.0
+470,Disūq,31.1422,30.645,Egypt,143404.0
+471,Mbanza Kongo,-6.2667,14.25,Angola,148000.0
+472,Nchelenge,-9.3533,28.7403,Zambia,147927.0
+473,Malakal,9.55,31.65,South Sudan,147450.0
+474,Moshi,-3.3349,37.3404,Tanzania,144739.0
+475,Maquela do Zombo,-6.05,15.1167,Angola,146908.0
+476,Keren,15.7778,38.4581,Eritrea,146500.0
+477,Barrechid,33.2667,-7.5833,Morocco,136634.0
+478,Settat,33.0,-7.6167,Morocco,142250.0
+479,Gisenyi,-1.7,29.25,Rwanda,136830.0
+480,Kumba,4.6333,9.45,Cameroon,144268.0
+481,Bizerte,37.2778,9.8639,Tunisia,142966.0
+482,Debre Birhan,9.6833,39.5333,Ethiopia,139724.0
+483,Bilbays,30.4167,31.5667,Egypt,141285.0
+484,Sannār,13.55,33.5833,Sudan,143059.0
+485,Lichinga,-13.3167,35.2333,Mozambique,142253.0
+486,Moundou,8.5667,16.0833,Chad,142462.0
+487,Gweru,-19.4614,29.8022,Zimbabwe,141260.0
+488,Namacunde,-17.3,15.85,Angola,142047.0
+489,Inezgane,30.3658,-9.5381,Morocco,130333.0
+490,Krugersdorp,-26.1,27.7667,South Africa,140643.0
+491,Médéa,36.2675,2.75,Algeria,138355.0
+492,Medina Estates,5.6833,-0.1667,Ghana,137162.0
+493,Kombolcha,11.0867,39.7367,Ethiopia,125654.0
+494,Atbara,17.6972,33.9783,Sudan,139768.0
+495,Al Khmissat,33.8167,-6.0667,Morocco,131542.0
+496,Umtata,-31.58,28.79,South Africa,137772.0
+497,Bukoba,-1.3333,31.8167,Tanzania,128796.0
+498,Lira,2.2472,32.9,Uganda,135445.0
+499,Negage,-7.7667,15.2667,Angola,137559.0
+500,Kigoma,-4.8833,29.6333,Tanzania,135234.0
+501,Livingstone,-17.85,25.8667,Zambia,136897.0
+502,Porto Amboim,-10.7183,13.75,Angola,137000.0
+503,Igboho,8.8333,3.75,Nigeria,136772.0
+504,Quimbele,-6.5167,16.2167,Angola,136496.0
+505,Port-Gentil,-0.7167,8.7833,Gabon,136462.0
+506,Debre Mark’os,10.3333,37.7167,Ethiopia,133810.0
+507,Tizi Ouzou,36.7169,4.0497,Algeria,135088.0
+508,Ksar El Kebir,35.009,-5.9,Morocco,126617.0
+509,Tobruk,32.0761,23.9614,Libya,135832.0
+510,Sukrah,36.8833,10.25,Tunisia,129693.0
+511,Ipetumodu,7.507,4.4447,Nigeria,135000.0
+512,Djakotomé,6.9,1.7167,Benin,134704.0
+513,El Oued,33.3683,6.8675,Algeria,134699.0
+514,Laghouat,33.8,2.865,Algeria,134372.0
+515,Londuimbali,-12.2186,15.285,Angola,134254.0
+516,Luuq,3.6981,42.5972,Somalia,134000.0
+517,Idfū,24.9778,32.8733,Egypt,133772.0
+518,Ségou,13.45,-6.2667,Mali,133501.0
+519,Jijel,36.8206,5.7667,Algeria,131513.0
+520,Ferfer,5.0833,45.0833,Ethiopia,133521.0
+521,Bibémi,9.3167,13.8833,Cameroon,133191.0
+522,Ouargla,31.95,5.3167,Algeria,133024.0
+523,Zagnanado,7.2667,2.35,Benin,132401.0
+524,Āwarē,8.2667,44.15,Ethiopia,132149.0
+525,Chicomba,-14.1333,14.9167,Angola,131807.0
+526,Buea,4.1667,9.2333,Cameroon,131325.0
+527,Relizane,35.7372,0.5558,Algeria,130094.0
+528,Antsiranana,-12.3,49.2833,Madagascar,129320.0
+529,Bassila,9.0167,1.6667,Benin,130770.0
+530,Saïda,34.8303,0.1517,Algeria,128413.0
+531,Mīt Ghamr,30.7167,31.25,Egypt,121039.0
+532,Kibaha,-6.7667,38.9167,Tanzania,128488.0
+533,Chinguar,-12.55,16.3333,Angola,129370.0
+534,Mansa,-11.2,28.8833,Zambia,129185.0
+535,Koidu,8.6439,-10.9717,Sierra Leone,124662.0
+536,Koforidua,6.0833,-0.25,Ghana,127334.0
+537,Avrankou,6.55,2.6667,Benin,128050.0
+538,Missérété,6.5625,2.5853,Benin,127249.0
+539,Tukuyu,-9.25,33.65,Tanzania,127570.0
+540,Sinnūris,29.4072,30.8667,Egypt,125905.0
+541,Darnah,32.7667,22.6333,Libya,127974.0
+542,Allada,6.65,2.15,Benin,127512.0
+543,Rosetta,31.4044,30.4164,Egypt,125778.0
+544,Larache,35.1833,-6.15,Morocco,125008.0
+545,Catabola,-12.1167,17.3,Angola,126631.0
+546,Suhum,6.0333,-0.45,Ghana,126403.0
+547,Hoima,1.4319,31.3525,Uganda,122700.0
+548,Gashua,12.8681,11.0464,Nigeria,125817.0
+549,Kumbo,6.2,10.66,Cameroon,125486.0
+550,Jirjā,26.3333,31.9,Egypt,102597.0
+551,Jilib,0.5,42.7667,Somalia,125000.0
+552,Ouahigouya,13.5833,-2.4167,Burkina Faso,124580.0
+553,Glazoué,7.9736,2.24,Benin,124431.0
+554,Bimbo,4.3313,18.5163,Central African Republic,124176.0
+555,Malindi,-3.2236,40.13,Kenya,119859.0
+556,Pobé,6.9667,2.6833,Benin,123740.0
+557,Debre Tabor,11.85,38.0167,Ethiopia,119176.0
+558,Djidja,7.3333,1.9333,Benin,123542.0
+559,Munūf,30.4658,30.9308,Egypt,117240.0
+560,Kilifi,-3.6333,39.85,Kenya,122899.0
+561,Kaya,13.0833,-1.0833,Burkina Faso,122949.0
+562,Alberton,-26.2672,28.1219,South Africa,121536.0
+563,Brits,-25.6344,27.7811,South Africa,122497.0
+564,Ed Damer,17.59,33.96,Sudan,122944.0
+565,Guelma,36.4619,7.4258,Algeria,120004.0
+566,Mufulira,-12.5356,28.2419,Zambia,122336.0
+567,Edéa,3.8,10.1333,Cameroon,122300.0
+568,Fāqūs,30.7282,31.797,Egypt,111532.0
+569,Ondjiva,-17.0667,15.7333,Angola,121537.0
+570,Upington,-28.4572,21.2425,South Africa,121189.0
+571,Guelmim,28.9833,-10.0667,Morocco,118318.0
+572,Unwana,5.8625,7.9486,Nigeria,120000.0
+573,Vihiga,0.05,34.725,Kenya,118696.0
+574,Catchiungo,-12.7864,16.3233,Angola,120677.0
+575,Ilobu,7.84,4.486,Nigeria,118097.0
+576,Lalo,6.9167,1.8833,Benin,119926.0
+577,Ghardaïa,32.4833,3.6667,Algeria,120000.0
+578,Ādīgrat,14.2667,39.45,Ethiopia,116193.0
+579,Nouadhibou,20.9333,-17.0333,Mauritania,118000.0
+580,Aw Dheegle,1.9667,44.8333,Somalia,119000.0
+581,Gabès,33.8833,10.1167,Tunisia,116323.0
+582,Bwana Mkubwa,-12.9833,28.7,Zambia,118464.0
+583,Giyon,8.5333,37.9667,Ethiopia,114534.0
+584,Aïn Beïda,35.7964,7.3928,Algeria,116064.0
+585,Bama,11.5189,13.6842,Nigeria,118121.0
+586,Kabwe,-14.4333,28.45,Zambia,117517.0
+587,Tahoua,14.8903,5.2642,Niger,117826.0
+588,Gogounou,10.8386,2.8361,Benin,117793.0
+589,Agadez,16.9959,7.9828,Niger,117770.0
+590,Luanshya,-13.1333,28.4,Zambia,117579.0
+591,Machakos,-1.5167,37.2667,Kenya,114109.0
+592,Xai-Xai,-25.05,33.65,Mozambique,116343.0
+593,Banfora,10.6308,-4.7589,Burkina Faso,117200.0
+594,Nkongsamba,4.95,9.9333,Cameroon,117063.0
+595,Cassongue,-11.8333,15.0,Angola,117000.0
+596,Berkane,34.9167,-2.3167,Morocco,109237.0
+597,Kasese,0.1867,30.0881,Uganda,115400.0
+598,Lugazi,0.3833,32.9242,Uganda,114163.0
+599,Boké,10.94,-14.3,Guinea,116270.0
+600,Adjaouèrè,7.0,2.6167,Benin,115953.0
+601,Sabhā,27.0389,14.4264,Libya,116016.0
+602,Ariana,36.8625,10.1956,Tunisia,114486.0
+603,Sakiet ed Daier,34.8,10.78,Tunisia,113776.0
+604,Ambovombe,-25.1764,46.0833,Madagascar,114230.0
+605,Sakété,6.7364,2.6581,Benin,114207.0
+606,Ifanhim,6.6667,2.7167,Benin,113749.0
+607,Āsela,7.95,39.1167,Ethiopia,110088.0
+608,Matéri,10.6978,1.0633,Benin,113958.0
+609,Quilengues,-14.0814,14.0764,Angola,113825.0
+610,Paarl,-33.7242,18.9558,South Africa,112045.0
+611,Ndali,9.8608,2.7181,Benin,113604.0
+612,Mungo,-11.6667,16.1667,Angola,113417.0
+613,Arafat,18.0464,-15.9719,Mauritania,102169.0
+614,Jendouba,36.5,8.7833,Tunisia,113116.0
+615,Mopti,14.49,-4.18,Mali,108456.0
+616,Sokodé,8.9833,1.1333,Togo,113000.0
+617,Khenchela,35.4167,7.1333,Algeria,108580.0
+618,Bou Saâda,35.2083,4.1739,Algeria,111787.0
+619,Dassa-Zoumé,7.75,2.1833,Benin,112118.0
+620,Kouandé,10.3317,1.6914,Benin,112014.0
+621,Nsukka,6.8567,7.3958,Nigeria,111017.0
+622,Qalyūb,30.1997,31.2053,Egypt,106804.0
+623,Sabara Bangou,15.1177,1.996,Niger,111490.0
+624,Jawhar,2.7833,45.5,Somalia,111308.0
+625,Gafsa,34.4167,8.7833,Tunisia,111170.0
+626,Nkpor,6.15,6.8333,Nigeria,109377.0
+627,Kintampo,8.0522,-1.7347,Ghana,111000.0
+628,Shinyanga,-3.6619,33.4231,Tanzania,107362.0
+629,Masindi,1.6836,31.7222,Uganda,110500.0
+630,Kiffa,16.63,-11.4,Mauritania,110714.0
+631,Franceville,-1.6333,13.5833,Gabon,110568.0
+632,Mascara,35.4,0.1333,Algeria,108587.0
+633,Msaken,35.7333,10.5833,Tunisia,110000.0
+634,Itele,6.7667,4.0625,Nigeria,110196.0
+635,Labé,11.3167,-12.2833,Guinea,107695.0
+636,Al Fqih Ben Çalah,32.5,-6.5333,Morocco,102019.0
+637,Uitenhage,-33.75,25.4,South Africa,103639.0
+638,K’ebrī Dehar,6.7333,44.2667,Ethiopia,109571.0
+639,Medenine,33.3547,10.5053,Tunisia,109409.0
+640,Kasserine,35.1667,8.8333,Tunisia,108794.0
+641,Béja,36.7333,9.1833,Tunisia,109299.0
+642,Witbank,-25.877,29.201,South Africa,108673.0
+643,Maxixe,-23.8667,35.35,Mozambique,108824.0
+644,Balombo,-12.35,14.7667,Angola,108965.0
+645,Maţrūḩ,31.35,27.2333,Egypt,108774.0
+646,Birnin Kebbi,12.4504,4.1999,Nigeria,108164.0
+647,Khemis Sahel,35.25,-6.0833,Morocco,107371.0
+648,Sarh,9.15,18.3833,Chad,108061.0
+649,An Nuhūd,12.7,28.4333,Sudan,108008.0
+650,Baía Farta,-12.6128,13.1987,Angola,107841.0
+651,Queenstown,-31.9,26.8833,South Africa,105309.0
+652,Musoma,-1.5,33.8,Tanzania,103497.0
+653,Wa,10.0667,-2.5,Ghana,107214.0
+654,Idkū,31.3,30.3,Egypt,105875.0
+655,Banté,8.4167,1.8833,Benin,106945.0
+656,Monastir,35.7694,10.8194,Tunisia,104535.0
+657,Ad Dakhla,23.7081,-15.9456,Morocco,106277.0
+658,Mmabatho,-25.85,25.6333,South Africa,104428.0
+659,Lokossa,6.6333,1.7167,Benin,106081.0
+660,Akhmīm,26.5667,31.75,Egypt,101509.0
+661,Atebubu,7.75,-0.9833,Ghana,105938.0
+662,Azare,11.6742,10.1911,Nigeria,105687.0
+663,Koutiala,12.3833,-5.4667,Mali,104927.0
+664,Mityana,0.4006,32.0422,Uganda,105200.0
+665,Kroonstad,-27.6456,27.2317,South Africa,103992.0
+666,Ndjamba,-14.7,16.0667,Angola,105090.0
+667,Ngong,-1.3667,36.6333,Kenya,102323.0
+668,Masaka,-0.3411,31.7361,Uganda,103829.0
+669,Francistown,-21.1736,27.5125,Botswana,103417.0
+670,Techiman,7.5772,-1.9292,Ghana,104212.0
+671,Mubende,0.5575,31.395,Uganda,103473.0
+672,Natitingou,10.3,1.3667,Benin,104010.0
+673,Thika,-1.0396,37.09,Kenya,99322.0
+674,Zomba,-15.3833,35.3333,Malawi,101140.0
+675,Songea,-10.6833,35.65,Tanzania,99961.0
+676,Bouskoura,33.4489,-7.6486,Morocco,103026.0
+677,Nyeri,-0.4167,36.95,Kenya,98908.0
+678,Messaad,34.1542,3.4969,Algeria,102453.0
+679,Mumias,0.3333,34.4833,Kenya,99987.0
+680,Bethal,-26.45,29.45,South Africa,101919.0
+681,Şabrātah,32.7922,12.4842,Libya,102038.0
+682,Tota,6.8,1.7833,Benin,101870.0
+683,Al Jumayl,32.8528,12.0611,Libya,102000.0
+684,Oued Zem,32.8667,-6.5667,Morocco,95267.0
+685,Aïn Oussera,35.4489,2.9044,Algeria,101239.0
+686,Kousséri,12.0833,15.0333,Cameroon,101246.0
+687,Radès,36.7667,10.2833,Tunisia,97588.0
+688,Hāgere Hiywet,8.9833,37.85,Ethiopia,94342.0
+689,Oum el Bouaghi,35.8706,7.115,Algeria,100821.0
+690,Mporokoso,-9.3833,30.1,Zambia,100993.0
+691,New Kru Town,6.3733,-10.7928,Liberia,84399.0
+692,Kpalimé,6.9,0.6333,Togo,100479.0
+693,Leer,8.2979,30.1475,South Sudan,100722.0
+694,Diourbel,14.655,-16.2314,Senegal,100445.0
+695,Geita,-2.8714,32.2294,Tanzania,99795.0
+696,Chipata,-13.6453,32.6464,Zambia,98416.0
+697,Sidi Slimane,34.26,-5.92,Morocco,92989.0
+698,La Marsa,36.8764,10.3253,Tunisia,92987.0
+699,Ziftá,30.7142,31.2443,Egypt,93740.0
+700,Kakamega,0.2822,34.754,Kenya,91778.0
+701,Guercif,34.2333,-3.3667,Morocco,90880.0
+702,Errachidia,31.9319,-4.4244,Morocco,92374.0
+703,Tataouine,32.9306,10.45,Tunisia,95775.0
+704,Wajir,1.75,40.05,Kenya,90116.0
+705,Al Badrashayn,29.852,31.276,Egypt,90000.0
+706,Mtwara,-10.2736,40.1828,Tanzania,92602.0
+707,Ţalkhā,31.0547,31.3756,Egypt,92084.0
+708,Ben Arous,36.7472,10.3333,Tunisia,88322.0
+709,Ben Guerir,32.23,-7.95,Morocco,88626.0
+710,Makeni,8.8817,-12.0442,Sierra Leone,87679.0
+711,Oulad Teïma,30.4,-9.2167,Morocco,89387.0
+712,Masvingo,-20.0744,30.8328,Zimbabwe,90286.0
+713,Ouidah,6.3667,2.0833,Benin,91688.0
+714,Solwezi,-12.1433,26.3858,Zambia,90856.0
+715,Abomey,7.1856,1.9881,Benin,90195.0
+716,Wakiso,0.3981,32.4781,Uganda,87900.0
+717,Bertoua,4.5833,13.6833,Cameroon,88462.0
+718,Antehiroka,-18.85,47.4833,Madagascar,80360.0
+719,Ébolowa,2.9167,11.15,Cameroon,87875.0
+720,Mpanda,-6.35,31.0667,Tanzania,81540.0
+721,El Bayadh,33.6831,1.0192,Algeria,85577.0
+722,Xuddur,4.12,43.8878,Somalia,85500.0
+723,Manfalūţ,27.3167,30.9667,Egypt,82585.0
+724,Louga,15.6167,-16.2167,Senegal,85075.0
+725,Atakpamé,7.5269,1.1267,Togo,84979.0
+726,Dar el Beïda,36.7142,3.2125,Algeria,81509.0
+727,Ho,6.6119,0.4703,Ghana,83715.0
+728,Le Bardo,36.8092,10.1406,Tunisia,73953.0
+729,Kayes,14.45,-11.4167,Mali,77207.0
+730,Al Khānkah,30.1601,31.3133,Egypt,78185.0
+731,Owendo,0.2833,9.5,Gabon,79300.0
+732,Handeni,-5.4242,38.0194,Tanzania,79056.0
+733,Banī Mazār,28.5,30.8,Egypt,79553.0
+734,Le Kram,36.8333,10.3167,Tunisia,74132.0
+735,Dome,5.655,-0.235,Ghana,78785.0
+736,Zuwārah,32.9333,12.0833,Libya,80310.0
+737,Quatre Bornes,-20.2654,57.4791,Mauritius,77308.0
+738,Fnidq,35.85,-5.35,Morocco,77436.0
+739,Sidi Qacem,34.2167,-5.7,Morocco,75672.0
+740,Kirdāsah,30.032,31.1104,Egypt,69317.0
+741,Mahdia,35.5,11.0667,Tunisia,79545.0
+742,Garissa,-0.4569,39.6583,Kenya,65881.0
+743,Kafr az Zayyāt,30.8247,30.8153,Egypt,76413.0
+744,Tambacounda,13.7689,-13.6672,Senegal,78800.0
+745,Faranah,10.0333,-10.7333,Guinea,78108.0
+746,Moulay Abdallah,33.1978,-8.5883,Morocco,74671.0
+747,Maghāghah,28.65,30.85,Egypt,75657.0
+748,Kuacjok,8.31,27.99,South Sudan,78111.0
+749,Caxito,-8.58,13.6642,Angola,77276.0
+750,Berbérati,4.2614,15.7894,Central African Republic,76918.0
+751,Fouchana,36.7,10.1667,Tunisia,74868.0
+752,Surt,31.205,16.5886,Libya,76788.0
+753,Abéché,13.8331,20.8347,Chad,76492.0
+754,Aïn Temouchent,35.3044,-1.14,Algeria,75558.0
+755,Nandi Hills,0.1003,35.1764,Kenya,73626.0
+756,Jinja,0.4233,33.2039,Uganda,72931.0
+757,Tamanrasset,22.785,5.5228,Algeria,76000.0
+758,Arta,11.5236,42.8472,Djibouti,75654.0
+759,Tafo,6.7358,-1.6081,Ghana,60919.0
+760,Tissemsilt,35.6072,1.8106,Algeria,75197.0
+761,Teyateyaneng,-29.1511,27.7425,Lesotho,75115.0
+762,Assab,13.0167,42.7333,Eritrea,74405.0
+763,Nabeul,36.4542,10.7347,Tunisia,73128.0
+764,El Kef,36.1822,8.7147,Tunisia,73706.0
+765,‘Izbat al Burj,31.5031,31.8411,Egypt,70000.0
+766,Salima,-13.7833,34.4333,Malawi,71181.0
+767,Busia,0.4669,34.09,Uganda,64900.0
+768,Kamuli,0.945,33.125,Uganda,67800.0
+769,Fada Ngourma,12.05,0.3667,Burkina Faso,73200.0
+770,Al Qūşīyah,27.4143,30.8216,Egypt,69388.0
+771,Kireka,0.3467,32.5,Uganda,69000.0
+772,Youssoufia,32.25,-8.5333,Morocco,67628.0
+773,Mindelo,16.886,-24.988,Cabo Verde,70468.0
+774,Abnūb,27.2667,31.15,Egypt,67526.0
+775,Āksum,14.1208,38.7278,Ethiopia,66800.0
+776,Aïn Harrouda,33.6372,-7.4483,Morocco,62420.0
+777,Ţūkh,30.3539,31.2007,Egypt,67599.0
+778,Kati,12.7504,-8.08,Mali,66895.0
+779,Bouira,36.38,3.9014,Algeria,68545.0
+780,Hihyā,30.6687,31.5904,Egypt,66702.0
+781,Al Minshāh,26.4833,31.8,Egypt,65484.0
+782,Adrar,27.8742,-0.2939,Algeria,68276.0
+783,Al Qurayn,30.6161,31.7353,Egypt,64453.0
+784,Apac,1.985,32.535,Uganda,67700.0
+785,Molepolole,-24.4067,25.495,Botswana,67598.0
+786,Bolgatanga,10.7833,-0.85,Ghana,66685.0
+787,Martil,35.6167,-5.2667,Morocco,64355.0
+788,Nālūt,31.8685,10.9812,Libya,66609.0
+789,Goz-Beida,12.2236,21.4144,Chad,66107.0
+790,Daljā,27.65,30.7,Egypt,63751.0
+791,Rundu,-17.9167,19.7667,Namibia,63431.0
+792,Kitale,1.0167,35.0,Kenya,63245.0
+793,Karonga,-9.9333,33.9333,Malawi,61609.0
+794,Soroti,1.715,33.6111,Uganda,60900.0
+795,Ouezzane,34.8,-5.5833,Morocco,59606.0
+796,Manouba,36.8078,10.1011,Tunisia,58792.0
+797,Inhambane,-23.865,35.3833,Mozambique,63837.0
+798,Dédougou,12.4667,-3.4667,Burkina Faso,63617.0
+799,Andoharanofotsy,-18.975,47.5333,Madagascar,58878.0
+800,Nkhotakota,-12.9167,34.3,Malawi,59854.0
+801,Beledweyne,4.7358,45.2036,Somalia,62945.0
+802,Dar Naim,18.0333,-15.9667,Mauritania,61089.0
+803,Iganga,0.615,33.485,Uganda,53870.0
+804,Fort Portal,0.6544,30.2744,Uganda,60800.0
+805,Kolda,12.8833,-14.95,Senegal,62258.0
+806,Aş Şaff,29.5772,31.2906,Egypt,59348.0
+807,Ruhengeri,-1.5,29.6333,Rwanda,59333.0
+808,Sidi Bennour,32.65,-8.4333,Morocco,55815.0
+809,Antsinanantsena,-18.8333,47.55,Madagascar,57363.0
+810,Oyem,1.6,11.5667,Gabon,60685.0
+811,Lokoja,7.8019,6.7442,Nigeria,60579.0
+812,Bungoma,0.5667,34.5667,Kenya,55857.0
+813,Sidi Yahya Zaer,33.7105,-6.8831,Morocco,57790.0
+814,Midalt,32.68,-4.73,Morocco,55304.0
+815,Azrou,33.4417,-5.2247,Morocco,54350.0
+816,Samannūd,30.9622,31.2425,Egypt,57177.0
+817,Kasungu,-13.0333,33.4833,Malawi,58653.0
+818,Al Hoceïma,35.2472,-3.9322,Morocco,56716.0
+819,Tenkodogo,11.7833,-0.3667,Burkina Faso,58600.0
+820,Dosso,13.05,3.2,Niger,58671.0
+821,Boudouaou,36.73,3.41,Algeria,56398.0
+822,Kitgum,3.2889,32.8778,Uganda,56891.0
+823,Dapaong,10.8667,0.2,Togo,58071.0
+824,Mafeteng,-29.8167,27.25,Lesotho,57059.0
+825,Chinhoyi,-17.3497,30.1944,Zimbabwe,56794.0
+826,My Drarga,30.38,-9.48,Morocco,50946.0
+827,Maun,-19.9833,23.4167,Botswana,57067.0
+828,Wote,-1.7833,37.6333,Kenya,56419.0
+829,Abū Qīr,31.3167,30.0667,Egypt,37997.0
+830,Zouerate,22.7333,-12.4667,Mauritania,56345.0
+831,Tanjombato,-18.95,47.5167,Madagascar,50373.0
+832,Al Karnak,25.7186,32.6586,Egypt,26488.0
+833,Kyaliwajjala,0.38,32.6467,Uganda,50000.0
+834,Chake Chake,-5.2395,39.77,Tanzania,49959.0
+835,Gao,16.2667,-0.05,Mali,49483.0
+836,Ampitatafika,-18.9333,47.475,Madagascar,50373.0
+837,Kabale,-1.25,29.99,Uganda,53200.0
+838,Marondera,-18.1897,31.5467,Zimbabwe,52283.0
+839,Boujad,32.7667,-6.4,Morocco,46893.0
+840,Ain El Aouda,33.8111,-6.7922,Morocco,49816.0
+841,Mangochi,-14.4667,35.2667,Malawi,51429.0
+842,Choma,-16.7711,26.9922,Zambia,51842.0
+843,Ksar Hellal,35.6429,10.8911,Tunisia,49376.0
+844,Edenvale,-26.1411,28.1528,South Africa,49292.0
+845,Qasbat Tadla,32.6,-6.2667,Morocco,47343.0
+846,Rosso,16.5128,-15.805,Mauritania,51026.0
+847,Beni Yakhlef,33.6555,-7.3221,Morocco,48338.0
+848,La Goulette,36.8181,10.305,Tunisia,45711.0
+849,Azemmour,33.2878,-8.3422,Morocco,40920.0
+850,Luwero,0.8331,32.4994,Uganda,49100.0
+851,Selibe Phikwe,-21.9758,27.84,Botswana,49724.0
+852,Al Balyanā,26.2333,32.0,Egypt,46997.0
+853,Al Khārjah,25.44,30.55,Egypt,49991.0
+854,Semera,11.7922,41.0086,Ethiopia,50000.0
+855,Yumbe,3.465,31.245,Uganda,47600.0
+856,Mpigi,0.23,32.33,Uganda,49500.0
+857,Kaédi,16.1506,-13.5056,Mauritania,49152.0
+858,Kita,13.0504,-9.4833,Mali,46435.0
+859,Serowe,-22.3833,26.7167,Botswana,48573.0
+860,Bindura,-17.3,31.3333,Zimbabwe,46275.0
+861,Isiolo,0.35,37.5833,Kenya,45989.0
+862,Faya,17.9169,19.1167,Chad,48090.0
+863,Kanye,-24.9833,25.35,Botswana,48028.0
+864,Leribe,-28.8734,28.0416,Lesotho,47675.0
+865,Njombe,-9.3333,34.7667,Tanzania,46724.0
+866,Ksar,18.1022,-15.955,Mauritania,43531.0
+867,Al ‘Ayyāţ,29.6167,31.25,Egypt,44171.0
+868,Hammam-Lif,36.7333,10.3333,Tunisia,42518.0
+869,Naj‘ Ḩammādī,26.05,32.25,Egypt,45038.0
+870,Lindi,-9.9969,39.7144,Tanzania,41549.0
+871,Al Badārī,26.9925,31.4156,Egypt,42770.0
+872,Mrirt,33.1667,-5.5667,Morocco,42730.0
+873,Aweil,8.78,27.4,South Sudan,46705.0
+874,Dori,14.03,-0.03,Burkina Faso,46521.0
+875,Hammam Sousse,35.8589,10.5939,Tunisia,42691.0
+876,Farim,12.4833,-15.2167,Guinea-Bissau,46268.0
+877,Kafr al Kurdī,31.1429,31.7826,Egypt,42651.0
+878,Gbarnga,6.998,-9.473,Liberia,45835.0
+879,Jerada,34.3117,-2.1636,Morocco,43506.0
+880,Yambio,4.565,28.375,South Sudan,45685.0
+881,Tindouf,27.6753,-8.1286,Algeria,45610.0
+882,Ādwa,14.1667,38.9,Ethiopia,40500.0
+883,Port Loko,8.7667,-12.7875,Sierra Leone,44900.0
+884,Mochudi,-24.4167,26.15,Botswana,44815.0
+885,El Aïoun,34.5852,-2.5056,Morocco,41832.0
+886,Boumerdes,36.7603,3.4724,Algeria,41685.0
+887,Iten,0.6731,35.5083,Kenya,42312.0
+888,Bushenyi,-0.5417,30.1878,Uganda,43700.0
+889,Temsia,30.36,-9.414,Morocco,40780.0
+890,Gambēla,8.25,34.5833,Ethiopia,39022.0
+891,Murzuq,25.9,13.9,Libya,43732.0
+892,Koboko,3.41,30.96,Uganda,37825.0
+893,Pallisa,1.1675,33.71,Uganda,42300.0
+894,Aziylal,31.9669,-6.5694,Morocco,38520.0
+895,Kwīhā,13.4769,39.545,Ethiopia,12543.0
+896,Garbahaarrey,3.35,42.2667,Somalia,43000.0
+897,Quinhámel,11.8833,-15.85,Guinea-Bissau,42659.0
+898,Dayr Mawās,27.6333,30.85,Egypt,40640.0
+899,Ait Ourir,31.5644,-7.6628,Morocco,39108.0
+900,Bambari,5.7653,20.6742,Central African Republic,41356.0
+901,Zagora,30.3306,-5.8381,Morocco,40067.0
+902,Nebbi,2.4792,31.09,Uganda,41400.0
+903,Kahama,-3.8375,32.6,Tanzania,36014.0
+904,Embu,-0.5389,37.4583,Kenya,41092.0
+905,Biougra,30.2144,-9.3708,Morocco,37933.0
+906,Nola,3.5333,16.0667,Central African Republic,41462.0
+907,Ngozi,-2.9083,29.8269,Burundi,39884.0
+908,Kisii,-0.6833,34.7667,Kenya,37531.0
+909,Vredenburg,-32.9,17.9833,South Africa,38382.0
+910,Oshakati,-17.7833,15.6995,Namibia,39679.0
+911,Ez Zahra,36.7439,10.3083,Tunisia,34962.0
+912,Bouar,5.95,15.6,Central African Republic,40353.0
+913,Sidi Yahia El Gharb,34.3058,-6.3058,Morocco,37979.0
+914,El Golea,30.6,2.9,Algeria,40195.0
+915,Bugiri,0.5694,33.7486,Uganda,36000.0
+916,Koumra,8.91,17.55,Chad,39852.0
+917,Massawa,15.6097,39.45,Eritrea,39758.0
+918,Effia-Kuma,4.9167,-1.75,Ghana,35094.0
+919,Ālamat’ā,12.4167,39.55,Ethiopia,33214.0
+920,Āzezo,12.5586,37.4308,Ethiopia,33719.0
+921,Touggourt,33.1,6.0667,Algeria,39409.0
+922,Kaffrine,14.1014,-15.5432,Senegal,39357.0
+923,Lydenburg,-25.096,30.446,South Africa,37258.0
+924,El Hajeb,33.6928,-5.3711,Morocco,35282.0
+925,Bugembe,0.4675,33.2414,Uganda,33100.0
+926,Fāraskūr,31.3297,31.7147,Egypt,36850.0
+927,Zaïo,34.9333,-2.7333,Morocco,35806.0
+928,Lambaréné,-0.6883,10.2319,Gabon,38775.0
+929,Adjumani,3.3772,31.7906,Uganda,37100.0
+930,Am-Timan,11.0333,20.2833,Chad,38261.0
+931,Zeghanghane,35.15,-3.0,Morocco,34025.0
+932,Ali Sabieh,11.15,42.7167,Djibouti,37939.0
+933,Gabú,12.2833,-14.2167,Guinea-Bissau,37525.0
+934,Rukungiri,-0.79,29.925,Uganda,37200.0
+935,Tozeur,33.9167,8.1333,Tunisia,37365.0
+936,Bossangoa,6.4833,17.45,Central African Republic,36478.0
+937,Nzega,-4.2169,33.1864,Tanzania,34744.0
+938,Rumonge,-3.9667,29.4333,Burundi,35931.0
+939,Tit Mellil,33.5533,-7.4822,Morocco,32782.0
+940,Ebebiyín,2.15,11.3167,Equatorial Guinea,36565.0
+941,Butajīra,8.1208,38.3792,Ethiopia,33406.0
+942,Buchanan,5.8808,-10.0467,Liberia,34270.0
+943,Shanawān,30.5031,31.0058,Egypt,33285.0
+944,Byumba,-1.5761,30.0675,Rwanda,34544.0
+945,Cradock,-32.1833,25.6167,South Africa,32898.0
+946,Ambano,-19.8,47.0333,Madagascar,32000.0
+947,Paidha,2.4167,30.9875,Uganda,33426.0
+948,Timbuktu,16.7733,-2.9994,Mali,35330.0
+949,Savalou,7.9333,1.9667,Benin,35433.0
+950,Mechraa Bel Ksiri,34.56,-5.95,Morocco,31497.0
+951,Bria,6.5369,21.9919,Central African Republic,35204.0
+952,Dikhil,11.1167,42.3667,Djibouti,35000.0
+953,Awbārī,26.5833,12.7667,Libya,35000.0
+954,Busia,0.4633,34.1053,Kenya,30777.0
+955,Isingiro,-0.795,30.8153,Uganda,34300.0
+956,Swakopmund,-22.6833,14.5333,Namibia,34300.0
+957,Homa Bay,-0.5167,34.45,Kenya,32174.0
+958,Kakata,6.53,-10.3517,Liberia,33945.0
+959,Sidi Smai’il,32.8167,-8.5,Morocco,28733.0
+960,Wik’ro,13.7833,39.6,Ethiopia,30210.0
+961,Kericho,-0.3692,35.2839,Kenya,30023.0
+962,Mandera,3.9167,41.8333,Kenya,30433.0
+963,Ziniaré,12.5833,-1.3,Burkina Faso,33296.0
+964,Dedza,-14.3667,34.3333,Malawi,30928.0
+965,Agblangandan,6.3667,2.5167,Benin,30716.0
+966,Timimoun,29.25,0.2333,Algeria,33060.0
+967,Welk’īt’ē,8.2833,37.7833,Ethiopia,28866.0
+968,Harper,4.3667,-7.7167,Liberia,32661.0
+969,Arfoud,31.4361,-4.2328,Morocco,29279.0
+970,Kitui,-1.3667,38.0167,Kenya,29062.0
+971,I-n-Salah,27.1936,2.4606,Algeria,32518.0
+972,Demnat,31.7311,-7.0361,Morocco,29504.0
+973,Bou Arfa,32.5309,-1.965,Morocco,28846.0
+974,Bangassou,4.7374,22.8195,Central African Republic,31453.0
+975,Anosipatrana,-18.9333,47.5,Madagascar,26107.0
+976,Rumbek,6.806,29.676,South Sudan,32100.0
+977,Kiryandongo,1.9525,32.1389,Uganda,31610.0
+978,Ulundi,-28.335,31.4161,South Africa,29132.0
+979,Rumuruti,0.26,36.5363,Kenya,31649.0
+980,Babati,-4.2167,35.75,Tanzania,30975.0
+981,Mehdya,34.2597,-6.65,Morocco,28636.0
+982,Mchinji,-13.8167,32.9,Malawi,28011.0
+983,Ibanda,-0.1347,30.495,Uganda,31316.0
+984,Chato,-2.6378,31.7669,Tanzania,27776.0
+985,Siliana,36.0819,9.3747,Tunisia,31251.0
+986,Bir Jdid,33.3737,-8.0002,Morocco,24136.0
+987,Wete,-5.0567,39.7281,Tanzania,26450.0
+988,Aïn Taoujdat,33.9333,-5.2167,Morocco,28288.0
+989,Diffa,13.3171,12.6089,Niger,30988.0
+990,Kayunga,0.7033,32.9036,Uganda,30000.0
+991,Mégrine,36.7667,10.2333,Tunisia,26720.0
+992,Moyale,3.527,39.056,Kenya,25000.0
+993,Qiman al ‘Arūs,29.3005,31.1683,Egypt,28246.0
+994,Lamu,-2.2694,40.9022,Kenya,25385.0
+995,Āsosa,10.0667,34.5167,Ethiopia,30512.0
+996,Pakwach,2.4619,31.4983,Uganda,28700.0
+997,Golo-Djigbé,6.5403,2.3253,Benin,28103.0
+998,As Sarw,31.2387,31.6538,Egypt,27743.0
+999,Mutsamudu,-12.1675,44.3939,Comoros,30000.0
+1000,Tahla,34.05,-4.42,Morocco,27729.0
+1001,Otjiwarongo,-20.4642,16.6528,Namibia,28249.0
+1002,Ambohijanaka,-18.9833,47.55,Madagascar,27088.0
+1003,Kyegegwa,0.4803,31.0547,Uganda,29400.0
+1004,Doba,8.66,16.85,Chad,29597.0
+1005,Mzimba,-11.9,33.6,Malawi,26096.0
+1006,Katima Mulilo,-17.5039,24.275,Namibia,28699.0
+1007,Fenoarivo,-18.9333,47.4333,Madagascar,25675.0
+1008,Qahā,30.2833,31.2,Egypt,26694.0
+1009,Mponela,-13.5167,33.7167,Malawi,24543.0
+1010,Manga,11.6667,-1.0667,Burkina Faso,28612.0
+1011,Iheddadene,35.15,-2.9667,Morocco,26582.0
+1012,Missour,33.05,-3.9833,Morocco,25584.0
+1013,Mendefera,14.8833,38.8167,Eritrea,28492.0
+1014,Koulikoro,12.8833,-7.55,Mali,23919.0
+1015,Zawyat ech Cheïkh,32.6414,-5.9206,Morocco,25388.0
+1016,Buwenge,0.6503,33.1703,Uganda,24200.0
+1017,Zaouiet Sousse,35.7833,10.6333,Tunisia,25000.0
+1018,Ramotswa,-24.8667,25.8167,Botswana,27760.0
+1019,Lobatse,-25.2167,25.6667,Botswana,26900.0
+1020,Bongor,10.2806,15.3722,Chad,27770.0
+1021,Mongo,12.1837,18.7,Chad,27763.0
+1022,Genet,9.05,38.5,Ethiopia,25593.0
+1023,Nsanje,-16.9167,35.2667,Malawi,26844.0
+1024,Zalingei,12.9,23.4833,Sudan,27258.0
+1025,Oulad Tayeb,33.9598,-4.9954,Morocco,24594.0
+1026,Maychew,12.7833,39.5333,Ethiopia,23419.0
+1027,Catió,11.2833,-15.25,Guinea-Bissau,26999.0
+1028,Hirrīyat Raznah,30.6028,31.5372,Egypt,24359.0
+1029,Voinjama,8.4167,-9.75,Liberia,26594.0
+1030,Ankaraobato,-18.9,47.4667,Madagascar,20969.0
+1031,Bedēsa,8.9,40.7833,Ethiopia,18187.0
+1032,Sélibaby,15.1592,-12.1833,Mauritania,26420.0
+1033,Dongola,19.1698,30.4749,Sudan,26404.0
+1034,Mīt Namā,30.1453,31.2343,Egypt,21321.0
+1035,Kemisē,10.7167,39.8667,Ethiopia,19420.0
+1036,El Tarf,36.7669,8.3136,Algeria,25594.0
+1037,Kafr Shukr,30.547,31.2673,Egypt,23390.0
+1038,Sidi Lmokhtar,31.57,-9.01,Morocco,22714.0
+1039,Kibuku,1.0375,33.84,Uganda,25000.0
+1040,Zwedru,6.0667,-8.1333,Liberia,25678.0
+1041,Tipasa,36.5942,2.443,Algeria,25225.0
+1042,Rumphi,-11.0167,33.8667,Malawi,22358.0
+1043,Mohale’s Hoek,-30.15,27.4667,Lesotho,24992.0
+1044,Mīzan Teferī,7.0,35.5833,Ethiopia,23144.0
+1045,Kajiado,-1.85,36.7833,Kenya,24678.0
+1046,Kaga Bandoro,7.0,19.1833,Central African Republic,24661.0
+1047,Shārūnah,28.5667,30.85,Egypt,22221.0
+1048,Abū Şīr Banā,30.9,31.2347,Egypt,22214.0
+1049,Abim,2.7019,33.66,Uganda,24400.0
+1050,Bundibugyo,0.7125,30.06,Uganda,22300.0
+1051,Cibitoke,-2.8886,29.12,Burundi,23885.0
+1052,Butaleja,0.925,33.945,Uganda,24000.0
+1053,Chitipa,-9.7019,33.27,Malawi,17743.0
+1054,Fatick,14.3333,-16.4069,Senegal,24243.0
+1055,Atar,20.5167,-13.05,Mauritania,24021.0
+1056,Banī Murr,27.2272,31.1944,Egypt,20065.0
+1057,Al Jawf,24.2167,23.3,Libya,24132.0
+1058,Tchibanga,-2.9333,11.0,Gabon,24000.0
+1059,Stellenbosch,-33.9367,18.8614,South Africa,21799.0
+1060,Tabount,30.88,-6.91,Morocco,21198.0
+1061,Nkhata Bay,-11.6,34.3,Malawi,22108.0
+1062,Fada,17.1833,21.5833,Chad,23786.0
+1063,Kyenjojo,0.61,30.6442,Uganda,23467.0
+1064,Al Madāmūd,25.7333,32.7125,Egypt,15091.0
+1065,Tohoué,6.3967,2.5853,Benin,17652.0
+1066,Al ‘Azīzīyah,32.5308,13.0211,Libya,23399.0
+1067,Kiboga,0.92,31.76,Uganda,22400.0
+1068,Kagadi,0.9411,30.8108,Uganda,22813.0
+1069,Sunbāţ,30.8057,31.207,Egypt,20599.0
+1070,Buyende,1.1475,33.1611,Uganda,23039.0
+1071,Kayanza,-2.9167,29.6167,Burundi,21767.0
+1072,Douar Toulal,33.8951,-5.6021,Morocco,19077.0
+1073,Bonga,7.2667,36.2333,Ethiopia,20858.0
+1074,Kotido,3.0061,34.1125,Uganda,22900.0
+1075,Ntcheu,-14.8333,34.6667,Malawi,21241.0
+1076,Moyo,3.6504,31.72,Uganda,22434.0
+1077,Itaosy,-18.9167,47.4667,Madagascar,19041.0
+1078,Bedelē,8.45,36.35,Ethiopia,19517.0
+1079,Oulad Fraj,32.9667,-8.2333,Morocco,19752.0
+1080,Sibut,5.7333,19.0833,Central African Republic,22419.0
+1081,Al Qays,28.4833,30.7833,Egypt,20603.0
+1082,Mulanje,-16.0258,35.5081,Malawi,20870.0
+1083,Jarājūs,25.8681,32.7566,Egypt,20427.0
+1084,Bafatá,12.1719,-14.6575,Guinea-Bissau,22501.0
+1085,Ahfir,34.9514,-2.1025,Morocco,19630.0
+1086,Mouila,-1.8639,11.0575,Gabon,22469.0
+1087,Mbaïki,3.8833,18.0,Central African Republic,22166.0
+1088,Zāwiyat Razīn,30.4122,30.8536,Egypt,19898.0
+1089,São Filipe,14.895,-24.498,Cabo Verde,22227.0
+1090,Ghāt,24.9644,10.1781,Libya,22000.0
+1091,Opuwo,-18.0556,13.8406,Namibia,20000.0
+1092,Dayr Abū Ḩinnis,27.7864,30.905,Egypt,19638.0
+1093,Bozoum,6.3172,16.3783,Central African Republic,20665.0
+1094,Leicester,8.45,-13.2167,Sierra Leone,18678.0
+1095,Maralal,1.1,36.7,Kenya,20841.0
+1096,Ghanzi,-21.7,21.65,Botswana,21420.0
+1097,Obock,11.9667,43.2833,Djibouti,21200.0
+1098,Amdjarass,16.0658,22.8431,Chad,20850.0
+1099,Ati,13.2133,18.3381,Chad,20695.0
+1100,Gobabis,-22.4333,18.9667,Namibia,19101.0
+1101,Zaghouan,36.4,10.15,Tunisia,20387.0
+1102,Banī Ḩasan ash Shurūq,27.9314,30.8753,Egypt,18218.0
+1103,Bubanza,-3.0833,29.4,Burundi,20031.0
+1104,Kimwanyi,0.4533,32.6347,Uganda,15700.0
+1105,Eldama Ravine,0.05,35.7167,Kenya,17581.0
+1106,Zinvié,6.6167,2.35,Benin,18157.0
+1107,Biyahmū,29.3675,30.8528,Egypt,17486.0
+1108,Dokolo,1.9186,33.17,Uganda,19810.0
+1109,Mwanza,-15.5986,34.5178,Malawi,18039.0
+1110,Tidjikja,18.55,-11.4333,Mauritania,19981.0
+1111,Fomboni,-12.28,43.7425,Comoros,18277.0
+1112,Kapsabet,0.3333,35.1667,Kenya,17918.0
+1113,Sironko,1.2306,34.2481,Uganda,18900.0
+1114,Ajā,30.9414,31.2942,Egypt,17580.0
+1115,Korem,12.5,39.5167,Ethiopia,16856.0
+1116,Moroto,2.53,34.67,Uganda,16300.0
+1117,Kamwenge,0.1861,30.4539,Uganda,19240.0
+1118,Laï,9.4,16.3,Chad,19382.0
+1119,Tillabéri,14.212,1.4531,Niger,19262.0
+1120,Akassato,6.5,2.3667,Benin,17197.0
+1121,Kisoro,-1.285,29.685,Uganda,17561.0
+1122,Buikwe,0.3442,33.03,Uganda,18500.0
+1123,Bububu,-6.1658,39.1992,Tanzania,15666.0
+1124,Ribeira Grande,17.183,-25.065,Cabo Verde,18890.0
+1125,Mao,14.1194,15.3133,Chad,19004.0
+1126,Hūn,29.1268,15.9477,Libya,18878.0
+1127,Kédougou,12.55,-12.1833,Senegal,18860.0
+1128,Ambohidrapeto,-18.9,47.4667,Madagascar,15965.0
+1129,Bou Djeniba,32.9,-6.7833,Morocco,16030.0
+1130,Jwaneng,-24.6019,24.7283,Botswana,18784.0
+1131,Tarrafal,15.278,-23.752,Cabo Verde,18561.0
+1132,Rwamagana,-1.95,30.4333,Rwanda,18009.0
+1133,Goulmima,31.6944,-4.9592,Morocco,16419.0
+1134,Mayuge,0.4578,33.48,Uganda,17151.0
+1135,Sidi Zouine,31.6706,-8.3508,Morocco,14954.0
+1136,Le Hochet,-20.135,57.5211,Mauritius,15034.0
+1137,Lyantonde,-0.4069,31.1575,Uganda,16300.0
+1138,Ait Yaazem,33.7333,-5.5833,Morocco,16091.0
+1139,Torit,4.4081,32.575,South Sudan,17957.0
+1140,Porto Novo,17.019,-25.064,Cabo Verde,18028.0
+1141,Ngora,1.4575,33.7764,Uganda,17700.0
+1142,Anosy Avaratra,-18.8,47.55,Madagascar,15243.0
+1143,Kaliro,0.8944,33.4994,Uganda,16796.0
+1144,Manafwa,0.9564,34.2844,Uganda,16000.0
+1145,Breyten,-26.3,29.9833,South Africa,14347.0
+1146,Busembatia,0.775,33.625,Uganda,14431.0
+1147,Matam,15.6167,-13.3333,Senegal,17324.0
+1148,Birqāsh,30.1692,31.0417,Egypt,14172.0
+1149,Marsabit,2.3333,37.9833,Kenya,17127.0
+1150,Illizi,26.508,8.4829,Algeria,17252.0
+1151,Primrose,-26.1833,28.1667,South Africa,14024.0
+1152,Makokou,0.5667,12.8667,Gabon,17070.0
+1153,Lodwar,3.1167,35.6,Kenya,16981.0
+1154,Ntungamo,-0.8819,30.2653,Uganda,16400.0
+1155,Keetmanshoop,-26.5786,18.1333,Namibia,16800.0
+1156,Oulad Hamdane,32.3333,-6.3667,Morocco,11577.0
+1157,Greenville,5.0167,-9.0333,Liberia,16434.0
+1158,Sendafa,9.15,39.0333,Ethiopia,12298.0
+1159,Bordj Mokhtar,21.3289,0.9542,Algeria,16437.0
+1160,Moussoro,13.6333,16.4833,Chad,16349.0
+1161,Mahikeng,-25.8656,25.6436,South Africa,15117.0
+1162,Massakory,13.0,15.7333,Chad,16237.0
+1163,Naama,33.2678,-0.3111,Algeria,16251.0
+1164,Koulamoutou,-1.1333,12.4833,Gabon,16222.0
+1165,Kerugoya,-0.5,37.2833,Kenya,14056.0
+1166,Barentu,15.1167,37.6,Eritrea,15891.0
+1167,Aleg,17.05,-13.9167,Mauritania,15521.0
+1168,Lwengo,-0.3911,31.4606,Uganda,15527.0
+1169,Targuist,34.95,-4.3,Morocco,13390.0
+1170,Hévié,6.4167,2.25,Benin,13450.0
+1171,Seïada,35.67,10.9,Tunisia,12708.0
+1172,Gombe,0.1811,32.1142,Uganda,15196.0
+1173,Kapchorwa,1.4,34.45,Uganda,12900.0
+1174,Kanungu,-0.8969,29.7756,Uganda,15056.0
+1175,Zombo,2.5131,30.9081,Uganda,15000.0
+1176,Namanga,-2.55,36.7833,Kenya,13193.0
+1177,Bou Fekrane,33.7667,-5.4833,Morocco,12941.0
+1178,Chinsali,-10.5522,32.0692,Zambia,15198.0
+1179,Quthing,-30.4001,27.7002,Lesotho,15000.0
+1180,Kidal,18.4389,1.4083,Mali,15086.0
+1181,Gwanda,-20.9389,29.0186,Zimbabwe,14450.0
+1182,Nalerigu,10.5333,-0.3667,Ghana,14927.0
+1183,Forécariah,9.43,-13.098,Guinea,12358.0
+1184,El Menzel,33.8389,-4.5458,Morocco,12641.0
+1185,Tadjourah,11.7833,42.8833,Djibouti,14820.0
+1186,Boumia,32.7228,-5.1053,Morocco,12444.0
+1187,Oulad Ayyad,32.3333,-6.3833,Morocco,9566.0
+1188,Belobaka,-15.6833,46.4167,Madagascar,12000.0
+1189,Djanet,24.555,9.4853,Algeria,14655.0
+1190,Oyam,2.235,32.385,Uganda,14500.0
+1191,Soalandy,-18.9903,47.5,Madagascar,11719.0
+1192,Ar Rommani,33.5333,-6.6167,Morocco,12297.0
+1193,Kaabong,3.52,34.12,Uganda,13400.0
+1194,Negēlē,5.3167,39.5833,Ethiopia,11772.0
+1195,Bukedea,1.3475,34.0444,Uganda,13900.0
+1196,Dishāshah,28.9831,30.8492,Egypt,11844.0
+1197,Mīt Damsīs,30.8267,31.2226,Egypt,11528.0
+1198,Kibiito,0.4775,30.1925,Uganda,12984.0
+1199,Kumi,1.4608,33.9361,Uganda,13000.0
+1200,Ndélé,8.4092,20.6531,Central African Republic,13704.0
+1201,Boudenib,31.9497,-3.6078,Morocco,11373.0
+1202,Mariental,-24.6333,17.9667,Namibia,12478.0
+1203,Kibuye,-2.0617,29.3483,Rwanda,12325.0
+1204,Tubmanburg,6.8667,-10.8167,Liberia,13114.0
+1205,Amolatar,1.635,32.825,Uganda,12900.0
+1206,Serere,1.5,33.55,Uganda,12700.0
+1207,Obo,5.4,26.5,Central African Republic,12887.0
+1208,Aţ Ţūr,28.2417,33.6222,Egypt,12733.0
+1209,Kanoni,0.1728,31.9058,Uganda,12439.0
+1210,Qufādah,28.5812,30.7554,Egypt,9948.0
+1211,Ganvié,6.4667,2.4167,Benin,10280.0
+1212,Khunays,35.7122,10.8167,Tunisia,10000.0
+1213,Ga-Kgapane,-23.649,30.226,South Africa,9879.0
+1214,Assomada,15.096,-23.667,Cabo Verde,12026.0
+1215,Ouédo,6.4833,2.45,Benin,10067.0
+1216,Aioun,16.6667,-9.6167,Mauritania,11867.0
+1217,Robertsport,6.75,-11.3667,Liberia,11969.0
+1218,Nakasongola,1.315,32.465,Uganda,11700.0
+1219,Biltine,14.5275,20.9267,Chad,11840.0
+1220,Bol,13.46,14.74,Chad,11700.0
+1221,Sanniquellie,7.3622,-8.7061,Liberia,11415.0
+1222,Shanhūr,25.8604,32.7779,Egypt,9314.0
+1223,Akjoujt,19.75,-14.3833,Mauritania,11235.0
+1224,Dayr as Sanqūrīyah,28.4833,30.65,Egypt,8911.0
+1225,Karuzi,-3.1,30.1667,Burundi,10705.0
+1226,Beni Abbès,30.08,-2.1,Algeria,10885.0
+1227,Amuru,2.8186,31.8642,Uganda,10800.0
+1228,Kirundo,-2.59,30.09,Burundi,10024.0
+1229,Santana,0.2583,6.7417,Sao Tome and Principe,10290.0
+1230,Bukomansimbi,-0.1667,31.6186,Uganda,10000.0
+1231,Butha-Buthe,-28.7833,28.2333,Lesotho,10000.0
+1232,Bududa,1.01,34.3317,Uganda,8700.0
+1233,Kwale,-4.1744,39.4603,Kenya,10063.0
+1234,Birao,10.294,22.782,Central African Republic,10178.0
+1235,Muyinga,-2.85,30.3333,Burundi,9609.0
+1236,Neves,0.3592,6.5517,Sao Tome and Principe,10068.0
+1237,Katakwi,1.915,33.955,Uganda,9100.0
+1238,Bulisa,2.1217,31.4156,Uganda,9500.0
+1239,Makamba,-4.1333,29.8,Burundi,9396.0
+1240,Tshabong,-26.02,22.4056,Botswana,9679.0
+1241,Pedra Badejo,15.137,-23.534,Cabo Verde,9530.0
+1242,Ntchisi,-13.3667,34.0,Malawi,9357.0
+1243,Kasane,-17.8167,25.15,Botswana,9250.0
+1244,Evinayong,1.45,10.5667,Equatorial Guinea,9155.0
+1245,Amuria,2.03,33.6431,Uganda,8900.0
+1246,Thyolo,-16.0667,35.1333,Malawi,7029.0
+1247,Mokhotlong,-29.2885,29.0656,Lesotho,8809.0
+1248,Rakai,-0.71,31.405,Uganda,8500.0
+1249,Buba,11.5833,-15.0,Guinea-Bissau,8556.0
+1250,Rubirizi,-0.2661,30.1069,Uganda,8204.0
+1251,Phalombe,-15.8033,35.6533,Malawi,6242.0
+1252,Tevragh Zeina,18.0994,-15.9761,Mauritania,
+1253,Alebtong,2.25,33.315,Uganda,7900.0
+1254,Sembabule,-0.08,31.46,Uganda,7800.0
+1255,Guadalupe,0.38,6.6381,Sao Tome and Principe,7604.0
+1256,Bentiu,9.26,29.8,South Sudan,7781.0
+1257,Dowa,-13.6667,33.9167,Malawi,7135.0
+1258,Luba,3.45,8.55,Equatorial Guinea,7739.0
+1259,Ruyigi,-3.4833,30.25,Burundi,7139.0
+1260,Mobaye,4.3167,21.1833,Central African Republic,7176.0
+1261,Mongomo,1.6287,11.3168,Equatorial Guinea,7251.0
+1262,Hola,-1.5,40.0333,Kenya,6931.0
+1263,Trindade,0.3,6.6833,Sao Tome and Principe,6636.0
+1264,In Guezzam,19.5686,5.7722,Algeria,7045.0
+1265,Kiruhura,-0.21,30.83,Uganda,6900.0
+1266,Sal Rei,16.177,-22.918,Cabo Verde,6357.0
+1267,Eenhana,-17.4658,16.3369,Namibia,5528.0
+1268,Mitoma,-0.615,30.045,Uganda,6000.0
+1269,Espargos,16.756,-22.946,Cabo Verde,6173.0
+1270,Rutana,-3.9167,30.0,Burundi,5865.0
+1271,Muramvya,-3.25,29.6,Burundi,5458.0
+1272,Mwatate,-3.5047,38.3778,Kenya,5551.0
+1273,Outapi,-17.5167,15.0,Namibia,4606.0
+1274,Masunga,-20.6667,27.4167,Botswana,5696.0
+1275,Cacheu,12.2667,-16.1667,Guinea-Bissau,5674.0
+1276,Thaba-Tseka,-29.5333,28.6,Lesotho,5423.0
+1277,Napak,2.1156,34.2267,Uganda,5278.0
+1278,Kalangala,-0.3214,32.2919,Uganda,5200.0
+1279,Tarrafal,16.566,-24.357,Cabo Verde,5237.0
+1280,Palé,-1.4069,5.6322,Equatorial Guinea,5008.0
+1281,Bu’aale,1.0833,42.5833,Somalia,5000.0
+1282,Bolama,11.5767,-15.4828,Guinea-Bissau,4819.0
+1283,Ponta do Sol,17.202,-25.093,Cabo Verde,4738.0
+1284,Bururi,-3.95,29.6167,Burundi,4478.0
+1285,João Teves,15.068,-23.589,Cabo Verde,
+1286,Nwoya,2.635,32.0,Uganda,4295.0
+1287,Bensonville,6.4456,-10.6097,Liberia,4089.0
+1288,Calheta de São Miguel,15.186,-23.593,Cabo Verde,4123.0
+1289,Butalangu,0.8228,32.2428,Uganda,3873.0
+1290,Kaberamaido,1.7667,33.1522,Uganda,3400.0
+1291,Omuthiya,-18.3606,16.5812,Namibia,3794.0
+1292,Cankuzo,-3.2194,30.5528,Burundi,3624.0
+1293,Massenya,11.4,16.1667,Chad,3680.0
+1294,São João dos Angolares,0.1333,6.65,Sao Tome and Principe,3605.0
+1295,Fish Town,5.1964,-7.8756,Liberia,3328.0
+1296,Balaka,-14.9889,34.9591,Malawi,
+1297,Porto Inglês,15.138,-23.211,Cabo Verde,3056.0
+1298,Sowa Town,-20.5636,26.2244,Botswana,2914.0
+1299,Bopolu,7.0667,-10.4875,Liberia,2908.0
+1300,São Domingos,15.028,-23.563,Cabo Verde,2818.0
+1301,Barclayville,4.6797,-8.2339,Liberia,2733.0
+1302,Amudat,1.9522,34.9444,Uganda,1900.0
+1303,Cestos City,5.4667,-9.5833,Liberia,2578.0
+1304,Kabarnet,0.494,35.744,Kenya,
+1305,Cidade Velha,14.916,-23.606,Cabo Verde,2148.0
+1306,Migori,-1.0634,34.4731,Kenya,
+1307,Chiradzulu,-15.7,35.1833,Malawi,1580.0
+1308,Damongo,9.0833,-1.8167,Ghana,2014.0
+1309,Djibloho,1.5889,10.8225,Equatorial Guinea,2000.0
+1310,Nyamira,-0.5633,34.9358,Kenya,
+1311,Machinga,-14.9667,35.5167,Malawi,1418.0
+1312,Sotik Post,-0.7813,35.3416,Kenya,
+1313,Murang’a,-0.7167,37.15,Kenya,
+1314,Santo António,1.6367,7.4178,Sao Tome and Principe,1300.0
+1315,Neno,-15.3981,34.6534,Malawi,
+1316,Isale,-3.3444,29.4833,Burundi,
+1317,Siaya,0.0667,34.2833,Kenya,
+1318,Mahonda,-5.9897,39.2519,Tanzania,
+1319,Chikwawa,-16.035,34.801,Malawi,
+1320,Namutumba,0.8363,33.6858,Uganda,
+1321,Asaba,6.1833,6.75,Nigeria,
+1322,Aïn Defla,36.2583,1.9583,Algeria,
+1323,Bukwo,1.2928,34.7531,Uganda,
+1324,Nkurenkuru,-17.6167,18.6,Namibia,618.0
+1325,Kapenguria,1.2333,35.1167,Kenya,
+1326,Yenagoa,4.9267,6.2676,Nigeria,
+1327,Maracha,3.2883,30.9408,Uganda,
+1328,Picos,15.083,-23.632,Cabo Verde,
+1329,Binyin,1.4175,34.5344,Uganda,
+1330,Mila,36.4481,6.2622,Algeria,
+1331,Bulambuli,1.16,34.3967,Uganda,
+1332,Vwawa,-9.1081,32.9347,Tanzania,
+1333,Namayingo,0.2398,33.8849,Uganda,
+1334,Butebo,1.1944,33.9222,Uganda,
+1335,Koani,-6.1333,39.2833,Tanzania,
+1336,Busesa,0.6263,33.6003,Uganda,
+1337,Dhuusamarreeb,5.535,46.3861,Somalia,447.0
+1338,Dogbo,6.8167,1.7833,Benin,
+1339,Luuka Town,0.7642,33.3319,Uganda,
+1340,Abakaliki,6.3249,8.1137,Nigeria,
+1341,Pombas,17.149,-25.015,Cabo Verde,
+1342,Nsiika,-0.2958,30.3433,Uganda,
+1343,Rubanda,-1.1864,29.8433,Uganda,
+1344,Ntara,0.0047,30.3661,Uganda,
+1345,Kalungu,-0.1681,31.76,Uganda,
+1346,Nelspruit,-25.4745,30.9703,South Africa,
+1347,Bupoto,0.9061,34.3578,Uganda,
+1348,Kole,2.4286,32.8011,Uganda,
+1349,Narok,-1.0833,35.8667,Kenya,
+1350,Ouled Djellal,34.4167,5.0667,Algeria,
+1351,Mparo,-1.1844,30.0544,Uganda,
+1352,Ol Kalou,-0.273,36.378,Kenya,
+1353,Kasanda,0.5467,31.8197,Uganda,
+1354,Kasaali,-0.6167,31.55,Uganda,
+1355,Kakumiro,0.7811,31.3231,Uganda,
+1356,Kinoni,-0.6583,30.4581,Uganda,
+1357,Kibingo,-0.57,30.415,Uganda,
+1358,Kara,9.5511,1.1861,Togo,
+1359,Kalaki,1.816,33.337,Uganda,
+1360,Rabak,13.185,32.744,Sudan,
+1361,Sefwi Wiawso,6.2158,-2.485,Ghana,
+1362,Palenga,2.5764,32.3544,Uganda,
+1363,Lamwo,3.53,32.8,Uganda,
+1364,Agago,2.9847,33.3306,Uganda,
+1365,Boorama,9.9361,43.1828,Somalia,
+1366,Dambai,8.0689,0.1792,Ghana,
+1367,Goaso,6.8,-2.5167,Ghana,
+1368,Gaoua,10.2992,-3.2508,Burkina Faso,
+1369,Nabilatuk,2.0525,34.5734,Uganda,
+1370,Nova Sintra,14.871,-24.696,Cabo Verde,
+1371,Sédhiou,12.7,-15.55,Senegal,
+1372,Igreja,15.0339,-24.325,Cabo Verde,
+1373,Qacha’s Nek,-30.1167,28.6833,Lesotho,
+1374,Pala,9.3646,14.9073,Chad,
+1375,Pader,3.05,33.2167,Uganda,
+1376,Otuke,2.4442,33.5028,Uganda,
+1377,El Meghaïer,33.9506,5.9242,Algeria,
+1378,Nakapiripirit,1.9167,34.7833,Uganda,
+1379,Ribeira Brava,16.615,-24.299,Cabo Verde,
+1380,Cova Figueira,14.89,-24.294,Cabo Verde,
+1381,Kyankwanzi,1.2,31.8,Uganda,
+1382,El Fula,11.7175,28.34,Sudan,
+1383,Lupane,-18.9315,27.807,Zimbabwe,
+1384,Laascaanood,8.4774,47.3597,Somalia,
+1385,Ntoroko,1.05,30.535,Uganda,
+1386,Ceerigaabo,10.6162,47.3679,Somalia,
+1387,Idrī,27.4471,13.0517,Libya,
+1388,Bardaï,21.3533,17.0003,Chad,
+1389,Kitamilo,0.2367,33.27,Uganda,
+1390,Pouytenga,12.25,-0.4333,Burkina Faso,99950.0
+1391,Debre Zeyit,8.75,38.9833,Ethiopia,99928.0
+1392,Dzolokpuita,6.7862,0.4437,Ghana,100000.0
+1393,Gwelej,14.75,36.7167,Eritrea,100000.0
+1394,Babīlē,9.2167,42.3333,Ethiopia,100000.0
+1395,Ra’s Ghārib,28.3597,33.0775,Egypt,100000.0
+1396,Al Jammālīyah,31.1792,31.8648,Egypt,97682.0
+1397,Ifakara,-8.1,36.6833,Tanzania,99000.0
+1398,Weldiya,11.8306,39.6,Ethiopia,98911.0
+1399,Es Senia,35.6478,-0.6239,Algeria,96928.0
+1400,Kontagora,10.403,5.473,Nigeria,98754.0
+1401,Worcester,-33.645,19.4436,South Africa,97098.0
+1402,Iseyin,7.9667,3.6,Nigeria,98071.0
+1403,Adjarra,6.5333,2.6667,Benin,97424.0
+1404,Oodweyne,9.4,45.0667,Somalia,98131.0
+1405,Hammamet,36.4,10.6167,Tunisia,97579.0
+1406,Quilenda,-10.6333,14.3333,Angola,97648.0
+1407,Vanderbijlpark,-26.6992,27.8356,South Africa,95840.0
+1408,Kimilili,0.7833,34.7167,Kenya,94927.0
+1409,Kelo,9.31,15.81,Chad,96224.0
+1410,Shirē,14.1,38.2833,Ethiopia,95491.0
+1411,Bogo,10.7361,14.6108,Cameroon,95230.0
+1412,Kwekwe,-18.9167,29.8167,Zimbabwe,93072.0
+1413,Bafang,5.15,10.1833,Cameroon,93145.0
+1414,Samālūţ,28.3097,30.7108,Egypt,91475.0
+1415,Wukari,7.8704,9.78,Nigeria,92933.0
+1416,Kilosa,-6.83,36.9875,Tanzania,91889.0
+1417,Foumban,5.7167,10.9167,Cameroon,92673.0
+1418,Grahamstown,-33.2996,26.52,South Africa,91548.0
+1419,Kendu Bay,-0.3596,34.64,Kenya,91248.0
+1420,Ambohimangakely,-18.9167,47.6,Madagascar,91056.0
+1421,Sinendé,10.3447,2.3792,Benin,91672.0
+1422,Yao,12.8508,17.5608,Chad,91507.0
+1423,Caimbambo,-12.9,14.0833,Angola,90838.0
+1424,Cambambe,-9.7586,14.5122,Angola,90766.0
+1425,Chililabombwe,-12.3667,27.8278,Zambia,90530.0
+1426,Richard-Toll,16.4667,-15.6833,Senegal,90000.0
+1427,Uacu Cungo,-11.3583,15.1194,Angola,90000.0
+1428,Luau,-10.7044,22.2283,Angola,90000.0
+1429,Barwaaqo,3.4833,42.1833,Somalia,90000.0
+1430,Afmadow,0.5156,42.0733,Somalia,90000.0
+1431,Conda,-11.1667,14.5,Angola,89479.0
+1432,Gitarama,-2.0696,29.76,Rwanda,87613.0
+1433,Caracase,3.7533,42.5442,Somalia,89345.0
+1434,Toviklin,6.8333,1.8167,Benin,88611.0
+1435,Léré,9.77,14.15,Chad,89237.0
+1436,Ségbana,10.9278,3.6944,Benin,89268.0
+1437,Humpata,-15.0725,13.3678,Angola,89144.0
+1438,Aïn M’Lila,36.0367,6.5719,Algeria,88441.0
+1439,Sakiet ez Zit,34.8,10.77,Tunisia,87512.0
+1440,Norton,-17.8833,30.7,Zimbabwe,87038.0
+1441,Janzūr,32.8172,13.0111,Libya,88073.0
+1442,Wislane,30.2167,-8.3833,Morocco,87910.0
+1443,Koidu-Bulma,8.4405,-10.85,Sierra Leone,87539.0
+1444,Denan,6.5,43.5,Ethiopia,87380.0
+1445,Tiflet,33.8931,-6.3069,Morocco,86709.0
+1446,Chongoroi,-13.5667,13.95,Angola,87278.0
+1447,Bi’r al ‘Abd,31.0181,33.0111,Egypt,87219.0
+1448,Houndé,11.5,-3.5167,Burkina Faso,87154.0
+1449,Ad Diwem,14.0,32.3167,Sudan,87068.0
+1450,Widekum,5.8717,9.7706,Cameroon,86822.0
+1451,Longonjo,-12.9067,15.1864,Angola,86795.0
+1452,Keffi,8.8464,7.8733,Nigeria,85911.0
+1453,Yabēlo,4.8833,38.0833,Ethiopia,86400.0
+1454,Potiskum,11.7104,11.08,Nigeria,86002.0
+1455,Khemis Miliana,36.26,2.2,Algeria,84574.0
+1456,Warder,6.9667,45.35,Ethiopia,85400.0
+1457,Maga,10.85,14.9333,Cameroon,85100.0
+1458,Walvisbaai,-22.9561,14.5081,Namibia,85000.0
+1459,Sambava,-14.2667,50.1667,Madagascar,84039.0
+1460,Guider,9.9342,13.9486,Cameroon,84647.0
+1461,Chirundu,-16.05,28.8333,Zambia,84750.0
+1462,El Milia,36.75,6.2667,Algeria,83931.0
+1463,Lqoliaa,30.2908,-9.4661,Morocco,83235.0
+1464,Buuhoodle,8.2311,46.3267,Somalia,83747.0
+1465,Lafey,3.1508,41.1864,Kenya,83457.0
+1466,Boukoumbé,10.1833,1.1,Benin,83147.0
+1467,Chelghoum el Aïd,36.1667,6.1667,Algeria,82560.0
+1468,Ufeyn,10.65,49.75,Somalia,82850.0
+1469,Athi River,-1.45,36.9833,Kenya,81302.0
+1470,Sefrou,33.83,-4.83,Morocco,79887.0
+1471,Taroudannt,30.471,-8.8806,Morocco,80149.0
+1472,Ahenkro,7.1164,0.3242,Ghana,80813.0
+1473,Randfontein,-26.1797,27.7042,South Africa,80492.0
+1474,Bafut,6.0833,10.1,Cameroon,80305.0
+1475,Ādīgala,10.4236,42.2333,Ethiopia,80440.0
+1476,Calandala,-9.0667,17.9,Angola,80415.0
+1477,Uvinza,-5.1036,30.3911,Tanzania,80350.0
+1478,Mbalmayo,3.5167,11.5,Cameroon,80206.0
+1479,Zarzis,33.5,11.1167,Tunisia,80000.0
+1480,Meïganga,6.53,14.37,Cameroon,80100.0
+1481,Masallātah,32.5822,14.04,Libya,80000.0
+1482,Capenda Camulemba,-9.5647,18.7633,Angola,80000.0
+1483,Ben Gardane,33.1389,11.2167,Tunisia,79912.0
+1484,Idah,7.0833,6.75,Nigeria,79815.0
+1485,Kadoma,-18.34,29.9,Zimbabwe,79174.0
+1486,Eséka,3.65,10.7667,Cameroon,79500.0
+1487,Afgooye,2.1413,45.1169,Somalia,79400.0
+1488,Madīnat as Sādāt,30.3811,30.5266,Egypt,79000.0
+1489,Pèrèrè,9.7994,2.9928,Benin,78988.0
+1490,Cuamba,-14.8167,36.55,Mozambique,79013.0
+1491,Essaouira,31.5131,-9.7697,Morocco,77966.0
+1492,Dondo,-19.6167,34.75,Mozambique,78648.0
+1493,Arlit,18.7333,7.3833,Niger,78651.0
+1494,Kuvango,-14.4667,16.3,Angola,78543.0
+1495,Péhonko,10.2283,2.0019,Benin,78217.0
+1496,Chitembo,-13.5167,16.7667,Angola,78156.0
+1497,Numan,9.4536,11.8367,Nigeria,77617.0
+1498,Khemis el Khechna,36.65,3.3306,Algeria,76474.0
+1499,Armant,25.6167,32.5333,Egypt,76457.0
+1500,Montepuez,-13.1167,39.0,Mozambique,76139.0
+1501,Ait Ali,30.1765,-9.4886,Morocco,76646.0
+1502,Dschang,5.45,10.0667,Cameroon,76524.0
+1503,So-Awa,6.4667,2.4167,Benin,76315.0
+1504,Houmt Souk,33.8667,10.85,Tunisia,75904.0
+1505,Gbawe,5.5767,-0.3108,Ghana,74403.0
+1506,Iju,6.6107,3.0857,Nigeria,75000.0
+1507,Tiznit,29.7167,-9.7167,Morocco,74699.0
+1508,Bombo,0.5778,32.545,Uganda,75000.0
+1509,Wisil,5.4333,48.1167,Somalia,75000.0
+1510,Toffo,6.85,2.0833,Benin,74717.0
+1511,Péda-Houéyogbé,6.45,1.9333,Benin,74492.0
+1512,Tanguiéta,10.6167,1.2667,Benin,74675.0
+1513,Standerton,-26.95,29.25,South Africa,74021.0
+1514,Ouaké,9.6617,1.3847,Benin,74289.0
+1515,Sharm ash Shaykh,27.9122,34.3297,Egypt,74000.0
+1516,Cunhinga,-12.2333,16.7833,Angola,73826.0
+1517,Bawku,11.05,-0.2333,Ghana,73594.0
+1518,El Hamma,33.8864,9.7951,Tunisia,73512.0
+1519,Brakpan,-26.2353,28.37,South Africa,73080.0
+1520,Tokār,18.4253,37.7292,Sudan,73202.0
+1521,Tan-Tan,28.4333,-11.1,Morocco,73209.0
+1522,Sotik,-0.68,35.12,Kenya,71285.0
+1523,Yafran,32.0629,12.5267,Libya,72662.0
+1524,Zogbodomé,7.0833,2.1,Benin,72338.0
+1525,Farshūţ,26.0549,32.164,Egypt,70250.0
+1526,Tibati,6.4667,12.6333,Cameroon,72081.0
+1527,Belo Tsiribihina,-19.7,44.55,Madagascar,72000.0
+1528,Kawm Umbū,24.4667,32.95,Egypt,71596.0
+1529,Dondo,-9.6942,14.4228,Angola,71715.0
+1530,Konongo,6.6167,-1.2167,Ghana,71238.0
+1531,Warzat,30.9167,-6.9167,Morocco,71067.0
+1532,Melong,5.1211,9.9528,Cameroon,71189.0
+1533,Entebbe,0.05,32.46,Uganda,69958.0
+1534,Thohoyandou,-22.95,30.4833,South Africa,69453.0
+1535,Djemmal,35.64,10.76,Tunisia,70587.0
+1536,Kopargo,9.8375,1.5481,Benin,70938.0
+1537,Ejura,7.3833,-1.3667,Ghana,70807.0
+1538,Xangongo,-16.7467,14.9747,Angola,70568.0
+1539,Togoch’alē,9.6014,43.3361,Ethiopia,70450.0
+1540,Būr Fu’ād,31.25,32.3167,Egypt,70417.0
+1541,Bopa,6.5833,1.9833,Benin,70268.0
+1542,Imerintsiatosika,-18.9833,47.3167,Madagascar,69953.0
+1543,Cahama,-16.2833,14.3167,Angola,70061.0
+1544,Badhan,10.7139,48.3347,Somalia,70000.0
+1545,Nikki,9.9333,3.2083,Benin,69970.0
+1546,Isnā,25.3,32.55,Egypt,68656.0
+1547,Saldanha,-32.9978,17.9456,South Africa,68284.0
+1548,Korba,36.5667,10.8667,Tunisia,68966.0
+1549,Bafia,4.75,11.2167,Cameroon,69270.0
+1550,Kamsar,10.65,-14.6167,Guinea,68999.0
+1551,Mocuba,-16.85,36.9833,Mozambique,69045.0
+1552,Renk,11.83,32.8,South Sudan,69079.0
+1553,Mocuba,-16.8496,38.26,Mozambique,68984.0
+1554,Wum,6.3833,10.0667,Cameroon,68836.0
+1555,Swedru,5.5306,-0.7028,Ghana,68216.0
+1556,Igbanke,6.3869,6.1647,Nigeria,68500.0
+1557,Mbaké,14.7917,-15.9083,Senegal,68054.0
+1558,Otukpo,7.1904,8.13,Nigeria,68220.0
+1559,Sanza Pombo,-7.3333,16.0,Angola,68391.0
+1560,Tzaneen,-23.8333,30.1667,South Africa,67245.0
+1561,Antalaha,-14.8833,50.25,Madagascar,67888.0
+1562,Tôlan̈aro,-25.0325,46.9833,Madagascar,67284.0
+1563,Sa’ada,31.6258,-8.1028,Morocco,67086.0
+1564,Kissidougou,9.1905,-10.12,Guinea,66815.0
+1565,Ankazoabokely,-21.5036,45.2094,Madagascar,67337.0
+1566,Chegutu,-18.14,30.15,Zimbabwe,65800.0
+1567,Hobyo,5.3514,48.5256,Somalia,67249.0
+1568,Aflao,6.1468,1.1799,Ghana,66546.0
+1569,Virginia,-28.1064,26.8622,South Africa,66208.0
+1570,Karimama,12.0667,3.1833,Benin,66675.0
+1571,Dangbo,6.5,2.6833,Benin,66055.0
+1572,Chibok,10.8697,12.8467,Nigeria,66105.0
+1573,Madirovalo,-16.4333,46.5333,Madagascar,66000.0
+1574,Menzel Temime,36.7833,10.9833,Tunisia,65645.0
+1575,Bordj Menaïel,36.7417,3.7231,Algeria,64820.0
+1576,Ladysmith,-28.5597,29.7806,South Africa,64855.0
+1577,Xarardheere,4.6544,47.8575,Somalia,65523.0
+1578,Birnin Konni,13.7904,5.2599,Niger,65252.0
+1579,Odendaalsrus,-27.8667,26.6833,South Africa,63743.0
+1580,Mecheria,33.55,-0.2833,Algeria,65043.0
+1581,Marovoay,-16.1111,46.6439,Madagascar,65000.0
+1582,Chipindo,-13.8244,15.8,Angola,64714.0
+1583,Chokwé,-24.5253,33.0086,Mozambique,63695.0
+1584,Ghardimaou,36.45,8.4333,Tunisia,64170.0
+1585,Sangmélima,2.9333,11.9833,Cameroon,64227.0
+1586,Midoun,33.8,11.0,Tunisia,63528.0
+1587,Dikirnis,31.0883,31.5969,Egypt,62177.0
+1588,Graaff-Reinet,-32.2522,24.5406,South Africa,62896.0
+1589,Aïn Sefra,32.75,-0.5833,Algeria,63420.0
+1590,Rouiba,36.7333,3.2833,Algeria,61984.0
+1591,Wundanyi,-3.3983,38.3603,Kenya,62340.0
+1592,Abū Qurqāş,27.9333,30.8333,Egypt,63264.0
+1593,Oudtshoorn,-33.5833,22.2,South Africa,61507.0
+1594,Tighenif,35.4167,0.333,Algeria,62210.0
+1595,Nkawkaw,6.55,-0.7667,Ghana,62667.0
+1596,Bodītī,6.8667,37.8667,Ethiopia,61983.0
+1597,Qoryooley,1.7833,44.5333,Somalia,62700.0
+1598,El Wak,2.8028,40.9275,Kenya,60732.0
+1599,Berekum,7.45,-2.5833,Ghana,62364.0
+1600,Menzel Bourguiba,37.15,9.7833,Tunisia,61919.0
+1601,Analavory,-18.9667,46.7167,Madagascar,62130.0
+1602,Camabatela,-8.1833,15.3667,Angola,61769.0
+1603,Sungo,-11.2333,14.3167,Angola,61682.0
+1604,Djibo,14.1011,-1.6306,Burkina Faso,61456.0
+1605,Bocaranga,6.9844,15.6408,Central African Republic,61190.0
+1606,Adjohon,6.7,2.4667,Benin,60955.0
+1607,Skhirate,33.85,-7.03,Morocco,59775.0
+1608,Oda,5.9236,-0.9883,Ghana,60604.0
+1609,Nambuangongo,-8.0167,14.2,Angola,60883.0
+1610,Calulo,-10.0007,14.901,Angola,60709.0
+1611,Kakuma,3.7167,34.8667,Kenya,60000.0
+1612,Mossel Bay,-34.1833,22.1333,South Africa,59031.0
+1613,Lakhdaria,36.5622,3.5944,Algeria,59746.0
+1614,Manhiça,-25.4,32.8,Mozambique,60031.0
+1615,Ash Shaykh Zuwayd,31.2119,34.1106,Egypt,60000.0
+1616,Banane,0.5,38.67,Kenya,60000.0
+1617,Kribi,2.935,9.91,Cameroon,60000.0
+1618,Buqda Caqable,4.06,45.2575,Somalia,60000.0
+1619,Bougouni,11.4167,-7.4833,Mali,59679.0
+1620,Chibuto,-24.6833,33.5333,Mozambique,58012.0
+1621,Ouinhri,7.0,2.45,Benin,59381.0
+1622,Oued Lill,36.8333,10.05,Tunisia,57882.0
+1623,Camacupa,-12.0256,17.4686,Angola,59000.0
+1624,Kélibia,36.85,11.1,Tunisia,58491.0
+1625,Rass el Djebel,37.215,10.12,Tunisia,58241.0
+1626,Mpondwe,0.04,29.725,Uganda,58600.0
+1627,Boufarik,36.575,2.9097,Algeria,57162.0
+1628,Abaji,8.4756,6.9433,Nigeria,58444.0
+1629,Pebane,-17.2667,38.1667,Mozambique,58342.0
+1630,Antsalova,-18.6667,44.6167,Madagascar,58280.0
+1631,Matamey,13.4,8.6,Niger,58025.0
+1632,Benslimane,33.6167,-7.1167,Morocco,57101.0
+1633,Ambahikily,-21.6,43.6667,Madagascar,58027.0
+1634,Mogoditshane,-24.6333,25.8667,Botswana,57637.0
+1635,Grand-Popo,6.2833,1.8333,Benin,57636.0
+1636,Moknine,35.6333,10.9,Tunisia,57111.0
+1637,Beni Enzar,35.2667,-2.9333,Morocco,56582.0
+1638,Foumbot,5.5,10.6333,Cameroon,57367.0
+1639,Cuvelai,-15.6667,15.8,Angola,57398.0
+1640,Richards Bay,-28.7694,32.0594,South Africa,57387.0
+1641,M’diq,35.6858,-5.3253,Morocco,56227.0
+1642,Ipele,7.1333,5.6667,Nigeria,57000.0
+1643,Nova Esperança,-6.7333,15.9,Angola,57248.0
+1644,Azzaba,36.7333,7.1,Algeria,56922.0
+1645,Moramanga,-18.9469,48.2303,Madagascar,57084.0
+1646,Semara,26.7394,-11.6703,Morocco,57035.0
+1647,Bura,3.1722,42.1411,Somalia,57000.0
+1648,Cuemba,-12.15,18.0833,Angola,56963.0
+1649,Athiémé,6.5833,1.6667,Benin,56483.0
+1650,Hohoe,7.149,0.4746,Ghana,56202.0
+1651,Winneba,5.35,-0.625,Ghana,55331.0
+1652,Mota,11.0833,37.8667,Ethiopia,56156.0
+1653,Oke-Mesi,7.8167,4.9167,Nigeria,56000.0
+1654,Finote Selam,10.7,37.2667,Ethiopia,55567.0
+1655,Nyenga,0.38,33.15,Uganda,55600.0
+1656,Ambilobe,-13.2,49.05,Madagascar,56000.0
+1657,Tsévié,6.4333,1.2167,Togo,55775.0
+1658,Umm Ruwaba,12.9046,31.2079,Sudan,55742.0
+1659,Porto Alexandre,-15.8,11.85,Angola,55494.0
+1660,Agbangnizoun,7.0667,1.9667,Benin,55001.0
+1661,Ucuma,-12.85,15.0667,Angola,55054.0
+1662,Bilis Qooqaani,0.2822,41.7144,Somalia,55000.0
+1663,Luquembo,-10.7333,17.8833,Angola,54880.0
+1664,Dandarah,26.1681,32.6561,Egypt,53109.0
+1665,Antanifotsy,-19.68,47.33,Madagascar,54448.0
+1666,Ankadinondry-Sakay,-19.0,46.4639,Madagascar,54217.0
+1667,Bir Ali Ben Khalifa,34.7339,10.1,Tunisia,54143.0
+1668,Chèddra,13.4428,16.0508,Chad,54072.0
+1669,Markala,13.6739,-6.075,Mali,53738.0
+1670,Bacaadweyn,7.1917,47.5258,Somalia,53890.0
+1671,Kongoussi,13.3333,-1.5333,Burkina Faso,53641.0
+1672,Cangola,-7.9667,15.8667,Angola,53720.0
+1673,Port Shepstone,-30.75,30.45,South Africa,52793.0
+1674,Cambundi Catembo,-10.0756,17.5569,Angola,53600.0
+1675,Morondava,-20.2847,44.3175,Madagascar,53510.0
+1676,Dangila,11.2667,36.8333,Ethiopia,53225.0
+1677,Akbou,36.4667,4.5333,Algeria,52282.0
+1678,Kelaa Kebira,35.8667,10.5333,Tunisia,52685.0
+1679,Bargny,14.6939,-17.2336,Senegal,51188.0
+1680,Ambohibary,-19.6167,47.15,Madagascar,52000.0
+1681,Cangandala,-9.7833,16.4333,Angola,52220.0
+1682,Ampanihy,-24.6833,44.75,Madagascar,52053.0
+1683,Yendi,9.4324,-0.0043,Ghana,52008.0
+1684,Ad Dabbah,18.0502,30.9495,Sudan,52000.0
+1685,Ntoum,0.3844,9.7539,Gabon,51954.0
+1686,Baham,5.3333,10.4,Cameroon,51500.0
+1687,Knysna,-34.0356,23.0489,South Africa,51078.0
+1688,Butare,-2.6,29.75,Rwanda,50220.0
+1689,Sakubva,-18.9833,32.65,Zimbabwe,50000.0
+1690,Goba,7.0,39.9833,Ethiopia,49309.0
+1691,Banī Walīd,31.7619,14.0139,Libya,50824.0
+1692,El Jem,35.2967,10.7128,Tunisia,50611.0
+1693,Mahalapye,-23.1,26.8,Botswana,50744.0
+1694,Metema,12.9667,36.2,Ethiopia,50581.0
+1695,Tebourba,36.8333,9.8333,Tunisia,50458.0
+1696,Ikot Okoro,4.9,7.7167,Nigeria,50000.0
+1697,Kabarore,-1.6211,30.385,Rwanda,50288.0
+1698,Tājūrā’,32.8818,13.3399,Libya,48836.0
+1699,Déressia,9.7603,16.2697,Chad,50113.0
+1700,Gogrial,8.53,28.1,South Sudan,50065.0
+1701,Upper Buchanan,5.9161,-10.0525,Liberia,48315.0
+1702,Ceel Dheere,5.3683,46.1911,Somalia,50000.0
+1703,Godinlabe,5.8794,46.6308,Somalia,50000.0
+1704,Abū Ḩamad,19.5433,33.3378,Sudan,50000.0
+1705,Ejeda,-24.35,44.5167,Madagascar,49915.0
+1706,Vryburg,-26.95,24.7472,South Africa,49588.0
+1707,Mojo,8.65,39.0833,Ethiopia,49521.0
+1708,Mbouda,5.6333,10.25,Cameroon,49313.0
+1709,Berber,18.0306,33.9933,Sudan,49556.0
+1710,Muhanga,-2.0845,29.7527,Rwanda,49038.0
+1711,Ad Darwa,33.4167,-7.5333,Morocco,47719.0
+1712,Al Aaroui,35.0029,-3.0311,Morocco,47599.0
+1713,Farajok,3.8724,32.4792,South Sudan,49000.0
+1714,Maţāy,28.4167,30.75,Egypt,46903.0
+1715,’Aïn Azel,35.8433,5.5219,Algeria,48487.0
+1716,Begoro,6.3833,-0.3833,Ghana,48516.0
+1717,Titao,13.7667,-2.0736,Burkina Faso,48242.0
+1718,Mīt Salsīl,31.1667,31.8,Egypt,47217.0
+1719,Kuilsrivier,-34.0333,18.7,South Africa,46686.0
+1720,Ambatondrazaka,-17.8256,48.4289,Madagascar,47649.0
+1721,Ouled Moussa,36.6831,3.3681,Algeria,45770.0
+1722,Douz,33.45,9.0167,Tunisia,47182.0
+1723,Saranambana,-17.25,49.1833,Madagascar,47000.0
+1724,Faratsiho,-19.4,46.95,Madagascar,46569.0
+1725,Banī ‘Ubayd,31.0234,31.6479,Egypt,45157.0
+1726,Joal-Fadiout,14.1667,-16.8333,Senegal,45903.0
+1727,Kafr al Baţţīkh,31.3234,31.7612,Egypt,44716.0
+1728,Amboasary,-25.05,46.3833,Madagascar,45989.0
+1729,Koupéla,12.1794,-0.3517,Burkina Faso,45900.0
+1730,Aribinda,14.2292,-0.8633,Burkina Faso,45818.0
+1731,Voi,-3.3906,38.5769,Kenya,45483.0
+1732,Beaufort West,-32.35,22.5833,South Africa,44737.0
+1733,Aliwal North,-30.7,26.7,South Africa,44436.0
+1734,Gaya,11.8878,3.4467,Niger,45465.0
+1735,Busaar,2.6722,41.3225,Somalia,45533.0
+1736,Carnot,4.94,15.87,Central African Republic,45421.0
+1737,Birāk,27.5333,14.2834,Libya,45421.0
+1738,Garango,11.8,-0.55,Burkina Faso,45150.0
+1739,Gaoua,10.3167,-3.1667,Burkina Faso,45189.0
+1740,Jedeïda,36.8333,9.9167,Tunisia,45000.0
+1741,Nimule,3.5961,32.0636,South Sudan,45000.0
+1742,Hassi Messaoud,31.7,6.0667,Algeria,45147.0
+1743,Yirga ‘Alem,6.75,38.4167,Ethiopia,43815.0
+1744,Shaḩḩāt,32.825,21.8581,Libya,45000.0
+1745,Kutum,14.2056,24.65,Sudan,45000.0
+1746,Nsawam,5.8,-0.35,Ghana,44522.0
+1747,Tori-Bossito,6.5031,2.145,Benin,44569.0
+1748,Abū al Maţāmīr,30.9084,30.1485,Egypt,44415.0
+1749,Tsiroanomandidy,-18.7698,46.05,Madagascar,44461.0
+1750,Tongoma,8.65,-11.0667,Sierra Leone,44376.0
+1751,Volksrust,-27.3667,29.8833,South Africa,43378.0
+1752,Manakara,-22.15,48.0,Madagascar,44237.0
+1753,Korogwe,-5.1558,38.4503,Tanzania,44000.0
+1754,Tinajdad,31.5,-5.0167,Morocco,43999.0
+1755,Talatamaty,-18.8333,47.45,Madagascar,44082.0
+1756,Mucaba,-7.1667,14.9333,Angola,43974.0
+1757,’Aïn Arnat,36.1833,5.3167,Algeria,43551.0
+1758,Tanghin-Dassouri,12.2667,-1.7167,Burkina Faso,43675.0
+1759,Şān al Ḩajar al Qiblīyah,30.9769,31.88,Egypt,43157.0
+1760,Chefchaouene,35.1714,-5.2697,Morocco,42786.0
+1761,Macenta,8.5504,-9.48,Guinea,43102.0
+1762,Paoskoto,13.7833,-15.8167,Senegal,43460.0
+1763,Cové,7.2333,2.3,Benin,43554.0
+1764,Sawākin,19.1025,37.33,Sudan,43337.0
+1765,Douar Bni Malek,34.78,-5.6425,Morocco,43282.0
+1766,Musina,-22.3381,30.0417,South Africa,42678.0
+1767,Cuchi,-14.65,16.9,Angola,42974.0
+1768,Itapa-Ekiti,7.8131,5.3844,Nigeria,42509.0
+1769,Sidi Mohamed Lahmar,34.7167,-6.2667,Morocco,42637.0
+1770,Cabo Bojador,26.1333,-14.5,Morocco,42651.0
+1771,Fianga,9.9153,15.1375,Chad,42606.0
+1772,Sansanné-Mango,10.3556,0.4756,Togo,42626.0
+1773,Hwange,-18.3647,26.5,Zimbabwe,42581.0
+1774,Maroantsetra,-15.4333,49.75,Madagascar,42529.0
+1775,Tineghir,31.5147,-5.5328,Morocco,42044.0
+1776,Beitbridge,-22.2167,30.0,Zimbabwe,41767.0
+1777,Morarano Chrome,-17.75,48.1667,Madagascar,42147.0
+1778,Kollo,13.0167,1.8833,Niger,42192.0
+1779,Mampong,7.0667,-1.4,Ghana,42037.0
+1780,Sbiba,35.5467,9.0736,Tunisia,42091.0
+1781,Yagoua,10.3428,15.2406,Cameroon,41957.0
+1782,Soliman,36.7,10.4833,Tunisia,41579.0
+1783,Moatize,-16.1167,33.7333,Mozambique,42000.0
+1784,Fenoarivo Atsinanana,-17.3814,49.4092,Madagascar,41734.0
+1785,San,13.3004,-4.9,Mali,41386.0
+1786,Ishaka,-0.545,30.1383,Uganda,41063.0
+1787,Ihnāsyā al Madīnah,29.0833,30.9333,Egypt,40001.0
+1788,Gatunda,-1.435,30.0211,Rwanda,41000.0
+1789,Ambohitrimanjaka,-18.8667,47.4333,Madagascar,41604.0
+1790,Mersa,11.6667,39.6583,Ethiopia,41253.0
+1791,Tabarka,36.9544,8.7581,Tunisia,41293.0
+1792,Ganta,7.2375,-8.9814,Liberia,41106.0
+1793,Ambositra,-20.5167,47.25,Madagascar,41078.0
+1794,Kabuga,-1.9667,30.2167,Rwanda,40202.0
+1795,Chiredzi,-21.0389,31.6778,Zimbabwe,40100.0
+1796,Cuito Cuanavale,-15.1667,19.1667,Angola,40829.0
+1797,Zoumi,34.8,-5.35,Morocco,40661.0
+1798,Nabarūh,31.0942,31.3,Egypt,38953.0
+1799,Douar Laouamra,31.8,-8.7167,Morocco,40605.0
+1800,Magburaka,8.7169,-11.9433,Sierra Leone,40313.0
+1801,Gourcy,13.2167,-2.35,Burkina Faso,40144.0
+1802,Secunda,-26.5161,29.2028,South Africa,40198.0
+1803,Sejenane,37.0564,9.2383,Tunisia,40166.0
+1804,Kambia,9.1167,-12.9167,Sierra Leone,40000.0
+1805,Soavinandriana,-19.1667,46.7333,Madagascar,40045.0
+1806,Matsoandakana,-14.9667,49.25,Madagascar,40000.0
+1807,Tivaouane,14.95,-16.8167,Senegal,39755.0
+1808,Toukountouna,10.4986,1.3756,Benin,39779.0
+1809,Benenitra,-23.4522,45.0781,Madagascar,39766.0
+1810,Asamankese,5.8667,-0.6667,Ghana,39435.0
+1811,Rusape,-18.5367,32.1247,Zimbabwe,37906.0
+1812,Teboulba,35.67,10.9,Tunisia,37485.0
+1813,Draa el Mizan,36.5333,3.8333,Algeria,38886.0
+1814,Moanda,-1.5667,13.2,Gabon,39298.0
+1815,Cacuso,-8.2333,15.35,Angola,39302.0
+1816,Sidi Bibi,30.2333,-9.5333,Morocco,39042.0
+1817,Androka,-25.1167,44.45,Madagascar,39168.0
+1818,Ambatomainty,-17.6833,48.2167,Madagascar,39000.0
+1819,Souma,36.5183,2.9053,Algeria,37461.0
+1820,Bougara,36.5333,3.0833,Algeria,38352.0
+1821,Pala Oua,9.35,14.9667,Chad,38975.0
+1822,Dabola,10.75,-11.1167,Guinea,38617.0
+1823,Yako,12.9667,-2.2667,Burkina Faso,38689.0
+1824,Metlaoui,34.3333,8.4,Tunisia,38634.0
+1825,Vangaindrano,-23.35,47.6,Madagascar,38537.0
+1826,Darāw,24.4,32.9167,Egypt,38400.0
+1827,Nigel,-26.4203,28.4683,South Africa,38318.0
+1828,Antsohihy,-14.8762,47.9834,Madagascar,38253.0
+1829,Taounate,34.5358,-4.64,Morocco,37616.0
+1830,Anosiala,-18.7833,47.4167,Madagascar,36863.0
+1831,Savelugu,9.6167,-0.8333,Ghana,38074.0
+1832,Obala,4.1667,11.5333,Cameroon,37888.0
+1833,Kapiri Mposhi,-13.9772,28.6847,Zambia,37942.0
+1834,Tunduma,-9.3,32.7667,Tanzania,36556.0
+1835,Puri,-7.6833,15.6,Angola,37910.0
+1836,Mahanoro,-19.9,48.8,Madagascar,37800.0
+1837,Malmesbury,-33.45,18.7333,South Africa,35897.0
+1838,Bamendjou,5.4,10.3167,Cameroon,37547.0
+1839,Bouznika,33.7897,-7.1575,Morocco,37238.0
+1840,Liwonde,-15.0667,35.2333,Malawi,36421.0
+1841,Kérou,10.825,2.1094,Benin,37419.0
+1842,Aguelmous,33.15,-5.8333,Morocco,35626.0
+1843,Andilamena,-17.0167,48.5833,Madagascar,37229.0
+1844,Manazary,-19.05,46.8667,Madagascar,37000.0
+1845,Mandoto,-19.5667,46.2833,Madagascar,37000.0
+1846,Beni Khiar,36.4667,10.7833,Tunisia,36686.0
+1847,Dar Chabanne,36.47,10.75,Tunisia,35859.0
+1848,Monatélé,4.2667,11.2,Cameroon,36933.0
+1849,Aourir,30.4833,-9.6333,Morocco,36948.0
+1850,Agogo,6.8,-1.0833,Ghana,36797.0
+1851,Ikongo,-21.8833,47.4333,Madagascar,36684.0
+1852,Mek’ī,8.15,38.8167,Ethiopia,36597.0
+1853,Mbulu,-3.85,35.55,Tanzania,36408.0
+1854,Bindé,11.75,-1.1,Burkina Faso,36518.0
+1855,Songo,-15.6142,32.7709,Mozambique,36523.0
+1856,Ekpé,6.4,2.5333,Benin,34917.0
+1857,Masasi,-10.7296,38.7999,Tanzania,36032.0
+1858,Mamfe,5.7667,9.2833,Cameroon,36500.0
+1859,Anloga,5.7919,0.9003,Ghana,35933.0
+1860,Palapye,-22.55,27.1333,Botswana,36211.0
+1861,Tlokweng,-24.6667,25.9667,Botswana,35982.0
+1862,Lunsar,8.6833,-12.5333,Sierra Leone,36108.0
+1863,Ampasina-Maningory,-17.2167,49.4167,Madagascar,36000.0
+1864,Vohipeno,-17.1667,49.3,Madagascar,36000.0
+1865,Zvishavane,-20.3333,30.0333,Zimbabwe,35229.0
+1866,Chipinge,-20.2,32.62,Zimbabwe,34959.0
+1867,Geiro,-6.1428,36.8694,Tanzania,35638.0
+1868,Farafangana,-22.8167,47.8167,Madagascar,34676.0
+1869,Ambohibary,-18.9,48.2333,Madagascar,35923.0
+1870,Kumo,10.0431,11.2183,Nigeria,35712.0
+1871,Prestea,5.4333,-2.15,Ghana,35760.0
+1872,Vavatenina,-17.4667,49.2,Madagascar,35750.0
+1873,Macomia,-12.2377,40.119,Mozambique,35682.0
+1874,Imzouren,35.15,-3.85,Morocco,33852.0
+1875,Bedēsa,6.883,37.9329,Ethiopia,35294.0
+1876,Karoi,-16.81,29.7,Zimbabwe,34200.0
+1877,Dundee,-28.1725,30.2314,South Africa,34924.0
+1878,Zorgo,12.25,-0.6167,Burkina Faso,35406.0
+1879,Newton,8.3333,-13.0667,Sierra Leone,35300.0
+1880,Ikot Abasi,4.5704,7.56,Nigeria,34911.0
+1881,Mahabo,-20.3833,44.6667,Madagascar,35532.0
+1882,Akouda,35.8714,10.5697,Tunisia,34494.0
+1883,Aïne Draham,36.7833,8.7,Tunisia,35400.0
+1884,Nyamata,-2.205,30.145,Rwanda,34922.0
+1885,Bou Salem,36.6167,8.9667,Tunisia,35192.0
+1886,Baba I,6.0622,10.4903,Cameroon,35000.0
+1887,Mananara Avaratra,-16.1667,49.7667,Madagascar,35148.0
+1888,Mahasolo,-19.1167,46.3667,Madagascar,35152.0
+1889,Ngororero,-1.865,29.625,Rwanda,34559.0
+1890,Ikalamavony,-21.15,46.5833,Madagascar,35114.0
+1891,Azazga,36.7453,4.3711,Algeria,34683.0
+1892,Bagamoyo,-6.4444,38.9028,Tanzania,35000.0
+1893,Firavahana,-18.6333,46.8667,Madagascar,35000.0
+1894,Mlimba,-8.7786,35.8111,Tanzania,34970.0
+1895,Fotadrevo,-24.05,45.0167,Madagascar,35000.0
+1896,Kalaa Srira,35.8236,10.5583,Tunisia,34548.0
+1897,Tarkwa,5.3,-1.9833,Ghana,34941.0
+1898,Dabaga,17.2667,8.1,Niger,35000.0
+1899,Ngaoundal,6.5,13.2667,Cameroon,34971.0
+1900,Misungwi,-2.85,33.0833,Tanzania,34612.0
+1901,Dabouziya,33.3064,-8.3548,Morocco,34607.0
+1902,Biharamulo,-2.6333,31.3167,Tanzania,34038.0
+1903,Qaşr al Qarabūllī,32.75,13.7167,Libya,34584.0
+1904,Betafo,-19.84,46.855,Madagascar,34336.0
+1905,Skhira,34.3006,10.0708,Tunisia,34511.0
+1906,Quilevo,-7.6167,15.05,Angola,34297.0
+1907,Mnasra,34.7667,-5.5167,Morocco,34429.0
+1908,Biwong,3.1333,11.15,Cameroon,34374.0
+1909,Gyapekurom,7.5833,-2.7833,Ghana,34107.0
+1910,Rafaḩ,31.2808,34.2414,Egypt,34055.0
+1911,Victoria Falls,-17.9333,25.8333,Zimbabwe,33060.0
+1912,Mahasoabe,-21.5833,47.2167,Madagascar,34000.0
+1913,Réo,12.3167,-2.4667,Burkina Faso,33893.0
+1914,Ankazomiriotra,-19.65,46.5,Madagascar,34000.0
+1915,Maromandia,-14.2167,48.0833,Madagascar,34000.0
+1916,Oulad Zemam,32.35,-6.6333,Morocco,33652.0
+1917,Elmina,5.0833,-1.35,Ghana,33576.0
+1918,Lebowakgomo,-24.2,29.5,South Africa,33308.0
+1919,Ben Ahmed,33.0655,-7.2464,Morocco,33105.0
+1920,El Ksar,34.39,8.8,Tunisia,33729.0
+1921,Golungo Alto,-9.1333,14.7667,Angola,33834.0
+1922,Didouche Mourad,36.4484,6.6339,Algeria,33266.0
+1923,Léo,11.1,-2.1,Burkina Faso,33717.0
+1924,Rubengera,-2.0519,29.4144,Rwanda,33019.0
+1925,Comé,6.4,1.8833,Benin,33507.0
+1926,Batouri,4.4333,14.3667,Cameroon,33594.0
+1927,Iriba,15.1167,22.25,Chad,33572.0
+1928,Orodara,10.98,-4.91,Burkina Faso,33422.0
+1929,Niangoloko,10.2833,-4.9167,Burkina Faso,33500.0
+1930,Ar Raḩmānīyah,31.1062,30.6337,Egypt,32093.0
+1931,Amparafaravola,-17.5833,48.2167,Madagascar,33299.0
+1932,Gīmbī,9.1667,35.8333,Ethiopia,31809.0
+1933,Muconda,-10.6,21.3167,Angola,33264.0
+1934,Djenné,13.9,-4.55,Mali,32944.0
+1935,De Aar,-30.65,24.0167,South Africa,32318.0
+1936,Kakira,0.5036,33.2825,Uganda,32819.0
+1937,Vohitromby,-23.3,47.5333,Madagascar,33000.0
+1938,Ambodimanga II,-17.2667,49.1667,Madagascar,33000.0
+1939,Didy,-18.1167,48.5333,Madagascar,33039.0
+1940,Zumbo,-15.6167,30.45,Mozambique,33000.0
+1941,Maḩallat Damanah,31.0754,31.4959,Egypt,31293.0
+1942,Ayorou,14.735,0.92,Niger,32958.0
+1943,Massango,-11.3167,14.9333,Angola,32918.0
+1944,Bembe,-7.1,14.45,Angola,32955.0
+1945,Dara,15.35,-15.6,Senegal,32941.0
+1946,Dellys,36.9133,3.9141,Algeria,32954.0
+1947,Arbaoua,34.9,-5.9167,Morocco,32690.0
+1948,Quţūr,30.9735,30.9563,Egypt,31366.0
+1949,Baraawe,1.1133,44.0303,Somalia,32800.0
+1950,Buco Zau,-4.795,12.5467,Angola,32792.0
+1951,Ansongo,15.665,0.5028,Mali,32709.0
+1952,Redcliff,-19.0333,29.7833,Zimbabwe,32346.0
+1953,Mateur,37.04,9.665,Tunisia,32546.0
+1954,Plettenberg Bay,-34.05,23.3667,South Africa,31804.0
+1955,Wobulenzi,0.72,32.53,Uganda,31000.0
+1956,Nouna,12.7333,-3.8667,Burkina Faso,32428.0
+1957,Virei,-15.7167,12.95,Angola,32445.0
+1958,Maputsoe,-28.895,27.907,Lesotho,32117.0
+1959,Draa Ben Khedda,36.7349,3.9556,Algeria,31382.0
+1960,Āreka,7.071,37.7076,Ethiopia,31408.0
+1961,Kiranomena,-18.2833,46.05,Madagascar,32354.0
+1962,Kalisizo,-0.535,31.6225,Uganda,31439.0
+1963,Bambadinca,12.0333,-14.8667,Guinea-Bissau,32255.0
+1964,Messaména,3.7333,12.8333,Cameroon,32282.0
+1965,Antsohimbondrona,-13.0833,48.85,Madagascar,32080.0
+1966,Douar Oulad Hssine,33.068,-8.5107,Morocco,32130.0
+1967,Dar Ould Zidouh,32.3167,-6.9,Morocco,31170.0
+1968,Vohilava,-21.0667,48.0,Madagascar,32000.0
+1969,Bekoratsaka,-16.1,47.5,Madagascar,32000.0
+1970,Bahharet Oulad Ayyad,34.7702,-6.3047,Morocco,31860.0
+1971,Itampolo,-24.6833,43.95,Madagascar,32000.0
+1972,Asilah,35.4667,-6.0333,Morocco,31147.0
+1973,Andriba,-17.5833,46.9333,Madagascar,32000.0
+1974,Nanyuki,0.0167,37.0667,Kenya,31577.0
+1975,Cacolo,-10.1333,19.2667,Angola,31895.0
+1976,Boghni,36.5437,3.9523,Algeria,31263.0
+1977,’Aïn Abid,36.2325,6.944,Algeria,31743.0
+1978,Al ’Attawia,31.8347,-7.3125,Morocco,30315.0
+1979,Westville,-29.831,30.925,South Africa,30508.0
+1980,Savé,8.0333,2.4833,Benin,31444.0
+1981,Mograne,34.4167,-6.4333,Morocco,31292.0
+1982,Al Ḩusaynīyah,30.8617,31.9181,Egypt,30825.0
+1983,Ngudu,-2.9667,33.3333,Tanzania,31123.0
+1984,Bittou,11.2575,-0.3039,Burkina Faso,31210.0
+1985,Ambatomiady,-19.6833,47.4167,Madagascar,31140.0
+1986,Sakaraha,-22.9167,44.5497,Madagascar,31183.0
+1987,Benguema,8.3333,-13.0667,Sierra Leone,30268.0
+1988,Bembèrèkè,10.225,2.6681,Benin,31101.0
+1989,Vohitrandriana,-20.75,48.2667,Madagascar,31000.0
+1990,Chagne,10.95,36.5,Ethiopia,30938.0
+1991,Andranovory,-23.1333,44.1333,Madagascar,31000.0
+1992,Ambanja,-13.6786,48.4522,Madagascar,30621.0
+1993,Mocímboa da Praia,-11.35,40.3333,Mozambique,30950.0
+1994,Dolo Odo,4.1667,42.0667,Ethiopia,30970.0
+1995,Tunduru,-11.0667,37.35,Tanzania,30761.0
+1996,Banamba,13.55,-7.45,Mali,30591.0
+1997,Founougo,11.4808,2.5322,Benin,30527.0
+1998,Metu,8.3,35.5833,Ethiopia,28782.0
+1999,Kailahun,8.2772,-10.5739,Sierra Leone,30411.0
+2000,Lalla Mimouna,34.85,-6.0669,Morocco,29479.0
+2001,Mukumbura,-16.2,31.6833,Zimbabwe,30470.0
+2002,Motema,8.6167,-11.1667,Sierra Leone,30452.0
+2003,Tchindjendje,-12.8167,14.9333,Angola,30443.0
+2004,Sali,14.4383,-17.0125,Senegal,30000.0
+2005,Télimélé,10.905,-13.043,Guinea,30311.0
+2006,Abū Şuwayr,30.5633,32.1155,Egypt,30320.0
+2007,Souk et Tnine Jorf el Mellah,34.4833,-5.5169,Morocco,28681.0
+2008,Kibiti,-7.7296,38.95,Tanzania,30163.0
+2009,Kombissiri,12.0667,-1.3333,Burkina Faso,30137.0
+2010,Jinka,5.7833,36.5667,Ethiopia,30249.0
+2011,Tameslouht,31.5,-8.1,Morocco,28978.0
+2012,Tizi Gheniff,36.5891,3.7678,Algeria,29409.0
+2013,Ikoto,4.0783,33.1089,South Sudan,30000.0
+2014,El Kseur,36.6844,4.8522,Algeria,29842.0
+2015,Mucari,-9.4667,16.9167,Angola,30112.0
+2016,L’Arbaa Naït Irathen,36.6367,4.2067,Algeria,29376.0
+2017,Shubrākhīt,31.0275,30.7128,Egypt,28505.0
+2018,Bugarama,-2.6972,29.0083,Rwanda,28810.0
+2019,Ambalavao,-21.8333,46.9333,Madagascar,30000.0
+2020,Malème Hodar,14.0883,-15.2944,Senegal,30000.0
+2021,Ambinanitelo,-15.35,49.5833,Madagascar,30000.0
+2022,Degeh Bur,8.2167,43.5667,Ethiopia,30027.0
+2023,Andranomanelatra,-19.7833,47.1,Madagascar,30000.0
+2024,Uar Esgudud,1.2667,41.3833,Somalia,30000.0
+2025,Baxdo,5.7889,47.2267,Somalia,30000.0
+2026,Bourèm Guindou,16.9004,-0.35,Mali,30000.0
+2027,Tsitondroina,-21.3,45.9833,Madagascar,30000.0
+2028,Dala,-11.0342,20.2036,Angola,29991.0
+2029,Santiago de Baney,3.7,8.9167,Equatorial Guinea,29366.0
+2030,N’Gaous,35.555,5.6106,Algeria,29504.0
+2031,Mbanga,4.5092,9.5681,Cameroon,29732.0
+2032,Antsampandrano,-19.9167,47.5667,Madagascar,29788.0
+2033,Nanga Eboko,4.6708,12.3731,Cameroon,29814.0
+2034,Rhennouch,33.93,10.07,Tunisia,28051.0
+2035,Manjo,4.85,9.8167,Cameroon,29683.0
+2036,Bonou,6.9,2.45,Benin,29656.0
+2037,Dembī Dolo,8.5333,34.8,Ethiopia,29448.0
+2038,Antsahalava,-19.5833,47.4667,Madagascar,29556.0
+2039,Figuil,9.7667,13.9667,Cameroon,29399.0
+2040,Chichaoua,31.5333,-8.7667,Morocco,27869.0
+2041,Budaka,1.0167,33.945,Uganda,29100.0
+2042,Fritissa,33.6167,-3.55,Morocco,29460.0
+2043,Timizart,36.8,4.2667,Algeria,28996.0
+2044,Namaacha,-25.9667,32.0333,Mozambique,29272.0
+2045,Fandriana,-20.2333,47.3833,Madagascar,29232.0
+2046,Kakiri,0.42,32.39,Uganda,28100.0
+2047,Cyangugu,-2.4833,28.8967,Rwanda,27416.0
+2048,Catandica,-18.0564,33.1747,Mozambique,29052.0
+2049,Thabazimbi,-24.6,27.4,South Africa,28847.0
+2050,Sébikhotane,14.7469,-17.1367,Senegal,27402.0
+2051,Rehoboth,-23.3167,17.0833,Namibia,28843.0
+2052,Andoharanomaitso,-21.4667,46.95,Madagascar,28708.0
+2053,Ambatolampy,-19.3861,47.4292,Madagascar,28500.0
+2054,Fichē,9.8,38.7333,Ethiopia,27493.0
+2055,Oulad Yaïch,32.4167,-6.3333,Morocco,27476.0
+2056,Taza,35.0639,-5.2025,Morocco,28713.0
+2057,Pitoa,9.3833,13.5333,Cameroon,28636.0
+2058,Douar Oulad Aj-jabri,32.2567,-6.7839,Morocco,28438.0
+2059,Fenoarivobe,-18.4497,46.5617,Madagascar,28616.0
+2060,Mampikony,-16.0917,47.6472,Madagascar,28593.0
+2061,Lushoto,-4.7928,38.2911,Tanzania,28190.0
+2062,Kpandu,7.0,0.3,Ghana,28334.0
+2063,Arivonimamo,-19.0333,47.1667,Madagascar,28324.0
+2064,Bamba,17.0333,-1.4,Mali,28524.0
+2065,Oulad Hammou,33.2499,-8.3346,Morocco,28449.0
+2066,Mpika,-11.83,31.46,Zambia,28445.0
+2067,Jeffrey’s Bay,-34.0333,24.9167,South Africa,27107.0
+2068,Lagdo,9.05,13.7333,Cameroon,28239.0
+2069,Shakīso,5.75,38.9167,Ethiopia,28260.0
+2070,Bellaa,30.0314,-9.5542,Morocco,27699.0
+2071,Safājā,26.7333,33.9333,Egypt,28261.0
+2072,Dar Bel Hamri,34.1889,-5.9697,Morocco,28156.0
+2073,Babar,35.1692,7.1013,Algeria,28182.0
+2074,Sandrandahy,-20.35,47.3,Madagascar,28000.0
+2075,Tsinjoarivo,-19.6333,47.6833,Madagascar,28108.0
+2076,Ambohijanahary,-17.4,48.3667,Madagascar,28000.0
+2077,Pô,11.1667,-1.15,Burkina Faso,28079.0
+2078,Moulay Bousselham,34.8786,-6.2933,Morocco,26608.0
+2079,Imito,-20.4167,47.3167,Madagascar,28000.0
+2080,Sahavato,-20.6,48.3333,Madagascar,28000.0
+2081,Tsinjoarivo,-18.9333,46.3167,Madagascar,27934.0
+2082,Ampasimanolotra,-18.8194,49.0736,Madagascar,27865.0
+2083,Bouka,10.2167,3.1333,Benin,27906.0
+2084,Ambohitompoina,-19.75,47.5667,Madagascar,27899.0
+2085,Mocímboa,-11.3196,40.35,Mozambique,27909.0
+2086,Dahmani,35.95,8.8333,Tunisia,27907.0
+2087,Bitam,2.0833,11.4833,Gabon,27923.0
+2088,Bignona,12.8167,-16.2333,Senegal,27826.0
+2089,Mboro,15.15,-16.9,Senegal,27693.0
+2090,Andapa,-14.65,49.65,Madagascar,27618.0
+2091,Axim,4.8667,-2.2333,Ghana,27719.0
+2092,Mananjary,-21.2311,48.3419,Madagascar,27686.0
+2093,K’olīto,7.3122,38.0892,Ethiopia,27359.0
+2094,Mazenod,-29.4642,27.4969,Lesotho,27553.0
+2095,Margate,-30.85,30.3667,South Africa,26785.0
+2096,Choba,4.8906,6.9033,Nigeria,27253.0
+2097,Ambodibonara,-20.3388,48.5177,Madagascar,27597.0
+2098,Duayaw-Nkwanta,7.1667,-2.1,Ghana,27476.0
+2099,Waddān,29.1611,16.1436,Libya,27590.0
+2100,Marolambo,-20.05,48.1167,Madagascar,27509.0
+2101,Navrongo,10.8847,-1.0903,Ghana,27306.0
+2102,Paouignan,7.6937,2.2673,Benin,27351.0
+2103,Tsaravary,-21.25,48.3,Madagascar,27000.0
+2104,Frankfort,-27.2833,28.5167,South Africa,26144.0
+2105,Behara,-24.95,46.3833,Madagascar,27285.0
+2106,El Alia,37.1667,10.0333,Tunisia,27075.0
+2107,Bourzanga,13.6781,-1.5461,Burkina Faso,27213.0
+2108,Nguti,5.3167,9.4167,Cameroon,27151.0
+2109,Alakamisy Itenina,-21.6333,47.15,Madagascar,27000.0
+2110,Sikonge,-5.6333,32.7667,Tanzania,27113.0
+2111,Ksebia,34.2933,-6.1594,Morocco,27059.0
+2112,Soanierana Ivongo,-16.9167,49.5833,Madagascar,26990.0
+2113,Miandrarivo,-19.4333,46.75,Madagascar,27000.0
+2114,Ambinanisakana,-16.95,49.5833,Madagascar,26990.0
+2115,Antsiatsiaka,-17.0,49.2,Madagascar,27000.0
+2116,Vohipaho,-23.55,47.5,Madagascar,27000.0
+2117,Bamessi,6.0333,10.5792,Cameroon,26802.0
+2118,Ar Rudayyif,34.3833,8.15,Tunisia,26976.0
+2119,Andranomavo,-16.5667,45.5833,Madagascar,27000.0
+2120,Mandabe,-21.05,44.9333,Madagascar,27000.0
+2121,Idigny,7.4833,2.7,Benin,26882.0
+2122,Ourika Wawrmas,30.7167,-6.5333,Morocco,26990.0
+2123,Manjacaze,-24.7117,33.8828,Mozambique,26641.0
+2124,Ambodiangezoka,-14.6,49.5,Madagascar,26673.0
+2125,Sabaa Aiyoun,33.9,-5.3667,Morocco,26277.0
+2126,Tamorot,34.9333,-4.7833,Morocco,26748.0
+2127,Bafoulabé,13.8064,-10.8322,Mali,26823.0
+2128,Apam,5.2789,-0.7397,Ghana,26466.0
+2129,Wanlaweyn,2.6167,44.9,Somalia,26700.0
+2130,Maevatanana,-16.95,46.8333,Madagascar,25928.0
+2131,Ratau,-29.3828,27.7892,Lesotho,26582.0
+2132,Masanwa,-3.1833,33.7833,Tanzania,26597.0
+2133,Sibi,12.3786,-8.3333,Mali,26633.0
+2134,Rich,32.2583,-4.5056,Morocco,25992.0
+2135,Okuta,9.2199,3.2005,Nigeria,26589.0
+2136,Werota,11.9167,37.7,Ethiopia,26317.0
+2137,Lichtenburg,-26.15,26.1667,South Africa,26338.0
+2138,Bouknadel,34.1333,-6.7333,Morocco,25255.0
+2139,Aït Faska,31.5058,-7.7161,Morocco,26210.0
+2140,Ksour Essaf,35.43,10.98,Tunisia,26219.0
+2141,Port Alfred,-33.5917,26.8875,South Africa,25859.0
+2142,Sapouy,11.5544,-1.7736,Burkina Faso,26345.0
+2143,Bourdoud,34.5922,-4.5492,Morocco,26236.0
+2144,Kalfou,10.2833,14.9333,Cameroon,26223.0
+2145,Beramanja,-13.3333,48.8667,Madagascar,26273.0
+2146,Mahitsy,-18.75,47.35,Madagascar,26056.0
+2147,Boureït,34.9833,-4.9167,Morocco,25872.0
+2148,Ambatomborona,-19.4,47.1167,Madagascar,26000.0
+2149,Ambatofotsy,-21.75,47.4833,Madagascar,26000.0
+2150,Marimba,-8.3667,17.0167,Angola,26180.0
+2151,Oum Hadjer,13.2833,19.6833,Chad,26136.0
+2152,Mizdah,31.445,12.9831,Libya,26107.0
+2153,Mahambo,-17.4833,49.4667,Madagascar,26000.0
+2154,Tsarazaza,-20.1333,47.2333,Madagascar,26000.0
+2155,Malaimbandy,-20.3333,45.6,Madagascar,26000.0
+2156,Diapaga,12.0667,1.7833,Burkina Faso,26013.0
+2157,Dano,11.1436,-3.0628,Burkina Faso,25922.0
+2158,Koko,11.4232,4.517,Nigeria,25792.0
+2159,Maintirano,-18.0667,44.0167,Madagascar,25788.0
+2160,Āgaro,7.85,36.5833,Ethiopia,25458.0
+2161,Andasibe,-17.3333,48.9,Madagascar,25831.0
+2162,Oulad Barhil,30.6408,-8.475,Morocco,24288.0
+2163,Louis Trichardt,-23.05,29.9,South Africa,25360.0
+2164,Mogtédo,12.2833,-0.8333,Burkina Faso,25699.0
+2165,Diébougou,10.9667,-3.25,Burkina Faso,25688.0
+2166,Oulad Said,32.632,-8.8456,Morocco,25650.0
+2167,Manyoni,-5.75,34.8333,Tanzania,25505.0
+2168,Lamzoudia,31.5833,-8.4833,Morocco,25674.0
+2169,Kamonkoli,1.075,34.0956,Uganda,25000.0
+2170,Palma,-10.7758,40.4667,Mozambique,25627.0
+2171,Tougué,11.44,-11.67,Guinea,25531.0
+2172,Ain Aicha,34.4833,-4.7,Morocco,25417.0
+2173,Salaga,8.55,-0.5167,Ghana,25472.0
+2174,Harbel,6.2833,-10.35,Liberia,25309.0
+2175,Hermanus,-34.4167,19.25,South Africa,25153.0
+2176,Ulongué,-14.7167,34.3667,Mozambique,25309.0
+2177,Chiromo,-16.55,35.1333,Malawi,25235.0
+2178,Kariba,-16.5167,28.8,Zimbabwe,24210.0
+2179,Burē,10.7,37.0667,Ethiopia,25084.0
+2180,Guéné,11.7306,3.2242,Benin,25206.0
+2181,El Ghiate,32.0331,-9.1625,Morocco,25162.0
+2182,Safsaf,34.5581,-6.0078,Morocco,25075.0
+2183,Catembe,-26.005,32.5597,Mozambique,25000.0
+2184,Boussé,12.6667,-1.8975,Burkina Faso,25022.0
+2185,Saltpond,5.2,-1.0667,Ghana,24689.0
+2186,Ādīs Zemen,12.1167,37.7833,Ethiopia,24849.0
+2187,Dbarwa,15.1,38.8333,Eritrea,25000.0
+2188,Kabanga,-2.9022,30.4986,Tanzania,24979.0
+2189,Antsirabe Avaratra,-13.9667,49.9667,Madagascar,25000.0
+2190,Fidirana,-19.5,46.5667,Madagascar,25000.0
+2191,Ampahana,-14.75,50.2167,Madagascar,25000.0
+2192,Mahatalaky,-24.7833,47.0833,Madagascar,25000.0
+2193,Kobo,12.15,39.6333,Ethiopia,24867.0
+2194,Ankazomborona,-16.1167,46.75,Madagascar,25000.0
+2195,Madaoua,14.0762,5.9586,Niger,24804.0
+2196,Tsaratanana,-16.7972,47.6528,Madagascar,24971.0
+2197,Echemmaia Est,32.0786,-8.6325,Morocco,24303.0
+2198,Dodola,6.9833,39.1833,Ethiopia,24767.0
+2199,Ouaoula,31.8667,-6.75,Morocco,24790.0
+2200,Sahasoa,-21.9833,45.95,Madagascar,24877.0
+2201,Douar Olad. Salem,32.8739,-8.8588,Morocco,24775.0
+2202,Anivorano Avaratra,-12.7333,49.2333,Madagascar,24838.0
+2203,Stutterheim,-32.5667,27.4167,South Africa,24673.0
+2204,Kakonko,-3.2796,30.96,Tanzania,24688.0
+2205,Chebba,35.2372,11.115,Tunisia,24515.0
+2206,Macia,-25.0333,33.1,Mozambique,24153.0
+2207,Shama,5.0167,-1.6333,Ghana,23699.0
+2208,Al Qubbah,32.7667,22.25,Libya,24631.0
+2209,Ain Dfali,34.599,-5.5488,Morocco,24521.0
+2210,Freha,36.762,4.3163,Algeria,24228.0
+2211,Gelemso,8.8167,40.5167,Ethiopia,24200.0
+2212,Grombalia,36.6,10.5,Tunisia,24336.0
+2213,Mekla,36.6876,4.2681,Algeria,24237.0
+2214,Zungeru,9.8128,6.1558,Nigeria,24447.0
+2215,Vilankulo,-22.0,35.3167,Mozambique,24433.0
+2216,Lukaya,-0.1508,31.8744,Uganda,24250.0
+2217,Ajim,33.7167,10.75,Tunisia,24294.0
+2218,Soamanandrariny,-19.65,47.2833,Madagascar,24003.0
+2219,Yokadouma,3.5167,15.05,Cameroon,24430.0
+2220,Ambohimasina,-19.65,46.7333,Madagascar,24352.0
+2221,Tadjmout,33.8667,2.5167,Algeria,24320.0
+2222,Douar ’Ayn Dfali,33.95,-4.45,Morocco,24241.0
+2223,Boulsa,12.6667,-0.5833,Burkina Faso,24200.0
+2224,Mahaiza,-19.9,46.8167,Madagascar,24244.0
+2225,Qiloane,-29.3625,27.6319,Lesotho,24093.0
+2226,Pout,14.7739,-17.0603,Senegal,23728.0
+2227,Skoura,31.0606,-6.5556,Morocco,24055.0
+2228,Feriana,34.95,8.5667,Tunisia,24198.0
+2229,Ambalamanasy II,-14.5167,49.5833,Madagascar,24211.0
+2230,Setti Fatma,31.2256,-7.6758,Morocco,24129.0
+2231,Ndora,-2.6033,29.8336,Rwanda,23813.0
+2232,Grootfontein,-19.5658,18.1036,Namibia,24099.0
+2233,Anjozorobe,-18.4033,47.85,Madagascar,24117.0
+2234,Beni Amrane,36.6686,3.5922,Algeria,23621.0
+2235,Ambatotsipihina,-19.6333,47.75,Madagascar,24003.0
+2236,Lopary,-23.1833,47.6667,Madagascar,24000.0
+2237,Tsiatosika,-21.2,48.2333,Madagascar,24000.0
+2238,Tegina,10.0706,6.1906,Nigeria,24037.0
+2239,Mapoteng,-29.1097,27.9739,Lesotho,23926.0
+2240,Badou,7.5833,0.6,Togo,24000.0
+2241,Gueznaia,35.72,-5.894,Morocco,23601.0
+2242,Zawyat an Nwaçer,33.3611,-7.6114,Morocco,23802.0
+2243,Miarinarivo,-17.65,49.1,Madagascar,24000.0
+2244,Antonibe,-15.1167,47.4,Madagascar,24000.0
+2245,Antanimieva,-22.2333,43.7667,Madagascar,24000.0
+2246,Ambohimahamasina,-21.9333,47.1833,Madagascar,23949.0
+2247,Kafr Sa‘d,31.3594,31.6865,Egypt,22500.0
+2248,Akwatia,6.05,-0.8,Ghana,23766.0
+2249,Andoany,-13.4,48.2666,Madagascar,22680.0
+2250,Khenichet-sur Ouerrha,34.4333,-5.6667,Morocco,23707.0
+2251,Douar Ouled Ayad,32.4167,-7.1,Morocco,23818.0
+2252,Quartier Militaire,-20.25,57.55,Mauritius,22745.0
+2253,Vélingara,13.15,-14.1167,Senegal,23775.0
+2254,El Maknassi,34.6042,9.6056,Tunisia,23789.0
+2255,Makouda,36.7909,4.0669,Algeria,23388.0
+2256,Oulad Hassoune,31.6503,-7.8361,Morocco,23475.0
+2257,Qifţ,25.9956,32.8158,Egypt,22063.0
+2258,Fria,10.3804,-13.55,Guinea,23729.0
+2259,Ayt Mohamed,32.5667,-6.9833,Morocco,23696.0
+2260,Beni Khalled,36.65,10.6,Tunisia,23356.0
+2261,Miantso,-18.7167,47.15,Madagascar,23691.0
+2262,Gitega,-3.426,29.8436,Burundi,23167.0
+2263,Carletonville,-26.3581,27.3981,South Africa,23000.0
+2264,Ruwa,-17.8897,31.2447,Zimbabwe,22038.0
+2265,Bni Frassen,34.3833,-4.3833,Morocco,23429.0
+2266,Pissila,13.1667,-0.8167,Burkina Faso,23420.0
+2267,Ambohimiadana,-19.2333,47.7833,Madagascar,23320.0
+2268,Nyakrom,5.6167,-0.7833,Ghana,22911.0
+2269,Goumori,11.1833,2.2833,Benin,23286.0
+2270,Miantsoarivo,-19.2,47.4,Madagascar,23000.0
+2271,Douar Imoukkane,35.0298,-4.8125,Morocco,23132.0
+2272,Warrenton,-28.1114,24.8497,South Africa,22588.0
+2273,Tsaratanana,-21.1833,47.6333,Madagascar,23252.0
+2274,Tighedouine,31.4236,-7.5208,Morocco,22971.0
+2275,Tadmaït,36.7427,3.9019,Algeria,22838.0
+2276,Tūkrah,32.5322,20.5722,Libya,23164.0
+2277,Bassar,9.25,0.7833,Togo,23181.0
+2278,Touboro,7.7708,15.3567,Cameroon,23196.0
+2279,Himora,14.2861,36.6097,Ethiopia,21653.0
+2280,Tnine Lgharbia,32.5719,-8.8568,Morocco,23074.0
+2281,Ambohitrarivo,-17.4667,48.35,Madagascar,23000.0
+2282,Bafilo,9.35,1.2667,Togo,23085.0
+2283,Sidi Ifni,29.3833,-10.1667,Morocco,21618.0
+2284,Okahandja,-21.9833,16.9167,Namibia,22639.0
+2285,Mékhé,15.1167,-16.6333,Senegal,22944.0
+2286,Mangidy,-21.25,46.8,Madagascar,23033.0
+2287,Sīwah,29.2,25.5167,Egypt,23080.0
+2288,Ambohitoaka,-16.0167,47.65,Madagascar,23000.0
+2289,Mahela,-20.9667,48.45,Madagascar,23000.0
+2290,Azové,6.95,1.7,Benin,22853.0
+2291,Amoucha,36.388,5.4108,Algeria,22767.0
+2292,Farahalana,-14.4333,50.1667,Madagascar,23000.0
+2293,Keta,5.9167,0.9833,Ghana,22739.0
+2294,Seva,5.9845,0.9414,Ghana,22739.0
+2295,Andalatanosy,-24.6667,45.6,Madagascar,23000.0
+2296,Shurugwi,-19.6667,30.0,Zimbabwe,22900.0
+2297,Niamtougou,9.7667,1.1,Togo,22986.0
+2298,Analamisampy,-22.4667,43.65,Madagascar,23000.0
+2299,Ondangwa,-17.9167,15.95,Namibia,22822.0
+2300,Marovato,-15.9,48.05,Madagascar,23000.0
+2301,Ankaramy,-13.9833,48.2,Madagascar,23000.0
+2302,Ankilizato,-20.4,45.05,Madagascar,23000.0
+2303,Ayos,3.9069,12.5272,Cameroon,22899.0
+2304,Garoua Boulaï,5.8833,14.55,Cameroon,22882.0
+2305,Robertson,-33.8,19.8833,South Africa,21929.0
+2306,Naciria,36.75,3.8333,Algeria,22431.0
+2307,Alnif,31.1167,-5.1667,Morocco,22724.0
+2308,Ivato,-20.6167,47.2,Madagascar,22745.0
+2309,Béguédo,11.7833,-0.7333,Burkina Faso,21894.0
+2310,Kigumba,1.815,32.01,Uganda,22000.0
+2311,Naqādah,25.9,32.7167,Egypt,21530.0
+2312,Asaita,11.5667,41.4333,Ethiopia,22718.0
+2313,Ambriz,-7.85,13.1167,Angola,22712.0
+2314,Lucala,-9.6333,14.0667,Angola,22674.0
+2315,Souk Tlet El Gharb,34.6211,-6.1336,Morocco,22554.0
+2316,Ouani,-12.135,44.4275,Comoros,22501.0
+2317,Morombe,-21.75,43.3667,Madagascar,22625.0
+2318,Sek’ot’a,12.6253,39.035,Ethiopia,22346.0
+2319,Medjez el Bab,36.6436,9.6042,Tunisia,22532.0
+2320,Bélabo,4.9333,13.3,Cameroon,22553.0
+2321,Kadiria,36.5333,3.6833,Algeria,22327.0
+2322,Doutou,6.55,1.8833,Benin,22099.0
+2323,Jebba,9.1539,4.8119,Nigeria,22411.0
+2324,Ambohimanga,-18.7667,47.5667,Madagascar,20872.0
+2325,Malaba,0.6444,34.2606,Uganda,20800.0
+2326,Betsizaraina,-19.95,48.75,Madagascar,22409.0
+2327,Namayumba,0.5281,32.2506,Uganda,22100.0
+2328,Arbi’a Tighadwiyn,31.4236,-7.5208,Morocco,22353.0
+2329,Şā al Ḩajar,30.9647,30.7683,Egypt,20568.0
+2330,Vakon,6.5167,2.5667,Benin,20541.0
+2331,Guérou,16.8167,-11.8333,Mauritania,22323.0
+2332,Senekane,-29.2525,27.7433,Lesotho,22262.0
+2333,Vohimasina,-21.7333,48.1333,Madagascar,22000.0
+2334,Bronkhorstspruit,-25.805,28.7464,South Africa,20769.0
+2335,Ampasimanjeva,-21.7333,48.0333,Madagascar,22000.0
+2336,Alakamisy-Ambohimaha,-21.3167,47.2167,Madagascar,22000.0
+2337,Ouardenine,35.72,10.67,Tunisia,21814.0
+2338,Djinet,36.877,3.7231,Algeria,21966.0
+2339,Taveta,-3.3956,37.6761,Kenya,22018.0
+2340,Itigi,-5.7,34.4833,Tanzania,21777.0
+2341,Afourar,32.2167,-6.5,Morocco,21382.0
+2342,Takelsa,36.7833,10.6333,Tunisia,22151.0
+2343,Andranovorivato,-21.6333,46.9833,Madagascar,22000.0
+2344,Tabursuq,36.4572,9.2483,Tunisia,22115.0
+2345,Selouane,35.0667,-2.9333,Morocco,21570.0
+2346,Ambalaroka,-22.1333,47.7333,Madagascar,22000.0
+2347,Beni Douala,36.6167,4.0667,Algeria,21551.0
+2348,Bemanonga,-20.2833,44.35,Madagascar,22000.0
+2349,Ampanotokana,-18.7167,47.3,Madagascar,21969.0
+2350,Iarintsena,-21.8167,46.8667,Madagascar,22000.0
+2351,Salémata,12.6333,-12.8167,Senegal,22111.0
+2352,Ambodimotso Atsimo,-15.3833,48.6,Madagascar,22000.0
+2353,Jafaro,-24.9167,45.5167,Madagascar,22000.0
+2354,Kueneng,-29.0161,27.9981,Lesotho,21887.0
+2355,Ankiabe-Salohy,-15.6,48.7167,Madagascar,22000.0
+2356,Imi-n-Tanout,31.16,-8.85,Morocco,20837.0
+2357,Antsakabary,-15.05,48.9333,Madagascar,22000.0
+2358,Manakambahiny,-17.8,48.3333,Madagascar,22000.0
+2359,Andilanatoby,-17.9333,48.2333,Madagascar,22000.0
+2360,Thenia,36.7278,3.5539,Algeria,21439.0
+2361,El Ksiba,32.5681,-6.0308,Morocco,20001.0
+2362,Goodlands,-20.035,57.6431,Mauritius,20712.0
+2363,Samba Cango,-9.1,15.55,Angola,21918.0
+2364,Had Oulad Issa,32.9519,-8.6982,Morocco,21779.0
+2365,Maghalleen,-30.0942,27.4189,Lesotho,21869.0
+2366,Mbandjok,4.45,11.9,Cameroon,21841.0
+2367,Tidili Masfiywat,31.4667,-7.6167,Morocco,21706.0
+2368,Amizmiz,31.2167,-8.25,Morocco,21445.0
+2369,Ambatomanoina,-18.3167,47.6167,Madagascar,21779.0
+2370,Sori,10.7281,2.7825,Benin,21735.0
+2371,Tinja,37.1667,9.7667,Tunisia,21167.0
+2372,Moularès,34.4833,8.2667,Tunisia,21716.0
+2373,Kibeho,-2.6333,29.55,Rwanda,21456.0
+2374,Kobilo,15.9251,-13.5242,Senegal,21656.0
+2375,Eyl,7.9667,49.85,Somalia,21700.0
+2376,Makulubita,0.5122,32.3664,Uganda,21300.0
+2377,Nefta,33.8833,7.8833,Tunisia,21654.0
+2378,Gīnīr,7.1333,40.7,Ethiopia,21585.0
+2379,Tamgrout,30.2667,-5.6667,Morocco,21603.0
+2380,Lakato,-19.1833,48.4333,Madagascar,21609.0
+2381,Ambohitromby,-18.9667,46.3167,Madagascar,21466.0
+2382,Bogandé,12.9667,-0.15,Burkina Faso,21443.0
+2383,Mpwapwa,-6.35,36.4833,Tanzania,21337.0
+2384,Caombo,-8.7,16.5167,Angola,21511.0
+2385,Takaba,3.3963,40.2251,Kenya,21474.0
+2386,Miorimivalana,-17.2167,49.2,Madagascar,21000.0
+2387,La Mornaghia,36.7667,10.0167,Tunisia,19924.0
+2388,Sidi Rahal,33.472,-7.957,Morocco,20628.0
+2389,Atchoupa,6.5333,2.6333,Benin,19565.0
+2390,Mandza,-11.4167,43.3,Comoros,21000.0
+2391,Metahāra,8.9,39.9167,Ethiopia,21348.0
+2392,Tizi-n-Bechar,36.4311,5.36,Algeria,21086.0
+2393,Mī’ēso,9.2333,40.75,Ethiopia,21348.0
+2394,Ambinanindrano,-20.6833,47.5667,Madagascar,21364.0
+2395,Carthage,36.8528,10.3233,Tunisia,21276.0
+2396,Asni,31.25,-7.9833,Morocco,21244.0
+2397,Akonolinga,3.7667,12.25,Cameroon,21299.0
+2398,Matanga,-23.5167,47.55,Madagascar,21000.0
+2399,Ādēt,11.2667,37.4833,Ethiopia,21117.0
+2400,Injibara,10.95,36.9333,Ethiopia,21065.0
+2401,Fierenana,-18.55,45.85,Madagascar,21224.0
+2402,Vili,12.2833,-2.2167,Burkina Faso,20914.0
+2403,Bobonong,-21.9704,28.4233,Botswana,21216.0
+2404,Komatipoort,-25.4333,31.95,South Africa,20508.0
+2405,Saponé,12.0528,-1.6036,Burkina Faso,21148.0
+2406,Antanambao,-19.6667,47.3333,Madagascar,21000.0
+2407,Ambalavato,-22.9667,47.4667,Madagascar,21000.0
+2408,Tsarasaotra,-20.4333,47.2333,Madagascar,21000.0
+2409,Oulad Embarek,32.2833,-6.4667,Morocco,19774.0
+2410,Al Brouj,32.505,-7.1927,Morocco,19235.0
+2411,Sahamadio,-22.5167,47.5667,Madagascar,21000.0
+2412,Quirima,-10.9,18.0833,Angola,21134.0
+2413,Welench’ītī,8.6667,39.4333,Ethiopia,20984.0
+2414,Bambalang,5.8867,10.5331,Cameroon,20863.0
+2415,Andolofotsy,-18.75,46.6333,Madagascar,21000.0
+2416,Ampanety,-18.975,47.4944,Madagascar,19135.0
+2417,Imi n’Oulaoun,31.3094,-6.4992,Morocco,21061.0
+2418,Sidi Taibi,34.1917,-6.6845,Morocco,19979.0
+2419,Sotouboua,8.5667,0.9833,Togo,21054.0
+2420,Fiadanana,-20.4333,48.3833,Madagascar,21000.0
+2421,Saka,34.6167,-3.4167,Morocco,21048.0
+2422,Ambohipandrano,-19.15,47.3667,Madagascar,21000.0
+2423,Ambohimanambola,-19.8,46.6167,Madagascar,21000.0
+2424,Sidi Abdelkader,33.0494,-8.6886,Morocco,20854.0
+2425,Sitampiky,-16.6667,46.1,Madagascar,21000.0
+2426,Bni Rzine,35.0108,-4.7262,Morocco,20904.0
+2427,Karianga,-22.4167,47.3667,Madagascar,21000.0
+2428,Ankililoaka,-22.7667,43.6167,Madagascar,21000.0
+2429,Ambondro,-25.25,45.8333,Madagascar,20796.0
+2430,Tsiamalao,-15.05,48.45,Madagascar,21000.0
+2431,Soanindrariny,-19.9,47.2333,Madagascar,21000.0
+2432,Ampasimatera,-15.9333,47.75,Madagascar,21000.0
+2433,Morafeno,-15.4833,48.2,Madagascar,21000.0
+2434,Az Zuwaytīnah,30.9522,20.1203,Libya,21015.0
+2435,Tongobory,-23.5167,44.3333,Madagascar,21000.0
+2436,Alto-Cuilo,-8.2371,19.5238,Angola,21004.0
+2437,Cacongo,-5.2333,12.1333,Angola,21000.0
+2438,Debark’,13.1333,37.9,Ethiopia,20839.0
+2439,Quela,-9.3833,17.05,Angola,20949.0
+2440,’Aïn el Hammam,36.5714,4.3097,Algeria,20401.0
+2441,Vinany,-19.6167,46.4833,Madagascar,20844.0
+2442,Letlhakane,-21.4167,25.5833,Botswana,20841.0
+2443,Aomar,36.5,3.7833,Algeria,20532.0
+2444,Pita,11.08,-12.401,Guinea,20052.0
+2445,Kihihi,-0.7489,29.7003,Uganda,20349.0
+2446,Tala Yfassene,36.4583,5.0889,Algeria,20337.0
+2447,Somanya,6.1039,-0.015,Ghana,20596.0
+2448,Luacano,-11.2167,21.65,Angola,20755.0
+2449,Foya Tangia,8.2713,-10.2283,Liberia,20569.0
+2450,Kekem,5.1667,10.0333,Cameroon,20579.0
+2451,Ménaka,15.9167,2.4,Mali,20702.0
+2452,Sidi Chiker,31.7453,-8.7069,Morocco,20658.0
+2453,Pendembu,8.1,-10.7,Sierra Leone,20502.0
+2454,Bagou,10.8147,2.7164,Benin,20631.0
+2455,Batī,11.1833,40.0167,Ethiopia,20536.0
+2456,Miandrivazo,-19.5239,45.4573,Madagascar,20631.0
+2457,Lubalo,-9.15,19.2833,Angola,20631.0
+2458,Mazinde,-4.8073,38.2118,Tanzania,20534.0
+2459,Mbala,-8.8333,31.3833,Zambia,20570.0
+2460,Kawambwa,-9.7914,29.0789,Zambia,20589.0
+2461,Douar Lamrabih,34.8167,-5.8167,Morocco,20461.0
+2462,Sidi Jaber,32.3833,-6.4167,Morocco,20432.0
+2463,Station des Essais M.V.A.,34.9352,-2.4306,Morocco,20513.0
+2464,Aïn Cheggag,33.8833,-5.0333,Morocco,20456.0
+2465,Alatsinainy-Bakaro,-19.3167,47.6833,Madagascar,20370.0
+2466,Fara,11.5333,-2.7667,Burkina Faso,20434.0
+2467,Beforona,-18.9667,48.5833,Madagascar,20380.0
+2468,Nguékhokh,14.5128,-17.05,Senegal,20053.0
+2469,Reggane,26.7,0.1667,Algeria,20402.0
+2470,Kissa,7.0333,1.7833,Benin,20016.0
+2471,Mandrosohasina,-19.5833,47.1667,Madagascar,20000.0
+2472,Dan Gorayo,8.7278,49.3417,Somalia,20331.0
+2473,Jdour,32.1269,-8.7633,Morocco,20239.0
+2474,Bamumkumbit,5.8167,10.4167,Cameroon,20000.0
+2475,Sbeitla,35.2297,9.1294,Tunisia,20253.0
+2476,Pujehun,7.3506,-11.7181,Sierra Leone,20121.0
+2477,Tsararafa,-22.7333,47.8167,Madagascar,20000.0
+2478,Boromo,11.75,-2.9333,Burkina Faso,20193.0
+2479,Bichena,10.45,38.2,Ethiopia,19916.0
+2480,Ampefy,-19.0419,46.7328,Madagascar,19949.0
+2481,Bekatra Maromiandra,-22.1,47.7167,Madagascar,20000.0
+2482,Imouzzer Kandar,33.73,-5.01,Morocco,19125.0
+2483,Antsampandrano,-19.5333,47.5833,Madagascar,20000.0
+2484,Baragoi,1.7833,36.7833,Kenya,20000.0
+2485,Manaratsandry,-16.1833,46.5,Madagascar,20000.0
+2486,Sesheke,-17.4667,24.3,Zambia,20149.0
+2487,Mahaditra,-21.75,47.1,Madagascar,20068.0
+2488,’Ali Ben Sliman,31.91,-7.21,Morocco,19977.0
+2489,Nkoteng,4.5167,12.0333,Cameroon,20100.0
+2490,Ambatosoratra,-17.6167,48.5167,Madagascar,20000.0
+2491,El Mansouria,33.75,-7.3,Morocco,19853.0
+2492,Issaba,7.0833,2.6167,Benin,19732.0
+2493,Vasiana,-19.6333,46.2333,Madagascar,19992.0
+2494,Mandiavato,-19.0833,47.0167,Madagascar,20000.0
+2495,Kébémer,15.3667,-16.4333,Senegal,20000.0
+2496,Tsarabaria,-13.75,49.95,Madagascar,20000.0
+2497,Nejo,9.5,35.5,Ethiopia,19887.0
+2498,Soavina Antanety,-19.8,46.7333,Madagascar,20000.0
+2499,Tarhzirt,32.4333,-6.1833,Morocco,19936.0
+2500,Rantabe,-15.7,49.65,Madagascar,20000.0
+2501,Ambalakirajy,-15.8333,48.5,Madagascar,20000.0
+2502,Analapatsy,-24.25,47.2,Madagascar,20000.0
+2503,Ampasimena,-24.3667,47.1667,Madagascar,20000.0
+2504,Haya,18.3461,36.3969,Sudan,20000.0
+2505,Zemio,5.0333,25.1333,Central African Republic,20000.0
+2506,Gebre Guracha,9.8,38.4,Ethiopia,19830.0
+2507,Had Zraqtane,31.45,-7.4,Morocco,19926.0
+2508,Aït Tamlil,31.48,-6.94,Morocco,19930.0
+2509,Doany,-14.3667,49.5167,Madagascar,19928.0
+2510,Allanridge,-27.7544,26.6367,South Africa,19337.0
+2511,Mapai,-22.7306,32.0583,Mozambique,19932.0
+2512,Nosy Varika,-20.5833,48.5333,Madagascar,19787.0
+2513,Zaouïa Aït Ishak,32.76,-5.7233,Morocco,19133.0
+2514,Mosopa,-24.7792,25.4183,Botswana,19780.0
+2515,Jnane Bouih,32.0308,-8.7894,Morocco,19706.0
+2516,Āsasa,7.1,39.1944,Ethiopia,19506.0
+2517,Arbaoun,36.4667,5.65,Algeria,19383.0
+2518,Menzel Abderhaman,37.23,9.86,Tunisia,19078.0
+2519,Andaingo Gara,-18.2,48.2833,Madagascar,19656.0
+2520,Babanūsah,11.3333,27.8,Sudan,19700.0
+2521,Rhar el Melah,37.1667,10.1833,Tunisia,19477.0
+2522,Oulad Salmane,34.3356,-6.4604,Morocco,19488.0
+2523,Tirmitine,36.6618,3.9848,Algeria,19027.0
+2524,Ait Bousarane,31.7917,-7.0926,Morocco,19501.0
+2525,Diinsoor,2.4106,42.9767,Somalia,19600.0
+2526,Aysha,10.75,42.5667,Ethiopia,19570.0
+2527,Thamaga,-24.7167,25.5333,Botswana,19547.0
+2528,Gogogogo,-24.2667,44.8,Madagascar,19454.0
+2529,Douar Ait Sidi Daoud,31.6345,-7.644,Morocco,19286.0
+2530,Tajerouine,35.8833,8.55,Tunisia,19362.0
+2531,Ambatomirahavavy,-18.9333,47.3833,Madagascar,19163.0
+2532,Sebt Gzoula,32.1167,-9.0833,Morocco,18543.0
+2533,Ābomsa,8.5833,39.85,Ethiopia,19208.0
+2534,Bouanri,10.2,2.8667,Benin,19281.0
+2535,Sidi Redouane,34.6833,-5.45,Morocco,19169.0
+2536,Qandala,11.4711,49.8739,Somalia,19300.0
+2537,Vohimasy,-22.1,47.7833,Madagascar,19000.0
+2538,Tsumeb,-19.25,17.7,Namibia,19275.0
+2539,Ampataka,-23.35,47.4667,Madagascar,19000.0
+2540,Amboanana,-19.15,47.1667,Madagascar,19217.0
+2541,Karia Ba Mohamed,34.3667,-5.2,Morocco,18762.0
+2542,Ait Ben Daoudi,31.6345,-7.644,Morocco,18976.0
+2543,Ifanirea,-22.1833,47.4667,Madagascar,19000.0
+2544,Ranomena,-23.4167,47.2667,Madagascar,19000.0
+2545,Ambodinonoka,-20.9833,47.8833,Madagascar,19000.0
+2546,Mumbwa,-14.9853,27.0619,Zambia,19086.0
+2547,Bezaha,-23.5,44.5,Madagascar,19000.0
+2548,Mahazoarivo,-22.3167,47.5833,Madagascar,19000.0
+2549,Anjahabe,-16.3667,46.6167,Madagascar,19000.0
+2550,Miarinavaratra,-20.2167,47.5167,Madagascar,19000.0
+2551,Ambalanirana,-18.75,46.5,Madagascar,19000.0
+2552,Tanambe,-17.3667,48.45,Madagascar,19000.0
+2553,Manantenina,-24.2833,47.3167,Madagascar,19000.0
+2554,Belamoty,-23.55,44.8,Madagascar,19000.0
+2555,Bukungu,1.4361,32.8686,Uganda,19033.0
+2556,Pitseng,-29.0097,28.2575,Lesotho,18948.0
+2557,Ambatomena,-19.85,47.25,Madagascar,19000.0
+2558,Peduasi,5.85,-0.1833,Ghana,18701.0
+2559,Aburi,5.85,-0.1833,Ghana,18701.0
+2560,Ambatosia,-14.6667,48.65,Madagascar,19000.0
+2561,Befandriana Atsimo,-22.1,43.8833,Madagascar,19000.0
+2562,Mitsinjo,-16.0,45.8667,Madagascar,19000.0
+2563,Beni Zouli,30.4839,-5.8619,Morocco,18941.0
+2564,Korsimoro,12.825,-1.0672,Burkina Faso,18875.0
+2565,Fihaonana,-18.6,47.2,Madagascar,18846.0
+2566,Massaguet,12.4742,15.4428,Chad,18872.0
+2567,Kabala,9.5833,-11.55,Sierra Leone,18770.0
+2568,Togba,7.1,1.6667,Benin,18674.0
+2569,Nefas Mewch’a,11.7333,38.4667,Ethiopia,18691.0
+2570,Oulmes,33.445,-6.0011,Morocco,18786.0
+2571,Antotohazo,-18.4667,47.0833,Madagascar,18774.0
+2572,Mennzel Bou Zelfa,36.6817,10.5847,Tunisia,18551.0
+2573,Middelburg,-31.4939,25.0172,South Africa,18164.0
+2574,Bni Bouayach,35.0986,-3.8397,Morocco,18271.0
+2575,Jbabra,34.4314,-4.9642,Morocco,18592.0
+2576,Murambi,-1.8133,30.0456,Rwanda,17892.0
+2577,Abong Mbang,3.9833,13.1667,Cameroon,18700.0
+2578,Tsivory,-24.0683,46.0756,Madagascar,18694.0
+2579,Sidi Allal Tazi,34.5197,-6.3236,Morocco,18055.0
+2580,Qaryat al Qī‘ān,32.0167,11.5,Libya,18693.0
+2581,Andéranboukan,15.4283,3.0183,Mali,18688.0
+2582,Doura,12.0167,-9.0167,Guinea,18675.0
+2583,Mumford,5.2625,-0.7578,Ghana,18368.0
+2584,Antombana,-15.0,50.1667,Madagascar,18592.0
+2585,Tamri,30.695,-9.825,Morocco,18577.0
+2586,Tata,29.7428,-7.9725,Morocco,18611.0
+2587,Saylac,11.3539,43.4731,Somalia,18600.0
+2588,Timoktene,27.0217,1.015,Algeria,18598.0
+2589,Bel Air,-20.2582,57.7545,Mauritius,17605.0
+2590,Chouafaa,34.7667,-6.05,Morocco,18436.0
+2591,Bitkine,11.9817,18.2125,Chad,18495.0
+2592,Foum el Anser,32.3718,-6.2613,Morocco,18412.0
+2593,Nara,15.18,-7.28,Mali,18459.0
+2594,Lamrasla,32.0247,-8.9153,Morocco,18335.0
+2595,Bettioua,35.8,-0.2667,Algeria,18215.0
+2596,Aït Bouchta,35.1056,-3.8503,Morocco,18271.0
+2597,Assa,28.6086,-9.4269,Morocco,18367.0
+2598,Talata-Volonondry,-18.75,47.65,Madagascar,18314.0
+2599,Galaat el Andeless,37.0625,10.1183,Tunisia,18225.0
+2600,Siloe,-29.9836,27.2792,Lesotho,18261.0
+2601,Bekalta,35.6167,11.0,Tunisia,17850.0
+2602,Kikube,1.3328,31.2075,Uganda,18100.0
+2603,Ribat Al Khayr,33.82,-4.41,Morocco,16739.0
+2604,Antanambao,-15.1667,50.3667,Madagascar,18232.0
+2605,Bouarouss,34.3667,-4.8167,Morocco,18147.0
+2606,Ikniwn,31.1736,-5.6733,Morocco,18235.0
+2607,Gikongoro,-2.4697,29.5814,Rwanda,16695.0
+2608,Kiangara,-17.9667,47.0333,Madagascar,18197.0
+2609,Glencoe,-28.1833,30.15,South Africa,17548.0
+2610,Antsampanimahazo,-19.64,47.158,Madagascar,18000.0
+2611,Maroaloka,-25.1667,46.2,Madagascar,18000.0
+2612,Quibaxi,-8.5,14.5833,Angola,18176.0
+2613,Ghouazi,34.4667,-5.3,Morocco,18081.0
+2614,Bafanji,5.8361,10.4,Cameroon,17890.0
+2615,Alakamisy,-20.2,47.3167,Madagascar,18000.0
+2616,Ankofa,-15.4,49.65,Madagascar,18000.0
+2617,Vohilengo,-17.3,49.4167,Madagascar,18000.0
+2618,Ambongo,-23.45,47.2667,Madagascar,18000.0
+2619,Ambiula,-7.4333,14.65,Angola,18118.0
+2620,Manampatrana,-21.65,47.5833,Madagascar,18000.0
+2621,Analaiva,-20.3333,44.5,Madagascar,18000.0
+2622,Tsararivotra,-19.1714,47.55,Madagascar,17024.0
+2623,Alatsinainy Ialamarina,-21.5333,47.3,Madagascar,18000.0
+2624,Behenjy,-19.2,47.4833,Madagascar,18000.0
+2625,Stilfontein,-26.8428,26.7744,South Africa,17942.0
+2626,Biro,9.9,2.9333,Benin,18003.0
+2627,Tsianisiha,-22.9,43.5833,Madagascar,18000.0
+2628,Belobaka,-18.9833,45.6833,Madagascar,18000.0
+2629,Amboahangibe,-14.1333,49.8167,Madagascar,18000.0
+2630,Antanambe,-16.4333,49.85,Madagascar,18000.0
+2631,Batié,9.8833,-2.9167,Burkina Faso,17997.0
+2632,Maroteza,-22.3,47.2,Madagascar,18000.0
+2633,Ambovombe Afovoany,-20.7667,47.0833,Madagascar,18000.0
+2634,Matsakabanja,-15.9167,45.8333,Madagascar,18000.0
+2635,Tranoroa,-24.7,45.0667,Madagascar,18000.0
+2636,Yoboki,11.5167,42.1,Djibouti,18000.0
+2637,Maridi,4.91,29.45,South Sudan,18000.0
+2638,Busolwe,0.8492,33.9269,Uganda,16800.0
+2639,Beantake,-23.8,44.3,Madagascar,18000.0
+2640,Namayingo,0.345,33.88,Uganda,17300.0
+2641,Mahazoma,-17.1667,46.5667,Madagascar,18000.0
+2642,Bemahatazana-Belobaka,-19.35,46.0,Madagascar,18000.0
+2643,Outat Oulad Al Haj,33.3333,-3.6833,Morocco,16388.0
+2644,Lobogo,6.6333,1.9,Benin,17622.0
+2645,Manambaro,-25.0333,46.8167,Madagascar,17901.0
+2646,Nguigmi,14.2532,13.1108,Niger,17897.0
+2647,Ambohitralanana,-15.2333,50.45,Madagascar,17850.0
+2648,Al Qbab,32.7333,-5.5167,Morocco,16157.0
+2649,Douar Oulad Mbarek,34.2833,-4.3167,Morocco,17747.0
+2650,Ngara,-2.5122,30.6558,Tanzania,16890.0
+2651,Bechem,7.0833,-2.0167,Ghana,17677.0
+2652,Sirari,-1.2244,34.4383,Tanzania,17564.0
+2653,Beni Fouda,36.2861,5.6071,Algeria,17667.0
+2654,Swellendam,-34.0231,20.44,South Africa,17537.0
+2655,Zalţan,32.95,11.8658,Libya,17700.0
+2656,Qal’at Mgouna,31.2414,-6.1283,Morocco,16956.0
+2657,Laatatra,32.6315,-8.4148,Morocco,17593.0
+2658,Ruhango,-2.2325,29.7803,Rwanda,17051.0
+2659,Tizi Rached,36.6718,4.1918,Algeria,17161.0
+2660,Ambolomadinika,-21.95,47.4333,Madagascar,17616.0
+2661,Fanandrana,-18.1944,49.3792,Madagascar,17644.0
+2662,Dourbali,11.805,15.8647,Chad,17682.0
+2663,Villiers,-27.0333,28.6,South Africa,17315.0
+2664,Guidan Roumdji,13.6575,6.6958,Niger,17525.0
+2665,Aït Majdane,31.8514,-6.9658,Morocco,17572.0
+2666,Agourai,33.6333,-5.5833,Morocco,16651.0
+2667,Aïn Zaouïa,36.5483,3.8942,Algeria,17320.0
+2668,Same,-4.0667,37.7833,Tanzania,17455.0
+2669,Tougan,13.0667,-3.0667,Burkina Faso,17590.0
+2670,Awlouz,30.7,-8.15,Morocco,17409.0
+2671,Bakouma,5.6986,22.7833,Central African Republic,17599.0
+2672,Sahel,34.9667,-4.55,Morocco,17496.0
+2673,Ketama,34.9158,-4.5686,Morocco,17351.0
+2674,Morarano-Gara,-18.71,48.27,Madagascar,17545.0
+2675,Dar Chaifat,32.55,-7.5,Morocco,17454.0
+2676,Lalībela,12.0317,39.0411,Ethiopia,17367.0
+2677,Kolokondé,9.9,1.7667,Benin,17419.0
+2678,Ambatolahy,-20.0,45.5333,Madagascar,17482.0
+2679,Cheraro,14.3958,37.7731,Ethiopia,17045.0
+2680,Anosiarivo,-19.9167,47.0333,Madagascar,17423.0
+2681,Mareth,33.6333,10.3,Tunisia,17385.0
+2682,Galaz,34.55,-4.8,Morocco,17333.0
+2683,Mwingi,-0.9333,38.05,Kenya,15970.0
+2684,Soavina,-18.95,47.4833,Madagascar,15658.0
+2685,Kouka,11.9,-4.3333,Burkina Faso,17286.0
+2686,Milla’ab,31.4737,-4.7424,Morocco,17360.0
+2687,Tonj,7.28,28.68,South Sudan,17340.0
+2688,Betroka,-23.2683,46.1044,Madagascar,17327.0
+2689,Amboanjo,-22.0,47.85,Madagascar,17000.0
+2690,Kangaba,11.9333,-8.4167,Mali,17232.0
+2691,Peka,-28.9667,27.7667,Lesotho,17161.0
+2692,Talsint,32.5398,-3.4408,Morocco,16166.0
+2693,Ambohipihaonana,-19.4333,47.4167,Madagascar,17000.0
+2694,Tamallalt,31.8289,-7.5261,Morocco,16539.0
+2695,Ilaka Atsinanana,-19.5531,48.8408,Madagascar,17120.0
+2696,Massé,7.1578,2.5436,Benin,16902.0
+2697,Hīrna,9.2167,41.1,Ethiopia,16726.0
+2698,Huruta,8.15,39.35,Ethiopia,16922.0
+2699,Rubeho,-6.2578,36.8653,Tanzania,17020.0
+2700,Azaourissè,6.6944,2.5075,Benin,16883.0
+2701,Sidi Daoud,36.85,3.85,Algeria,16900.0
+2702,Bloemhof,-27.65,25.59,South Africa,17122.0
+2703,Anosibe-Ifanja,-18.8667,46.75,Madagascar,17000.0
+2704,Douar Lamjaara,34.6147,-5.2887,Morocco,16899.0
+2705,Sidi Yakoub,31.6667,-7.0667,Morocco,17054.0
+2706,Wādī Ḩalfā’,21.8,31.35,Sudan,17121.0
+2707,Tolongoina,-21.55,47.5167,Madagascar,17000.0
+2708,Mandritsara,-15.8333,48.8167,Madagascar,17000.0
+2709,Anosivelo,-22.7333,47.7667,Madagascar,17000.0
+2710,Tagounite,29.9833,-5.5667,Morocco,17103.0
+2711,Knemis Dades,31.309,-6.028,Morocco,17045.0
+2712,Analanampotsy,-17.1667,49.4833,Madagascar,16987.0
+2713,Ilakatra,-22.35,47.6667,Madagascar,17000.0
+2714,Mahires,34.5333,10.5,Tunisia,15878.0
+2715,Sadabe,-18.6333,47.7,Madagascar,17000.0
+2716,Ambondromisotra,-20.3333,46.9167,Madagascar,17000.0
+2717,Oulad Amrane,32.2833,-9.2333,Morocco,16979.0
+2718,Milanoa,-13.5833,49.7833,Madagascar,17000.0
+2719,Ambohitrolomahitsy,-18.7,47.6833,Madagascar,17000.0
+2720,Tsarahonenana,-15.4833,48.4833,Madagascar,17000.0
+2721,Sahamadio,-20.3,47.4,Madagascar,17000.0
+2722,Befotaka,-14.5333,48.0167,Madagascar,17000.0
+2723,Ambohitsimanova,-19.95,47.1167,Madagascar,17000.0
+2724,Antsahavaribe,-13.9833,49.6167,Madagascar,17000.0
+2725,Marofoty,-22.9333,43.5667,Madagascar,17000.0
+2726,Manombo Atsimo,-22.95,43.4667,Madagascar,17000.0
+2727,Ambolidibe Atsinanana,-15.1,48.8,Madagascar,17000.0
+2728,Antanimora Atsinanana,-24.8167,45.6667,Madagascar,17000.0
+2729,Lazarivo,-23.9,44.95,Madagascar,17000.0
+2730,Etrotroka,-22.8833,47.6,Madagascar,17000.0
+2731,Ambila,-21.9833,47.95,Madagascar,17000.0
+2732,Ankarongana,-15.4167,48.9167,Madagascar,17000.0
+2733,Andranofasika,-16.3833,46.9,Madagascar,16971.0
+2734,Marosangy,-21.0,48.3,Madagascar,17000.0
+2735,Montagu,-33.7833,20.1167,South Africa,15176.0
+2736,Beahitse,-24.1667,44.4333,Madagascar,17000.0
+2737,Isoanala,-23.8333,45.7167,Madagascar,17000.0
+2738,Aklanpa,8.1684,2.232,Benin,16895.0
+2739,Azeffoun,36.8961,4.4204,Algeria,16847.0
+2740,Mugumu,-1.8333,34.6667,Tanzania,16851.0
+2741,Ambohimanambola,-18.95,47.6,Madagascar,16418.0
+2742,Tobré,10.2,2.1333,Benin,16912.0
+2743,Bek’ojī,7.5833,39.3333,Ethiopia,16730.0
+2744,Fetromby,-18.5833,48.9167,Madagascar,16894.0
+2745,Dēra,8.3333,39.3167,Ethiopia,16731.0
+2746,Ratba,34.7833,-4.9333,Morocco,16825.0
+2747,Tichi,36.6675,5.1601,Algeria,16546.0
+2748,’Aïn Abessa,36.3,5.295,Algeria,16770.0
+2749,Ouaouzgane,35.0167,-4.5167,Morocco,16772.0
+2750,Sidi Lamine,32.9,-6.05,Morocco,16808.0
+2751,Bethlehem,-28.224,28.311,South Africa,16236.0
+2752,Mikumi,-7.4072,36.9722,Tanzania,16780.0
+2753,Adjahomé,7.0618,1.8368,Benin,16421.0
+2754,Katosi,0.1528,32.8014,Uganda,16442.0
+2755,Chorfa,36.3617,4.3307,Algeria,16173.0
+2756,Douar Tabouda,34.7167,-5.1333,Morocco,16618.0
+2757,Murehwa,-17.65,31.7833,Zimbabwe,16666.0
+2758,Sidi Ettiji,32.1717,-8.8686,Morocco,16649.0
+2759,Zirara,32.35,-8.5333,Morocco,16606.0
+2760,Mensora,34.8356,-4.9655,Morocco,16559.0
+2761,Kade,6.0833,-0.8333,Ghana,16542.0
+2762,Tantéga,10.85,1.0333,Benin,16625.0
+2763,Tiahounkossi,10.8167,1.0667,Benin,16625.0
+2764,Segbwema,8.0,-10.95,Sierra Leone,16532.0
+2765,Grimari,5.7167,20.05,Central African Republic,16486.0
+2766,Añisoc,1.85,10.7667,Equatorial Guinea,16626.0
+2767,Odumase,7.3667,-2.3167,Ghana,16542.0
+2768,Tirhassaline,32.7833,-5.65,Morocco,15204.0
+2769,Ippy,6.25,21.2,Central African Republic,16571.0
+2770,Ina,9.9833,2.7167,Benin,16558.0
+2771,Chinde,-18.5833,36.4667,Mozambique,16500.0
+2772,Centre de Flacq,-20.2002,57.7177,Mauritius,15791.0
+2773,Ségou,6.6167,2.2167,Benin,16124.0
+2774,Bobangui,4.05,18.1167,Central African Republic,16486.0
+2775,Antanambao Mahatsara,-19.3167,48.7833,Madagascar,16482.0
+2776,Karema,-6.8205,30.4389,Tanzania,16385.0
+2777,Sabotsy,-19.2333,47.6,Madagascar,16471.0
+2778,Nyahanga,-2.3829,33.55,Tanzania,16092.0
+2779,Ambohimalaza,-18.9167,47.65,Madagascar,15988.0
+2780,Al Ḩībah,28.7736,30.9228,Egypt,16209.0
+2781,Angara-Débou,11.3289,3.0406,Benin,16369.0
+2782,Domoni,-12.2586,44.5303,Comoros,16276.0
+2783,Sebt Aït Saghiouchen,34.0122,-4.5536,Morocco,16362.0
+2784,Banigbé,6.9,2.65,Benin,16080.0
+2785,Sahatavy,-17.4489,48.9953,Madagascar,16334.0
+2786,Douar Azla,35.5564,-5.2453,Morocco,16128.0
+2787,Guelendeng,10.9183,15.5486,Chad,16320.0
+2788,Timezgana,34.5833,-4.7333,Morocco,16172.0
+2789,Garou,11.8053,3.4739,Benin,16235.0
+2790,Ambalabe,-15.1667,50.4167,Madagascar,16250.0
+2791,’Ayn Bni Mathar,34.0889,-2.0247,Morocco,16289.0
+2792,Kabo,7.6994,18.6292,Central African Republic,16279.0
+2793,Antsahanoro,-14.8333,50.1333,Madagascar,16253.0
+2794,Merimandroso,-18.75,47.5167,Madagascar,14545.0
+2795,Andemaka,-22.3,47.75,Madagascar,16000.0
+2796,Zegzel,34.8407,-2.3543,Morocco,16137.0
+2797,Ampahimanga,-19.0833,47.2,Madagascar,16184.0
+2798,Buwama,0.0633,32.1064,Uganda,16000.0
+2799,Fenoarivo,-23.1167,47.5667,Madagascar,16000.0
+2800,Fenoarivo,-20.8667,46.8833,Madagascar,16000.0
+2801,Bouchabel,34.3833,-5.0167,Morocco,16084.0
+2802,Ābīy Ādī,13.6231,39.0017,Ethiopia,16115.0
+2803,Caidat Sidi Boubker El Haj,34.9148,-6.0735,Morocco,15990.0
+2804,Ouadhia,36.55,4.0833,Algeria,15771.0
+2805,Tangainony,-22.7,47.75,Madagascar,16000.0
+2806,Masmouda,34.7862,-5.7078,Morocco,16106.0
+2807,Bumpe,7.8919,-11.9025,Sierra Leone,16123.0
+2808,Skhour Rehamna,32.4833,-7.9167,Morocco,15479.0
+2809,Bni Tajjit,32.2833,-3.4833,Morocco,16149.0
+2810,Baléyara,13.784,2.95,Niger,16063.0
+2811,Bni Quolla,34.738,-5.5441,Morocco,16049.0
+2812,Ambarakaraka,-13.5,48.8667,Madagascar,16114.0
+2813,Ndioum,16.5167,-14.65,Senegal,16103.0
+2814,Antadinga,-22.15,47.4167,Madagascar,15977.0
+2815,Andapafito,-16.9167,49.3833,Madagascar,16000.0
+2816,Mahavelona,-18.5167,47.25,Madagascar,16028.0
+2817,Mananasy-Tsitakondaza,-19.15,46.65,Madagascar,16000.0
+2818,Sérarou,9.5833,2.65,Benin,16060.0
+2819,Khat Azakane,32.2226,-9.1343,Morocco,16014.0
+2820,Fiadanana,-20.8667,47.1833,Madagascar,16000.0
+2821,Léré,15.7117,-4.9117,Mali,16072.0
+2822,Ambohibe,-17.45,49.1167,Madagascar,16000.0
+2823,Leanja,-15.55,47.9333,Madagascar,16000.0
+2824,Androrangavola,-20.5167,48.2333,Madagascar,16000.0
+2825,Naivasha,-0.7167,36.4333,Kenya,14563.0
+2826,Ambalatany,-22.5333,47.6,Madagascar,16000.0
+2827,Alarobia,-18.9667,47.7333,Madagascar,16000.0
+2828,Betanty,-25.5667,45.5167,Madagascar,16000.0
+2829,Boudjima,36.814,4.1588,Algeria,15628.0
+2830,Vohiposa,-20.9833,47.15,Madagascar,16000.0
+2831,L’Oulja,34.2894,-4.9481,Morocco,15956.0
+2832,Tsiningia,-15.4833,47.45,Madagascar,16000.0
+2833,Vohilengo,-22.5333,47.6833,Madagascar,16000.0
+2834,Ranohira,-22.4333,45.35,Madagascar,16041.0
+2835,Inanantonana,-19.65,46.6167,Madagascar,16000.0
+2836,Bambous,-20.26,57.4148,Mauritius,15345.0
+2837,Bevonotra,-14.05,49.6167,Madagascar,16000.0
+2838,Antindra,-14.1333,49.8167,Madagascar,16000.0
+2839,Anjangoveratra,-14.1333,50.0833,Madagascar,16000.0
+2840,Tizi-n-Tleta,36.5457,4.0571,Algeria,15479.0
+2841,Analila,-14.45,49.05,Madagascar,16000.0
+2842,Az Zintān,31.9306,12.2483,Libya,16024.0
+2843,Antsenavolo,-21.4,48.05,Madagascar,16000.0
+2844,Manompana,-16.6833,49.7333,Madagascar,16000.0
+2845,Mangabe,-16.7167,46.8167,Madagascar,16000.0
+2846,Ankazondandy,-18.6833,47.8167,Madagascar,16000.0
+2847,Bekitro,-24.55,45.3,Madagascar,16000.0
+2848,Mandrosonoro,-20.5833,46.0,Madagascar,16000.0
+2849,Kafia Kingi,9.2731,24.4174,South Sudan,16000.0
+2850,Androy,-21.3333,47.2667,Madagascar,15938.0
+2851,Haddada,34.2236,-6.5111,Morocco,15898.0
+2852,Ghomrassen,33.0592,10.34,Tunisia,15957.0
+2853,Kyabé,9.4514,18.9447,Chad,15960.0
+2854,Sahambala,-17.9417,49.1083,Madagascar,15850.0
+2855,Vatomandry,-19.3308,48.9781,Madagascar,15836.0
+2856,Aïn Mediouna,34.5,-4.55,Morocco,15770.0
+2857,Bredasdorp,-34.5333,20.0417,South Africa,14936.0
+2858,Dassari,10.8158,1.1406,Benin,15839.0
+2859,Ezzhiliga,33.3,-6.5333,Morocco,15430.0
+2860,Tamazouzt,31.3833,-8.3833,Morocco,15846.0
+2861,Sidi Allal el Bahraoui,33.983,-6.417,Morocco,15866.0
+2862,Sakhā,31.0881,30.9456,Egypt,14733.0
+2863,Mandialaza,-18.6167,48.0333,Madagascar,15835.0
+2864,Ait Yazza,30.5063,-8.7931,Morocco,14259.0
+2865,Amawom,5.4667,7.5667,Nigeria,15000.0
+2866,Nioro du Rip,13.75,-15.8,Senegal,15643.0
+2867,Matuga,0.4603,32.5286,Uganda,15000.0
+2868,Diang,4.5833,13.35,Cameroon,15795.0
+2869,Ras el Oued,34.15,-4.0,Morocco,15778.0
+2870,Goubellat,36.5333,9.6667,Tunisia,15762.0
+2871,Kyazanga,-0.3864,31.3186,Uganda,15531.0
+2872,Funyan Bīra,9.35,42.4,Ethiopia,15478.0
+2873,Mvurwi,-17.0167,30.85,Zimbabwe,15645.0
+2874,Guinguinéo,14.2667,-15.95,Senegal,15627.0
+2875,Sebt Bni Smith,35.1373,-4.7107,Morocco,15577.0
+2876,Mwinilunga,-11.7172,24.4289,Zambia,15704.0
+2877,Ifanadiana,-21.3,47.6333,Madagascar,15681.0
+2878,Toui,8.6833,2.6,Benin,15634.0
+2879,Dejen,10.1667,38.1333,Ethiopia,15483.0
+2880,Kinross,-26.4167,29.0833,South Africa,15246.0
+2881,Marivorahona,-13.0833,49.0833,Madagascar,15654.0
+2882,Bengonbeyene,1.6931,11.0342,Equatorial Guinea,15644.0
+2883,Aç-çahrij,31.8,-7.14,Morocco,15385.0
+2884,Qaryat Sulūq,31.6686,20.2503,Libya,15543.0
+2885,Pahou,6.3833,2.2167,Benin,14436.0
+2886,Butiama,-1.7667,33.9667,Tanzania,15383.0
+2887,Wawizaght,32.1586,-6.355,Morocco,14570.0
+2888,Monkey Bay,-14.0833,34.9167,Malawi,14955.0
+2889,Amboavory,-17.3,48.5,Madagascar,15465.0
+2890,Bokoro,12.3667,17.05,Chad,15517.0
+2891,Isorana,-21.3167,46.9333,Madagascar,15472.0
+2892,Ifrane,33.5333,-5.1167,Morocco,14659.0
+2893,Linguère,15.3944,-15.1167,Senegal,15482.0
+2894,Madagh,35.0133,-2.3397,Morocco,14486.0
+2895,Kalongo,3.04,33.3711,Uganda,15000.0
+2896,Manohisoa,-19.7833,46.7667,Madagascar,15422.0
+2897,Al Hammam,33.1868,-5.6225,Morocco,15438.0
+2898,Anazzou,30.6333,-8.05,Morocco,15429.0
+2899,Méridjonou,6.4619,2.6774,Benin,13959.0
+2900,Kérouané,9.2704,-9.02,Guinea,15406.0
+2901,Moul El Bergui,32.5113,-8.9849,Morocco,15342.0
+2902,Gomboussougou,11.4333,-0.7667,Burkina Faso,15336.0
+2903,Andrakata,-14.6167,49.7167,Madagascar,15401.0
+2904,Ambongamarina,-18.325,47.9542,Madagascar,15382.0
+2905,Tendrara,33.05,-2.0,Morocco,15390.0
+2906,Lokomby,-22.1833,47.75,Madagascar,15000.0
+2907,Oulad Bou Rahmoun,32.2954,-6.6668,Morocco,15113.0
+2908,Douar El Arbaa Bou Quorra,34.749,-5.1982,Morocco,15165.0
+2909,Driouch,34.9833,-3.3833,Morocco,14741.0
+2910,Tazert,31.6597,-7.4092,Morocco,15243.0
+2911,Aïn Jemaa,34.0333,-5.8,Morocco,15265.0
+2912,Bennane,35.6833,10.8333,Tunisia,14218.0
+2913,Bétérou,9.2,2.2667,Benin,15236.0
+2914,Mani,13.26,-0.2094,Burkina Faso,15066.0
+2915,Souk Et-Tleta des Oulad Hamdane,33.1047,-8.2495,Morocco,15205.0
+2916,Pâ,11.55,-3.26,Burkina Faso,15170.0
+2917,Sabbah,33.8036,-7.0372,Morocco,15029.0
+2918,Ilha de Moçambique,-15.0367,40.7328,Mozambique,14000.0
+2919,Qantīr,30.8,31.8333,Egypt,13660.0
+2920,Bedfordview,-26.1794,28.1361,South Africa,13959.0
+2921,Ambahive,-22.2,47.7167,Madagascar,15000.0
+2922,Talata Ampano,-21.55,47.0333,Madagascar,15000.0
+2923,Ben Taieb,35.0837,-3.4696,Morocco,14257.0
+2924,Mahaly,-24.1667,46.35,Madagascar,15197.0
+2925,Gayéri,12.65,0.5,Burkina Faso,15170.0
+2926,Aiyetoro Gbede,7.9833,6.0,Nigeria,15000.0
+2927,Antsoso,-19.8167,46.8667,Madagascar,15000.0
+2928,Tazzarine,30.7722,-5.5458,Morocco,15169.0
+2929,Dembecha,10.55,37.4833,Ethiopia,15008.0
+2930,Ianantsony,-23.55,43.7667,Madagascar,15000.0
+2931,Midar,34.95,-3.5333,Morocco,15021.0
+2932,Andondabe,-17.7667,49.3847,Madagascar,15058.0
+2933,Sakabansi,10.0442,3.3821,Benin,15111.0
+2934,Ambodiriana,-19.5833,47.5333,Madagascar,15000.0
+2935,Mellila,33.3833,-7.1333,Morocco,15081.0
+2936,Ambohimierambe-Andranofito,-19.7833,47.4333,Madagascar,15127.0
+2937,Oued Jdida,33.9333,-5.3667,Morocco,14935.0
+2938,Ifatsy,-22.4,47.75,Madagascar,15000.0
+2939,Anororo,-17.5167,48.4333,Madagascar,14992.0
+2940,Tsiatajavona-Ankaratra,-19.3833,47.35,Madagascar,15000.0
+2941,Andranovelona,-19.65,47.6333,Madagascar,15000.0
+2942,Ambesisika,-16.5167,46.8667,Madagascar,15000.0
+2943,Sahave,-21.0667,47.1167,Madagascar,15000.0
+2944,Mutukula,-1.0,31.4167,Uganda,15000.0
+2945,Vohilava,-20.7,48.35,Madagascar,15000.0
+2946,Alarobia Bemaha,-20.2,46.8833,Madagascar,15000.0
+2947,Ambatoharanana,-17.3,49.1167,Madagascar,15000.0
+2948,Ramainandro,-19.3,47.0,Madagascar,15000.0
+2949,Ambinanindrano,-20.65,47.8,Madagascar,15000.0
+2950,Milenaka,-22.8333,43.5833,Madagascar,15000.0
+2951,Manambondro,-23.8,47.55,Madagascar,15000.0
+2952,Manandona,-20.05,47.0667,Madagascar,15000.0
+2953,Marofototra,-20.8667,48.1667,Madagascar,15000.0
+2954,Antanifotsy,-16.8667,49.6333,Madagascar,15000.0
+2955,Koungheul,13.9833,-14.8,Senegal,15000.0
+2956,Kopoky,-25.2,45.2,Madagascar,15000.0
+2957,Ankisabe,-19.2833,46.4833,Madagascar,15000.0
+2958,Esbiaat,32.2044,-8.5608,Morocco,14986.0
+2959,Bevoay,-24.4833,47.0167,Madagascar,15000.0
+2960,Imanombo,-24.4333,45.8167,Madagascar,15000.0
+2961,Ambatomanjaka,-18.8833,46.8667,Madagascar,15000.0
+2962,Ankilimivory,-24.4667,44.9667,Madagascar,15000.0
+2963,Beroy Atsimo,-23.9833,44.6667,Madagascar,15000.0
+2964,Bakel,14.9042,-12.4583,Senegal,15000.0
+2965,Analamary,-24.2333,47.2167,Madagascar,15000.0
+2966,Anahidrano,-15.0833,47.9333,Madagascar,15000.0
+2967,Anjoma-Ramartina,-19.6333,45.9667,Madagascar,15000.0
+2968,Antanimenabaka,-16.9333,48.4833,Madagascar,15000.0
+2969,Soalala,-16.1,45.3167,Madagascar,15000.0
+2970,Douar Souk L‘qolla,35.0718,-5.5702,Morocco,14965.0
+2971,Kezi,-20.9167,28.4667,Zimbabwe,15000.0
+2972,Befasy,-20.5667,44.3667,Madagascar,15000.0
+2973,Behisatse,-21.8,45.1167,Madagascar,15000.0
+2974,Aghbal,34.9394,-2.1272,Morocco,14908.0
+2975,Iharan̈a,-13.35,50.0,Madagascar,15000.0
+2976,Tabant,31.6581,-6.42,Morocco,14963.0
+2977,’Tlat Bni Oukil,32.577,-6.84,Morocco,14960.0
+2978,Bni Darkoul,35.0563,-5.0688,Morocco,14779.0
+2979,Dahé,6.5167,1.95,Benin,14622.0
+2980,Sidmant al Jabal,29.0856,30.9344,Egypt,13119.0
+2981,Gourrama,32.3333,-4.0833,Morocco,14927.0
+2982,Vohipeno,-22.35,47.8333,Madagascar,14751.0
+2983,Nioro,15.1833,-9.55,Mali,14421.0
+2984,Vinanivao,-15.8833,50.2667,Madagascar,14906.0
+2985,Sahakevo,-20.2833,47.8333,Madagascar,14885.0
+2986,Edenburg,-29.7347,25.9369,South Africa,14566.0
+2987,Hima,0.2906,30.1775,Uganda,14700.0
+2988,Lumino,0.325,33.9958,Uganda,14624.0
+2989,Bhalil,33.85,-4.8667,Morocco,12997.0
+2990,Nagongera,0.77,34.0261,Uganda,14300.0
+2991,Nzalat Laadam,32.1,-7.95,Morocco,14838.0
+2992,Gabane,-24.6667,25.7833,Botswana,14842.0
+2993,Fiadanana,-18.2167,46.8833,Madagascar,14784.0
+2994,Ighrem n’Ougdal,31.2333,-7.4333,Morocco,14804.0
+2995,Anomabu,5.1667,-1.1167,Ghana,14389.0
+2996,Sinmpérékou,11.2333,2.4167,Benin,14748.0
+2997,Ampohibe,-15.0333,50.3,Madagascar,14433.0
+2998,Ankadinandriana,-19.0667,47.6667,Madagascar,14684.0
+2999,Alindao,5.0333,21.2167,Central African Republic,14401.0
+3000,Briniamaro,10.7411,2.0731,Benin,14751.0
+3001,Aït Yaïch,36.5811,4.3303,Algeria,14439.0
+3002,Onklou,9.5,1.9833,Benin,14693.0
+3003,Béré,9.3156,16.1597,Chad,14666.0
+3004,Oulad Driss,31.9536,-8.2053,Morocco,14716.0
+3005,Androrangavola,-21.5,47.7167,Madagascar,14709.0
+3006,Chifubu,-12.9333,28.6167,Zambia,13307.0
+3007,Zemamra,32.6215,-8.7023,Morocco,13279.0
+3008,Ngoulemakong,3.0833,11.4333,Cameroon,14675.0
+3009,Ranomafana,-18.9583,48.8417,Madagascar,14672.0
+3010,Mmopone,-24.5669,25.8733,Botswana,14655.0
+3011,Baie du Tombeau,-20.1138,57.5066,Mauritius,14687.0
+3012,Mahatsinjo,-17.7333,47.0333,Madagascar,14675.0
+3013,Mangamila,-18.5667,47.8583,Madagascar,14640.0
+3014,Bartabwa,0.83,35.8,Kenya,14611.0
+3015,Gouré,13.9874,10.27,Niger,14639.0
+3016,Ayt ’Attou ou L’Arbi,31.5456,-8.2967,Morocco,14544.0
+3017,Sokone,13.8833,-16.3667,Senegal,14500.0
+3018,Ayomi,6.7833,1.7167,Benin,14191.0
+3019,Marofinaritra,-15.0333,50.1167,Madagascar,14546.0
+3020,Boula’wane,32.8607,-8.053,Morocco,14485.0
+3021,Ouled Sidi Brahim,36.3667,3.7167,Algeria,14499.0
+3022,Bezou,32.0833,-7.05,Morocco,14072.0
+3023,Iakora,-23.1,46.65,Madagascar,14547.0
+3024,Plumtree,-20.4781,27.7972,Zimbabwe,14459.0
+3025,Ankaramena,-25.0167,46.75,Madagascar,14456.0
+3026,Iflissen,36.8636,4.2203,Algeria,14311.0
+3027,Belazao,-19.8833,46.9667,Madagascar,14332.0
+3028,Sidi Azzouz,31.7667,-7.6667,Morocco,14356.0
+3029,Ourtzagh,34.55,-4.9333,Morocco,14381.0
+3030,Zemrane,31.5339,-8.2672,Morocco,14338.0
+3031,Tagalft,32.2389,-6.1238,Morocco,14423.0
+3032,Mantaly,-13.1667,48.9667,Madagascar,14420.0
+3033,Temsamane,35.1167,-3.6333,Morocco,13920.0
+3034,Tounfit,32.4667,-5.2333,Morocco,13297.0
+3035,Ihaddadene,31.2,-9.65,Morocco,14345.0
+3036,Zaouiat Moulay Bouchta El Khammar,34.4833,-5.1167,Morocco,14347.0
+3037,Sīdī Barānī,31.6108,25.9256,Egypt,14393.0
+3038,Koundara,12.48,-13.296,Guinea,13990.0
+3039,Tafrant,34.625,-5.1242,Morocco,14246.0
+3040,Abadla,31.0167,-2.7333,Algeria,14364.0
+3041,Ambohimanga Atsimo,-20.8667,47.6,Madagascar,14293.0
+3042,Gesuba,6.7242,37.5567,Ethiopia,13927.0
+3043,Takerbouzt,36.418,4.3428,Algeria,14000.0
+3044,Mongeri,8.3167,-11.7333,Sierra Leone,14273.0
+3045,Bousso,10.4825,16.7161,Chad,14286.0
+3046,Kouroussa,10.653,-9.892,Guinea,14223.0
+3047,Dayr al Barshā,27.75,30.9,Egypt,14297.0
+3048,Kelafo,5.5889,44.2056,Ethiopia,14242.0
+3049,Douar Hammadi,31.6,-8.4667,Morocco,14227.0
+3050,Orkney,-26.9789,26.6692,South Africa,13435.0
+3051,Bou Izakarn,29.1667,-9.7333,Morocco,14228.0
+3052,Zayda,32.8167,-4.95,Morocco,13181.0
+3053,Aḑ Ḑab‘ah,31.0338,28.4333,Egypt,14212.0
+3054,Belambo,-19.4,47.5167,Madagascar,14000.0
+3055,Kaoma,-14.8,24.8,Zambia,14212.0
+3056,Adakplamé,7.45,2.55,Benin,14089.0
+3057,Beronono,-18.2,47.5167,Madagascar,14148.0
+3058,Summerstrand,-33.9914,25.6569,South Africa,12614.0
+3059,Ksibet el Mediouni,35.69,10.85,Tunisia,13122.0
+3060,Sidi Abdelkarim,33.1869,-7.2333,Morocco,14037.0
+3061,Rose Belle,-20.4025,57.6061,Mauritius,12799.0
+3062,Boutilimit,17.5504,-14.7,Mauritania,14142.0
+3063,Debre Werk’,10.6667,38.1667,Ethiopia,13908.0
+3064,Sahalanona,-22.05,47.6167,Madagascar,14000.0
+3065,Antanambaobe,-16.25,49.6667,Madagascar,14000.0
+3066,Mahatsinjony,-21.4167,47.2,Madagascar,14000.0
+3067,El Guetar,34.3372,8.9528,Tunisia,14088.0
+3068,Fiadanana,-20.3333,47.4333,Madagascar,14000.0
+3069,Zazafotsy,-22.2,46.35,Madagascar,14062.0
+3070,Galmi,13.966,5.675,Niger,13888.0
+3071,Ambohimitombo,-20.7167,47.4333,Madagascar,14000.0
+3072,Mahavelona,-19.1667,46.5167,Madagascar,14000.0
+3073,Mbini,1.5833,9.6167,Equatorial Guinea,14034.0
+3074,Talwat,31.2883,-7.2372,Morocco,14060.0
+3075,Akropong,5.9742,-0.0881,Ghana,13785.0
+3076,Moudjbara,34.5037,3.4704,Algeria,14052.0
+3077,Ambatomarina,-20.5833,47.0167,Madagascar,14000.0
+3078,Marokarima,-21.2167,48.1333,Madagascar,14000.0
+3079,Amborondra,-21.9167,47.7667,Madagascar,14000.0
+3080,Vanono,-16.0333,49.45,Madagascar,14000.0
+3081,Tsarahasina,-15.7667,47.5833,Madagascar,14000.0
+3082,Bēylul,13.2644,42.3342,Eritrea,14055.0
+3083,Antohobe,-19.7667,46.0167,Madagascar,14016.0
+3084,Ambodihara,-14.75,48.9833,Madagascar,14000.0
+3085,Talata-Vohimena,-20.85,46.9667,Madagascar,14000.0
+3086,Bealanana,-14.55,48.7333,Madagascar,14000.0
+3087,Ambohimiera,-21.05,47.5,Madagascar,13983.0
+3088,Beraketa,-24.1833,45.6833,Madagascar,14000.0
+3089,Ambahita,-24.0,45.2667,Madagascar,14000.0
+3090,Kalandy,-15.75,48.7333,Madagascar,14000.0
+3091,Bevato,-18.6833,46.25,Madagascar,14000.0
+3092,Mahajamba,-15.7,47.1,Madagascar,14000.0
+3093,Thala,35.5667,8.6667,Tunisia,13968.0
+3094,Ankiliabo,-21.7,43.9,Madagascar,14000.0
+3095,Marotsiraka,-24.2833,45.9833,Madagascar,14000.0
+3096,Vatolatsaka,-23.3,44.3,Madagascar,14000.0
+3097,Miarinarivo,-16.6167,48.25,Madagascar,14000.0
+3098,Bekipay,-16.25,46.1333,Madagascar,14000.0
+3099,Beharona,-21.5167,44.3,Madagascar,14000.0
+3100,Rafaï,4.9731,23.9319,Central African Republic,14000.0
+3101,Kuraymah,18.55,31.85,Sudan,13981.0
+3102,Binkolo,8.95,-11.9833,Sierra Leone,13867.0
+3103,Oulad Chikh,32.8544,-7.5386,Morocco,13866.0
+3104,Arbaa Laaounate,32.7446,-8.1942,Morocco,13793.0
+3105,Khmis Sidi al ’Aydi,33.1228,-7.6219,Morocco,13839.0
+3106,Douar Lehgagcha,32.55,-8.7167,Morocco,13748.0
+3107,Toulal,32.3036,-3.9861,Morocco,13852.0
+3108,Hammam el Rhezez,36.89,11.12,Tunisia,13634.0
+3109,Ampasinambo,-20.5167,48.0,Madagascar,13774.0
+3110,Gouka,8.1333,1.9667,Benin,13765.0
+3111,Atomé-Avégamé,7.2333,1.65,Benin,13582.0
+3112,‘Alem T’ēna,8.3,38.95,Ethiopia,13529.0
+3113,Mata,14.0436,21.1611,Chad,13739.0
+3114,Msata,-6.3362,38.385,Tanzania,13740.0
+3115,Bandarbeyla,9.4833,50.8167,Somalia,13753.0
+3116,Caledon,-34.23,19.4283,South Africa,13020.0
+3117,Busogo,-1.5572,29.5442,Rwanda,12460.0
+3118,Manta,10.3564,1.1056,Benin,13633.0
+3119,Tamsaout,29.5333,-8.85,Morocco,13711.0
+3120,Doumé,8.0167,1.6333,Benin,13592.0
+3121,Amboasary-Gara,-18.4333,48.2667,Madagascar,13601.0
+3122,Ihorombe,-23.0,47.5333,Madagascar,13000.0
+3123,Afir,36.7676,3.7029,Algeria,13223.0
+3124,Aghbala,32.4833,-5.6333,Morocco,12781.0
+3125,Sidi Yahia,30.4969,-8.8211,Morocco,11955.0
+3126,Ouargaye,11.5,0.05,Burkina Faso,13431.0
+3127,Mqam at Tolba,33.9375,-6.2544,Morocco,13503.0
+3128,Mechtras,36.5448,4.0049,Algeria,12683.0
+3129,Kofelē,7.0,38.75,Ethiopia,13127.0
+3130,Kissane Ltouqi,34.6,-5.0833,Morocco,13390.0
+3131,Luchenza,-16.0167,35.3,Malawi,12600.0
+3132,Goudomp,12.5778,-15.8722,Senegal,13394.0
+3133,Andasibe,-18.9333,48.4167,Madagascar,13493.0
+3134,Testour,36.55,9.45,Tunisia,13397.0
+3135,Befandriana,-15.2667,48.5333,Madagascar,13000.0
+3136,Aconibe,1.3,10.9333,Equatorial Guinea,13382.0
+3137,Khombole,14.7667,-16.6833,Senegal,12880.0
+3138,Tahannawt,31.3514,-7.9508,Morocco,12102.0
+3139,Yengema,8.6167,-11.1667,Sierra Leone,13358.0
+3140,Port Victoria,0.1,33.9833,Kenya,12194.0
+3141,Katagon,6.6333,2.5833,Benin,12173.0
+3142,Ambodilazana,-18.1194,49.1208,Madagascar,13304.0
+3143,Lüderitz,-26.6458,15.1539,Namibia,12537.0
+3144,Tarhūnah,32.4339,13.6344,Libya,13264.0
+3145,Moorreesburg,-33.15,18.6667,South Africa,12877.0
+3146,Miarinarivo,-18.9608,46.9,Madagascar,13109.0
+3147,Reggada,29.5716,-9.6972,Morocco,13284.0
+3148,Beyla,8.6833,-8.6333,Guinea,13204.0
+3149,Ambazoa,-25.3139,45.8972,Madagascar,13000.0
+3150,Sebt Labrikiyne,32.2944,-8.0722,Morocco,13225.0
+3151,Ambohidronono,-18.75,48.0333,Madagascar,13206.0
+3152,El Kansera,34.0419,-5.9272,Morocco,13209.0
+3153,Vohitrindry,-22.3833,47.85,Madagascar,13000.0
+3154,Douar Sidi Laaroussi,31.845,-9.1586,Morocco,13202.0
+3155,Asjen,34.85,-5.6167,Morocco,13139.0
+3156,Messadine,35.7619,10.5953,Tunisia,12916.0
+3157,Marojala,-14.4833,50.0333,Madagascar,13000.0
+3158,Fouriesburg,-28.6227,28.2109,South Africa,12974.0
+3159,Xaafuun,10.4167,51.2667,Somalia,13200.0
+3160,Nako,-29.6481,27.7336,Lesotho,13146.0
+3161,Bou Arada,36.35,9.6167,Tunisia,13170.0
+3162,Toura,11.2436,2.3831,Benin,13110.0
+3163,Phalaborwa,-23.9333,31.1167,South Africa,13108.0
+3164,Kirano,-21.8333,47.05,Madagascar,13000.0
+3165,Ambatondrakalavao,-19.4333,47.5,Madagascar,13000.0
+3166,Mavorano,-21.7833,47.9333,Madagascar,13000.0
+3167,Adi Keyh,14.8333,39.3667,Eritrea,13061.0
+3168,Gouandé,10.7828,0.9186,Benin,13071.0
+3169,Shīnīlē,9.6667,41.8333,Ethiopia,13132.0
+3170,Betatao,-18.2,47.8833,Madagascar,13112.0
+3171,Ambalakindresy,-21.1667,47.3333,Madagascar,13000.0
+3172,Sali,26.9833,-0.0333,Algeria,13138.0
+3173,Tsiately,-23.3167,47.6167,Madagascar,13000.0
+3174,Mahaboboka,-22.9,44.3333,Madagascar,13115.0
+3175,Belemoka,-21.7833,47.6167,Madagascar,13000.0
+3176,Springbok,-29.6667,17.8833,South Africa,12790.0
+3177,Bamessing,5.9847,10.3603,Cameroon,12726.0
+3178,Mahatsinjo,-22.8,47.45,Madagascar,13000.0
+3179,Befeta,-21.2333,47.05,Madagascar,13000.0
+3180,Ambodiampana,-14.5333,49.8667,Madagascar,13000.0
+3181,Anjiajia,-16.4833,46.9667,Madagascar,13000.0
+3182,Andranomamy,-16.6,47.1333,Madagascar,13000.0
+3183,Ksar Sghir,35.8419,-5.5586,Morocco,12997.0
+3184,Kouti,6.5542,2.6616,Benin,12751.0
+3185,Sakoabe,-22.2,47.8333,Madagascar,13000.0
+3186,Gumani,9.45,-0.7667,Ghana,12506.0
+3187,Ambohitsilaozana,-17.6833,48.45,Madagascar,13000.0
+3188,Ambondrona,-21.2667,46.9833,Madagascar,13000.0
+3189,Ampanefena,-13.8667,49.9667,Madagascar,13000.0
+3190,Colesberg,-30.7167,25.1,South Africa,12423.0
+3191,Morarano,-18.9,47.3167,Madagascar,13000.0
+3192,Ambodisakoana,-15.4167,47.9333,Madagascar,13000.0
+3193,Morafeno,-21.1,48.2,Madagascar,13000.0
+3194,Mandritsara,-19.55,47.05,Madagascar,13000.0
+3195,Gamboula,4.1333,15.15,Central African Republic,13048.0
+3196,Amersfoort,-27.0078,29.8711,South Africa,12335.0
+3197,Manalalondo,-19.25,47.1167,Madagascar,12995.0
+3198,Marovandrika,-22.5167,47.6667,Madagascar,13000.0
+3199,Evato,-22.6,47.6833,Madagascar,13000.0
+3200,Kyotera,-0.6317,31.5433,Uganda,12789.0
+3201,Manambolo,-15.2833,49.7,Madagascar,13000.0
+3202,Sebt Bni Garfett,35.25,-5.8333,Morocco,12994.0
+3203,Amborompotsy,-24.6667,44.95,Madagascar,13000.0
+3204,Marovato,-25.5333,45.2667,Madagascar,13000.0
+3205,Bemanevika,-14.1333,50.1,Madagascar,13000.0
+3206,Antsirabe Afovoany,-15.95,48.9667,Madagascar,13000.0
+3207,El Marsa,36.8111,3.2556,Algeria,12100.0
+3208,Ankilimalinika,-22.95,43.5667,Madagascar,13000.0
+3209,Sandrakatsy,-16.3333,49.6167,Madagascar,13000.0
+3210,Manambidala,-22.75,47.2667,Madagascar,13000.0
+3211,Isaka-Ivondro,-24.8,46.85,Madagascar,13000.0
+3212,Andreba,-14.5833,48.1833,Madagascar,13000.0
+3213,Ambararata,-15.0167,48.6333,Madagascar,13000.0
+3214,Sahavalanina-Antenina,-16.5667,49.25,Madagascar,13000.0
+3215,Ankilivalo,-20.2833,44.6333,Madagascar,13000.0
+3216,Bolongongo,-8.4667,15.25,Angola,13019.0
+3217,Mangindrano,-14.2833,48.9667,Madagascar,13000.0
+3218,Ambohimahavelona,-23.4333,43.8833,Madagascar,13000.0
+3219,Amboaboa,-15.9333,48.7167,Madagascar,13000.0
+3220,Ambahoabe,-16.7667,49.5,Madagascar,13000.0
+3221,Oulad Rahmoun,32.3278,-6.5006,Morocco,12720.0
+3222,Andohajango,-15.9,48.5,Madagascar,13000.0
+3223,Ampitasimo,-17.7833,48.3833,Madagascar,13000.0
+3224,Ilafy,-17.8833,48.4167,Madagascar,13000.0
+3225,Maktar,35.8606,9.2058,Tunisia,12942.0
+3226,Tranovaho,-25.3,44.9667,Madagascar,13000.0
+3227,Ampanavoana,-15.6667,50.2,Madagascar,13009.0
+3228,Ambatolampy,-18.9,46.1167,Madagascar,13000.0
+3229,Antongomena-Bevary,-15.95,45.9333,Madagascar,13000.0
+3230,Bni Khloug,32.65,-7.3833,Morocco,12930.0
+3231,Ambakireny,-17.6667,47.85,Madagascar,13000.0
+3232,Bejofo,-17.8333,48.2333,Madagascar,13000.0
+3233,Gomparou,11.3,2.4489,Benin,12934.0
+3234,Kanel,15.4833,-13.1667,Senegal,12975.0
+3235,Maroviro,-21.2333,44.7333,Madagascar,13000.0
+3236,Bou Adel,34.5428,-4.5075,Morocco,12684.0
+3237,Guisser,32.7667,-7.5,Morocco,12289.0
+3238,Piketberg,-32.9,18.7667,South Africa,12075.0
+3239,Kashasha,-1.7578,31.6158,Tanzania,12508.0
+3240,Rokupr,9.0167,-12.95,Sierra Leone,12744.0
+3241,Douar Oulad Youssef,32.4807,-6.3769,Morocco,12804.0
+3242,Ambalarondra,-18.4667,48.9833,Madagascar,12884.0
+3243,Tizgane,35.4136,-5.0696,Morocco,12773.0
+3244,Kilindoni,-7.9167,39.65,Tanzania,12409.0
+3245,Kasba Tanora,32.4751,-6.1498,Morocco,12783.0
+3246,Arhribs,36.8022,4.3227,Algeria,12474.0
+3247,Donwari,11.1197,2.8558,Benin,12773.0
+3248,M’dhilla,34.25,8.75,Tunisia,12814.0
+3249,Souakene,35.1167,-5.95,Morocco,12632.0
+3250,Si Mustapha,36.7247,3.6153,Algeria,12087.0
+3251,Teroual,34.6667,-5.2667,Morocco,12621.0
+3252,Karagwe,0.6769,30.1967,Uganda,12045.0
+3253,Oulad Ouchchih,35.0939,-5.9454,Morocco,12608.0
+3254,Vohimarina,-21.64,46.8989,Madagascar,12559.0
+3255,Burj al ‘Arab,30.8489,29.6117,Egypt,12625.0
+3256,Sarahandrano,-14.7833,50.0167,Madagascar,12758.0
+3257,Antanandava,-19.0833,47.95,Madagascar,12755.0
+3258,Laamarna,31.8944,-8.9842,Morocco,12717.0
+3259,Diari,9.8452,-0.8655,Ghana,12666.0
+3260,Majanji,0.2408,33.9914,Uganda,11274.0
+3261,Iferhounene,36.5338,4.3701,Algeria,12460.0
+3262,Zag,28.0167,-9.3333,Morocco,12763.0
+3263,Dabat,12.9842,37.765,Ethiopia,12574.0
+3264,Ounagha,31.5333,-9.55,Morocco,12461.0
+3265,Ahermoumou,33.8184,-4.4106,Morocco,12654.0
+3266,Grand Baie,-20.0184,57.5802,Mauritius,11910.0
+3267,Lalmatie,-20.0184,57.5802,Mauritius,11910.0
+3268,Makuyu,-0.9,37.1833,Kenya,12541.0
+3269,Aït Youssef Ou Ali,31.9833,-5.7833,Morocco,12673.0
+3270,Zawiat Moulay Brahim,31.2858,-7.9656,Morocco,11813.0
+3271,Bni Drar,34.8578,-1.9928,Morocco,10934.0
+3272,New Germany,-29.8,30.8833,South Africa,12592.0
+3273,El Adjiba,36.3333,4.15,Algeria,12486.0
+3274,Godohou,7.0333,1.7833,Benin,12259.0
+3275,Adré,13.4667,22.2,Chad,12571.0
+3276,Mahavanona,-12.45,49.3667,Madagascar,12075.0
+3277,Wadhraf,33.9833,9.9667,Tunisia,12557.0
+3278,Cunda diá Baze,-8.9167,17.0667,Angola,12620.0
+3279,Oshikango,-17.4,15.8833,Namibia,12423.0
+3280,Brandfort,-28.7,26.4667,South Africa,12091.0
+3281,Birni,9.9892,1.5269,Benin,12559.0
+3282,Ongwediva,-17.7833,15.7667,Namibia,10964.0
+3283,Tiadiaye,14.4167,-16.7,Senegal,12168.0
+3284,Vohindava,-22.4167,47.8667,Madagascar,12000.0
+3285,Diamou,14.0939,-11.2669,Mali,12550.0
+3286,Bou Arkoub,36.54,10.55,Tunisia,12312.0
+3287,Gandorhun,7.5564,-11.6925,Sierra Leone,12288.0
+3288,Ouédo-Aguéko,6.4963,2.4268,Benin,10610.0
+3289,Jaidte Lbatma,31.6806,-7.7281,Morocco,12330.0
+3290,Sawādah,28.0775,30.7953,Egypt,10571.0
+3291,Boumalne,31.3738,-5.9956,Morocco,12328.0
+3292,Oulad Aïssa,30.558,-8.614,Morocco,12331.0
+3293,Iarinarivo,-18.9167,47.4,Madagascar,12000.0
+3294,Diamniadio,14.7219,-17.1789,Senegal,12326.0
+3295,Siki,10.1833,2.3833,Benin,12398.0
+3296,Kika,9.3,2.2667,Benin,12398.0
+3297,Oulad Fares,35.5167,-5.9333,Morocco,12341.0
+3298,Ambatomainty,-20.9,46.45,Madagascar,12421.0
+3299,Pira,8.5,1.7333,Benin,12377.0
+3300,Sagon,7.15,2.4167,Benin,12160.0
+3301,Ambinanynony,-18.6,49.1167,Madagascar,12392.0
+3302,Prieska,-29.6683,22.7439,South Africa,11236.0
+3303,Oulad Amrane el Mekki,35.2167,-5.9667,Morocco,12252.0
+3304,Gharbia,35.5153,-5.9306,Morocco,12274.0
+3305,Nkheila,32.9572,-7.0731,Morocco,12306.0
+3306,Tissa,34.2833,-4.6667,Morocco,11195.0
+3307,Yakouren,36.7348,4.4386,Algeria,12203.0
+3308,Ain Kansara,34.15,-4.8314,Morocco,12291.0
+3309,Soklogbo,7.6937,2.2673,Benin,12278.0
+3310,Malloussa,35.7333,-5.6333,Morocco,12250.0
+3311,Mutoko,-17.4,32.2167,Zimbabwe,12336.0
+3312,Barberton,-25.7861,31.0531,South Africa,11997.0
+3313,Gatumba,-3.3333,29.25,Burundi,11700.0
+3314,Aj Jourf,31.4903,-4.4014,Morocco,12302.0
+3315,Kibungo,-2.1608,30.5442,Rwanda,11537.0
+3316,Ouénou,9.787,2.6375,Benin,12245.0
+3317,Lissegazoun,6.6167,2.0833,Benin,11856.0
+3318,Ramabitsa,-29.7625,27.6139,Lesotho,12234.0
+3319,Ambatomasina,-18.7333,47.45,Madagascar,11000.0
+3320,Velddrif,-32.7833,18.1667,South Africa,11017.0
+3321,Kathu,-27.7,23.05,South Africa,11510.0
+3322,Ngou,5.2,10.3833,Cameroon,12000.0
+3323,Sokouhoué,6.9,1.6667,Benin,11998.0
+3324,Diré,16.2667,-3.4,Mali,12092.0
+3325,Benoy,8.9908,16.3169,Chad,12097.0
+3326,Ivoamba,-21.4,47.1667,Madagascar,12000.0
+3327,Saclepea,7.1167,-8.8333,Liberia,12117.0
+3328,Anjanazana,-15.3833,49.75,Madagascar,12000.0
+3329,Maromiandra,-21.6833,47.5167,Madagascar,12000.0
+3330,As Sars,36.0833,9.0167,Tunisia,12137.0
+3331,Steha,35.346,-4.957,Morocco,12034.0
+3332,Antanamalaza,-19.4,47.6333,Madagascar,12000.0
+3333,Mayate,32.2667,-7.5167,Morocco,12101.0
+3334,Ampasimbe,-16.8167,49.0,Madagascar,12122.0
+3335,Nosiarina,-14.2167,50.05,Madagascar,12000.0
+3336,Sorombo,-22.1,47.9167,Madagascar,12000.0
+3337,Belampona,-14.6833,49.5167,Madagascar,11976.0
+3338,Antaritarika,-25.4,45.75,Madagascar,12000.0
+3339,Ambohimandroso,-21.8833,46.95,Madagascar,12000.0
+3340,Ambalavero,-21.8,47.7833,Madagascar,12000.0
+3341,Befody,-20.7667,47.9333,Madagascar,12000.0
+3342,Umm ar Rizam,32.5325,23.0053,Libya,12098.0
+3343,Gbanhi,8.4497,2.4737,Benin,12045.0
+3344,Kévé,6.4278,0.9245,Togo,12000.0
+3345,Omatjete,-21.05,15.5,Namibia,12000.0
+3346,Ankafina Tsarafidy,-21.2,47.25,Madagascar,12000.0
+3347,Oulad Daoud,34.4058,-4.6939,Morocco,11978.0
+3348,Tori-Cada,6.5833,2.2,Benin,11952.0
+3349,Mmadinare,-21.8746,27.7496,Botswana,12086.0
+3350,Anorombato,-22.0167,47.7833,Madagascar,12000.0
+3351,Ampondra,-13.4167,49.95,Madagascar,12000.0
+3352,Sam,11.0333,2.7333,Benin,12006.0
+3353,Sendrisoa,-22.0,46.95,Madagascar,12000.0
+3354,Anjahambe,-17.3833,49.1333,Madagascar,12000.0
+3355,Tefam,5.2667,10.4667,Cameroon,12000.0
+3356,Fanambana,-13.55,49.9833,Madagascar,12000.0
+3357,Ambohinamboarina,-21.0333,47.05,Madagascar,12000.0
+3358,Souq Jamaa Fdalate,33.5911,-7.2792,Morocco,11966.0
+3359,Mahazoarivo,-21.3667,46.8167,Madagascar,12000.0
+3360,Saharefo,-21.6667,47.6833,Madagascar,12000.0
+3361,Béna,12.0804,-4.189,Burkina Faso,11963.0
+3362,Kountouri,10.405,0.9425,Benin,11958.0
+3363,Beandrarezona,-14.4833,48.6833,Madagascar,12000.0
+3364,Al Fayd,30.6167,-8.2167,Morocco,12011.0
+3365,Ambaliha,-14.4667,48.3,Madagascar,12000.0
+3366,Anjiamangirana I,-15.1667,47.7833,Madagascar,12000.0
+3367,Farkhâna,35.2833,-3.0167,Morocco,10994.0
+3368,Andonabe,-21.4667,47.95,Madagascar,12000.0
+3369,Ambolomoty,-16.1667,46.7,Madagascar,12000.0
+3370,Buqkoosaar,4.5108,44.8164,Somalia,12000.0
+3371,Maromby,-24.35,46.5667,Madagascar,12000.0
+3372,Bissorã,12.04,-15.4281,Guinea-Bissau,11964.0
+3373,Ain Beida,31.585,-8.608,Morocco,11978.0
+3374,Bou Merdès,35.45,10.7333,Tunisia,11829.0
+3375,Bekapaika,-16.75,47.5667,Madagascar,12000.0
+3376,Andrembesoa,-20.15,46.65,Madagascar,12000.0
+3377,Andranovao,-17.6167,44.0667,Madagascar,12000.0
+3378,Basibasy,-22.1667,43.65,Madagascar,12000.0
+3379,Coussé,6.85,2.1333,Benin,11885.0
+3380,Kibi,6.1667,-0.55,Ghana,11677.0
+3381,Itondy,-19.05,45.35,Madagascar,12000.0
+3382,Madina do Boé,11.75,-14.2167,Guinea-Bissau,12000.0
+3383,Umm Badr,14.2167,27.9333,Sudan,12000.0
+3384,Andramy,-17.9635,44.7855,Madagascar,12000.0
+3385,El Arba Des Bir Lenni,34.3272,-4.2039,Morocco,11866.0
+3386,Matmata,34.1,-4.55,Morocco,11928.0
+3387,Aït I’yach,32.6908,-4.9292,Morocco,11946.0
+3388,Tigzirt,36.8931,4.1225,Algeria,11962.0
+3389,Tizi Nisly,32.4667,-5.7667,Morocco,11918.0
+3390,Sidi Amer El Hadi,34.7992,-5.8394,Morocco,11814.0
+3391,Zriba-Village,36.3333,10.25,Tunisia,11849.0
+3392,Bechloul,36.3167,4.0667,Algeria,11775.0
+3393,Mahazoarivo,-20.3833,47.4333,Madagascar,11869.0
+3394,Péonga,10.3333,3.2667,Benin,11843.0
+3395,Podor,16.6167,-15.0333,Senegal,11869.0
+3396,Kete Krachi,7.8,-0.0167,Ghana,11788.0
+3397,Gbéroubouè,10.5333,2.7333,Benin,11846.0
+3398,Scottburgh,-30.2833,30.75,South Africa,11403.0
+3399,Toualet,32.7333,-7.1833,Morocco,11815.0
+3400,Agamé,6.7333,1.7667,Benin,11465.0
+3401,Bugongi,-0.6356,30.2528,Uganda,11547.0
+3402,Kuruman,-27.4597,23.4125,South Africa,10006.0
+3403,Chilonga,-12.0244,31.3364,Zambia,11816.0
+3404,Dolo Bay,4.1833,42.0833,Ethiopia,11810.0
+3405,Moulay Driss Zerhoun,34.0542,-5.5272,Morocco,11615.0
+3406,Jalalaqsi,3.4,45.5833,Somalia,11800.0
+3407,Befandefa,-22.1333,43.3,Madagascar,11812.0
+3408,Tifni,31.6281,-6.9444,Morocco,11760.0
+3409,Ngerengere,-6.75,38.1167,Tanzania,11780.0
+3410,Ventersburg,-28.0833,27.1333,South Africa,11260.0
+3411,Ambatofisaka II,-20.0833,47.9,Madagascar,11724.0
+3412,Lwakhakha,0.7967,34.3781,Uganda,10700.0
+3413,Lundazi,-12.3,33.1833,Zambia,11635.0
+3414,Ambohimahasoa,-21.1064,47.2161,Madagascar,11606.0
+3415,Al M’aziz,33.6667,-6.3167,Morocco,11502.0
+3416,Tamezmout,30.8075,-6.1142,Morocco,11697.0
+3417,Lamosina,-21.64,46.8989,Madagascar,11534.0
+3418,El Ançor,35.6833,-0.8667,Algeria,11469.0
+3419,Kasempa,-13.455,25.835,Zambia,11700.0
+3420,Isaka,-21.15,47.0,Madagascar,11642.0
+3421,Dérassi,10.1667,3.2667,Benin,11630.0
+3422,Befotaka,-17.0839,48.9667,Madagascar,11666.0
+3423,Yirol,6.56,30.51,South Sudan,11650.0
+3424,Surinam,-20.5139,57.5111,Mauritius,10507.0
+3425,Sidi Tabet,36.9139,10.0361,Tunisia,11385.0
+3426,Saint Helena Bay,-32.7583,18.0278,South Africa,11529.0
+3427,Mangabe,-16.95,49.3333,Madagascar,11583.0
+3428,Oulad Friha,32.6108,-7.625,Morocco,11581.0
+3429,Sidi Moussa Ben Ali,33.5594,-7.3817,Morocco,11445.0
+3430,Ross-Bétio,16.2667,-16.1333,Senegal,11588.0
+3431,Nzeto,-7.229,12.865,Angola,11633.0
+3432,Jamaat Shaim,32.35,-8.85,Morocco,11251.0
+3433,Warden,-27.8539,28.9667,South Africa,10977.0
+3434,Sidi Kasem,35.5339,-5.2183,Morocco,11537.0
+3435,Derdara,35.1103,-5.2872,Morocco,11547.0
+3436,Ihumwa,-6.1667,35.8833,Tanzania,11490.0
+3437,Cadale,2.75,46.3167,Somalia,11600.0
+3438,’Aïn Roua,36.3344,5.1806,Algeria,11499.0
+3439,Dzouz,31.89,-7.32,Morocco,11501.0
+3440,Timahdit,33.2369,-5.06,Morocco,10945.0
+3441,Ghinda’e,15.45,39.0833,Eritrea,11560.0
+3442,Tawnza,32.0944,-6.6025,Morocco,11488.0
+3443,Bouabout,31.2667,-9.1833,Morocco,11494.0
+3444,Douar Trougout,35.18,-3.77,Morocco,11458.0
+3445,Omaruru,-21.4333,15.9333,Namibia,11547.0
+3446,Kaboua,8.25,2.6833,Benin,11500.0
+3447,Moyamba,8.1606,-12.4333,Sierra Leone,11485.0
+3448,Sidéradougou,10.6876,-4.2627,Burkina Faso,11443.0
+3449,El Khemis des Beni Chegdal,32.4441,-6.9551,Morocco,11444.0
+3450,Er Regueb,34.8667,9.7833,Tunisia,11430.0
+3451,Lahfayr,30.57,-8.4878,Morocco,11374.0
+3452,Ain Legdah,34.1667,-4.5,Morocco,11422.0
+3453,Ahlaf,33.2833,-7.2,Morocco,11451.0
+3454,Jem’at Oulad ’Abbou,33.1156,-7.9333,Morocco,11299.0
+3455,Abjīj,29.2861,30.8152,Egypt,10057.0
+3456,Guinagourou,9.5667,2.95,Benin,11411.0
+3457,Amdel,31.5617,-8.8944,Morocco,11438.0
+3458,Douar Oulad Naoual,34.4936,-5.7108,Morocco,11371.0
+3459,Laqraqra,32.4333,-7.4333,Morocco,11419.0
+3460,Lafrayta,31.9167,-7.25,Morocco,11298.0
+3461,Douar Sgarta,32.1667,-7.6333,Morocco,11387.0
+3462,Dagbé,6.5667,2.6833,Benin,9498.0
+3463,Lamsabih,32.2933,-8.6889,Morocco,11339.0
+3464,Tilmi,31.8189,-5.7718,Morocco,11372.0
+3465,El Ghourdane,32.34,-8.7728,Morocco,11291.0
+3466,Kiwoko,0.8442,32.3614,Uganda,11013.0
+3467,Commune Sidi Youssef Ben Ahmed,33.7861,-4.8152,Morocco,11292.0
+3468,Ouaklim Oukider,31.45,-5.55,Morocco,11338.0
+3469,Sidi Abdellah Ben Taazizt,34.0019,-5.3695,Morocco,11227.0
+3470,Langarivo,-14.6,50.05,Madagascar,11326.0
+3471,Charouine,29.0167,-0.2667,Algeria,11347.0
+3472,Touama,31.5339,-7.4872,Morocco,11243.0
+3473,Besalampy,-16.75,44.4833,Madagascar,11331.0
+3474,Sebba,13.4333,0.5333,Burkina Faso,11298.0
+3475,Ambotaka,-21.75,48.05,Madagascar,11000.0
+3476,Kpandae,8.47,-0.02,Ghana,11239.0
+3477,Rejiche,35.4667,11.0333,Tunisia,10806.0
+3478,Inhassoro,-21.5333,35.2,Mozambique,11297.0
+3479,Mpraeso,6.58,-0.7297,Ghana,11190.0
+3480,Antsambalahy,-14.7167,49.9167,Madagascar,11284.0
+3481,Iazizatene,35.2544,-3.115,Morocco,11131.0
+3482,Enfida,36.1353,10.3808,Tunisia,11138.0
+3483,Zaouiet Says,32.7931,-8.6506,Morocco,11160.0
+3484,Douar Ain Maatouf,34.4352,-4.5566,Morocco,11165.0
+3485,Edd,13.9333,41.7,Eritrea,11259.0
+3486,Douar Jwalla,31.89,-7.44,Morocco,11168.0
+3487,Boujediane,35.1114,-5.7823,Morocco,11166.0
+3488,Plaine Magnien,-20.4286,57.6531,Mauritius,10443.0
+3489,Efatsy-Anandroza,-23.1167,47.6,Madagascar,11000.0
+3490,Iygli,29.5001,-9.0501,Morocco,11197.0
+3491,Fīnch’a’ā,9.9,37.45,Ethiopia,11134.0
+3492,Ambinanin’i Sakaleona,-20.5333,48.55,Madagascar,11133.0
+3493,Mhangura,-16.9,30.15,Zimbabwe,11175.0
+3494,Takad Sahel,30.25,-9.55,Morocco,10968.0
+3495,Kariat Ben Aouda,34.7667,-5.95,Morocco,11087.0
+3496,Sannieshof,-26.5333,25.8,South Africa,11016.0
+3497,Imerimandroso,-17.4333,48.5833,Madagascar,11000.0
+3498,Mangalmé,12.3547,19.6139,Chad,11155.0
+3499,Begogo,-23.4833,46.7167,Madagascar,11146.0
+3500,Oued Amlil,34.2,-4.2833,Morocco,10405.0
+3501,Bir Ghbalou,36.2642,3.5836,Algeria,11016.0
+3502,Manandroy,-21.1333,47.2667,Madagascar,11000.0
+3503,Vinaninkarena,-19.95,47.05,Madagascar,11000.0
+3504,Semuto,0.62,32.3278,Uganda,10935.0
+3505,Aduku,2.0194,32.72,Uganda,10700.0
+3506,Antanandava,-15.85,48.8167,Madagascar,11000.0
+3507,Niémasson,10.3078,2.0378,Benin,11069.0
+3508,Soamanova,-23.2833,47.6,Madagascar,11000.0
+3509,Āwash,8.9944,40.1667,Ethiopia,11053.0
+3510,Fotsialanana,-16.9333,49.4833,Madagascar,11000.0
+3511,Sampona,-25.15,46.3167,Madagascar,11000.0
+3512,Amporoforo,-22.4667,47.8,Madagascar,11000.0
+3513,Andranomeva,-15.8,47.7667,Madagascar,11000.0
+3514,Manambolosy,-16.0333,49.6667,Madagascar,11000.0
+3515,Bevata,-23.2833,47.2833,Madagascar,11000.0
+3516,Antakotako,-15.3167,49.8,Madagascar,11000.0
+3517,Mahazony,-21.9833,47.0167,Madagascar,11000.0
+3518,Ambinanindovoka,-21.9167,47.1,Madagascar,11000.0
+3519,Antsambahara,-14.5333,49.95,Madagascar,11000.0
+3520,Dek’emhāre,15.0667,39.0333,Eritrea,10959.0
+3521,Kalafotsy,-22.2833,47.3167,Madagascar,11000.0
+3522,Antsoha,-15.7667,48.85,Madagascar,11000.0
+3523,Marovantaza,-15.3833,47.6667,Madagascar,11000.0
+3524,Morafeno,-19.0833,47.1,Madagascar,11000.0
+3525,Ambodimangavolo,-17.5167,48.95,Madagascar,11000.0
+3526,Maroamalona,-15.3,48.6667,Madagascar,11000.0
+3527,Ranomafana,-24.5667,46.9667,Madagascar,11000.0
+3528,Ambodiampana,-16.8167,49.5667,Madagascar,11000.0
+3529,Orlu,5.7837,7.0333,Nigeria,9351.0
+3530,Analamitsivalana,-20.3167,44.6833,Madagascar,11000.0
+3531,Marotandrano,-16.1667,48.8333,Madagascar,11000.0
+3532,Ambohidranandriana,-19.8833,47.15,Madagascar,11000.0
+3533,Antsahabe,-14.8,48.3833,Madagascar,11000.0
+3534,Marolinta,-25.1,44.6167,Madagascar,11000.0
+3535,Androndrona Anava,-15.75,49.2,Madagascar,11000.0
+3536,Itzer,32.8833,-5.05,Morocco,10613.0
+3537,Maroambihy,-14.4667,49.7667,Madagascar,11000.0
+3538,Tsararano,-16.1667,46.6667,Madagascar,11000.0
+3539,Qal‘at an Nakhl,29.9,33.75,Egypt,11023.0
+3540,Tsinjomitondraka,-15.6667,47.1333,Madagascar,11000.0
+3541,Jafra,31.5145,-8.7555,Morocco,10896.0
+3542,Ambodimanary,-15.2167,48.0833,Madagascar,11000.0
+3543,Antsakanalabe,-15.4167,48.2833,Madagascar,11000.0
+3544,Miandrarivo,-18.9167,45.9333,Madagascar,11000.0
+3545,Antanandava,-17.4833,48.6833,Madagascar,11013.0
+3546,Ankavandra,-18.7722,45.2931,Madagascar,11000.0
+3547,Adda-Douéni,-12.3,44.5,Comoros,10858.0
+3548,Voloina,-15.5667,49.6167,Madagascar,11000.0
+3549,Tranomaro,-24.6,46.4667,Madagascar,11000.0
+3550,Soaserana,-21.1167,44.2167,Madagascar,11000.0
+3551,Guéoul,15.4833,-16.35,Senegal,10918.0
+3552,Bonthe,7.5264,-12.505,Sierra Leone,10206.0
+3553,Sidi Namane,36.7581,3.9839,Algeria,10688.0
+3554,Adohoun,6.6333,1.6667,Benin,10622.0
+3555,Figuig,32.1167,-1.2269,Morocco,10872.0
+3556,Chencha,6.25,37.5667,Ethiopia,10488.0
+3557,Nyakosoba,-29.5047,27.8692,Lesotho,10893.0
+3558,Hozin,6.5333,2.55,Benin,10076.0
+3559,Yoko,6.7,2.6167,Benin,10543.0
+3560,Ambohidanerana,-19.1833,46.7667,Madagascar,10786.0
+3561,Sérékali,9.9186,3.0434,Benin,10818.0
+3562,Ambato,-18.6,47.5,Madagascar,10642.0
+3563,Villiersdorp,-33.9833,19.2833,South Africa,10004.0
+3564,Keza,-2.754,30.682,Tanzania,10810.0
+3565,Ngorongoro,-3.2496,35.52,Tanzania,10836.0
+3566,Agouna,7.5667,1.7,Benin,10763.0
+3567,Sanson,9.2833,2.4333,Benin,10784.0
+3568,Ousseltia,35.84,9.58,Tunisia,10783.0
+3569,Imi Mokorn,30.1675,-9.2322,Morocco,10748.0
+3570,Foum Jam’a,31.96,-6.98,Morocco,9873.0
+3571,Antenetibe,-18.7833,47.4167,Madagascar,10536.0
+3572,Gounarou,10.8667,2.85,Benin,10767.0
+3573,Douar Bouchfaa,34.1014,-4.2939,Morocco,10724.0
+3574,Nkokonjeru,0.2394,32.9231,Uganda,10100.0
+3575,Antanandehibe,-19.6833,48.3333,Madagascar,10756.0
+3576,Takon,6.65,2.6167,Benin,10424.0
+3577,Qamīnis,31.6572,20.0144,Libya,10713.0
+3578,Tanant,31.8667,-6.95,Morocco,10706.0
+3579,Kelilalina,-21.2833,47.55,Madagascar,10747.0
+3580,Taouloukoult,31.2167,-9.0833,Morocco,10682.0
+3581,Andovoranto,-18.9544,49.1094,Madagascar,10723.0
+3582,Antsahadinta,-19.0167,47.4583,Madagascar,10434.0
+3583,Arbaa Sahel,29.5993,-9.877,Morocco,10705.0
+3584,Darling,-33.3833,18.3833,South Africa,10420.0
+3585,Lamhadi,32.3,-9.0167,Morocco,10651.0
+3586,Tamanar,31.0,-9.6667,Morocco,10584.0
+3587,Fô-Bouré,10.1167,2.4,Benin,10677.0
+3588,Ankarabato,-16.35,46.1833,Madagascar,10723.0
+3589,Abadou,31.5797,-7.3122,Morocco,10602.0
+3590,Sidi Brahim,35.2606,-0.5675,Algeria,10371.0
+3591,Mantasoa,-19.0167,47.8333,Madagascar,10604.0
+3592,Sebt Ait Ikkou,33.669,-6.1376,Morocco,10676.0
+3593,Sidi Bousber,34.5667,-5.3667,Morocco,10528.0
+3594,Ahogbeya,7.0333,1.9167,Benin,10330.0
+3595,Antsaravibe,-13.05,49.0167,Madagascar,10648.0
+3596,Hajeb el Aïoun,35.39,9.54,Tunisia,10631.0
+3597,Nakonde,-9.3272,32.7583,Zambia,10652.0
+3598,Agdz,30.6978,-6.4497,Morocco,10681.0
+3599,Lohariandava,-18.7833,48.675,Madagascar,10670.0
+3600,Had Laaounate,32.6128,-8.2256,Morocco,10580.0
+3601,Akim Swedru,5.894,-1.0127,Ghana,10379.0
+3602,Anoviara,-14.7333,49.8333,Madagascar,10667.0
+3603,Betsiaka,-13.15,49.2333,Madagascar,10661.0
+3604,Amtar,35.2385,-4.7943,Morocco,10574.0
+3605,Kilibo,8.5717,2.6017,Benin,10616.0
+3606,Lonkly,7.1333,1.6833,Benin,10445.0
+3607,Hetane,32.8403,-6.8025,Morocco,10618.0
+3608,Zawyat Ahançal,31.8325,-6.1056,Morocco,10657.0
+3609,Aïn Zora,34.66,-3.53,Morocco,10601.0
+3610,Souq Sebt Says,32.7773,-8.6433,Morocco,10488.0
+3611,Toundout,31.2667,-6.5833,Morocco,10606.0
+3612,Mokrisset,34.91,-5.3536,Morocco,10545.0
+3613,Tourza,29.4778,-10.0158,Morocco,10577.0
+3614,Aït Hani,31.7786,-5.4555,Morocco,10587.0
+3615,Tnine Sidi Lyamani,35.37,-5.97,Morocco,10365.0
+3616,Ambohitromby,-18.4333,47.15,Madagascar,10560.0
+3617,Ambolotarakely,-18.2667,47.4,Madagascar,10560.0
+3618,Songo,-7.3496,14.85,Angola,10579.0
+3619,Evander,-26.4719,29.11,South Africa,10166.0
+3620,Ouando,6.5542,2.6616,Benin,8712.0
+3621,Mfou,3.96,11.93,Cameroon,10533.0
+3622,Tiztoutine,34.9833,-3.15,Morocco,9788.0
+3623,Sawla,9.2833,-2.4167,Ghana,10555.0
+3624,Ben N’Choud,36.8624,3.8806,Algeria,9985.0
+3625,Ambahy,-20.7667,48.4833,Madagascar,10469.0
+3626,Rasebetsane,-29.8992,27.6628,Lesotho,10519.0
+3627,Tilougguit,32.0333,-6.2,Morocco,10544.0
+3628,Kadama,1.0167,33.8803,Uganda,10000.0
+3629,Rebola,3.7192,8.8531,Equatorial Guinea,10000.0
+3630,Marotaolana,-14.0167,48.6167,Madagascar,10538.0
+3631,Douar Mzoura,34.3167,-5.9333,Morocco,10194.0
+3632,Bordj Okhriss,36.0833,3.9667,Algeria,10467.0
+3633,Andonabe Atsimo,-19.8833,48.2167,Madagascar,10503.0
+3634,Sidi Abdallah,32.5783,-7.8108,Morocco,10481.0
+3635,Dar El Kebdani,35.1203,-3.3322,Morocco,9911.0
+3636,Najrīj,30.9667,30.8667,Egypt,8656.0
+3637,Thilogne,15.9239,-13.6578,Senegal,10440.0
+3638,Sidi Boushab,30.074,-9.279,Morocco,10438.0
+3639,Douar Echbanat,34.2167,-5.35,Morocco,10371.0
+3640,Salanso,12.1833,-4.0833,Burkina Faso,10385.0
+3641,Manakana,-19.8167,48.3667,Madagascar,10437.0
+3642,Sidi Bou Ali,35.9561,10.4722,Tunisia,10282.0
+3643,Bogué,16.5904,-14.27,Mauritania,10415.0
+3644,Brikcha,34.9667,-5.5833,Morocco,10399.0
+3645,Kourani,-11.8511,43.4261,Comoros,10000.0
+3646,Oulad Slim,32.7775,-7.7725,Morocco,10410.0
+3647,Sidi Rahhal,31.6667,-7.4833,Morocco,9906.0
+3648,Dougba,8.4497,2.4737,Benin,10387.0
+3649,Masindi Port,1.6983,32.0778,Uganda,10400.0
+3650,Balikumbat,5.8928,10.3597,Cameroon,10163.0
+3651,Awfouss,31.6833,-4.1667,Morocco,10424.0
+3652,Dan,7.3167,2.0667,Benin,10356.0
+3653,Tiddas,33.5665,-6.2659,Morocco,10047.0
+3654,Beni Oulid,34.5897,-4.4514,Morocco,10324.0
+3655,Agatogba,6.4,1.9,Benin,9758.0
+3656,Fasintsara,-20.7,47.7,Madagascar,10377.0
+3657,Libanté,10.7936,3.5828,Benin,10365.0
+3658,Vatana,-22.2167,47.75,Madagascar,10000.0
+3659,Jaqma,33.292,-7.44,Morocco,10306.0
+3660,Shamva,-17.3167,31.55,Zimbabwe,10317.0
+3661,Firou,10.9192,1.9386,Benin,10331.0
+3662,Bethanie,-26.4833,17.15,Namibia,10363.0
+3663,Bounaamane,29.5283,-9.8044,Morocco,10310.0
+3664,Banga,-8.7333,15.1667,Angola,10354.0
+3665,Kiklah,32.0683,12.6944,Libya,10350.0
+3666,Kazo,-0.0528,30.7569,Uganda,10200.0
+3667,Ksar Lmajaz,35.8428,-5.5586,Morocco,10237.0
+3668,Ben Nasseur,33.1107,6.441,Algeria,10330.0
+3669,Fochville,-26.4833,27.4833,South Africa,9497.0
+3670,Aghbalou n’Kerdous,31.6767,-5.2976,Morocco,10313.0
+3671,Sgamna,32.7333,-7.2,Morocco,10245.0
+3672,Gafour,36.34,9.32,Tunisia,10272.0
+3673,Ambalavao,-19.1,47.5333,Madagascar,10157.0
+3674,Chivhu,-19.0,30.9,Zimbabwe,10263.0
+3675,Kenafif,30.4167,-9.0333,Morocco,9936.0
+3676,Erada,-25.2833,45.9333,Madagascar,10000.0
+3677,Sihanamaro,-25.1833,45.7667,Madagascar,10000.0
+3678,Amparihitsokatra,-17.5167,48.5667,Madagascar,10000.0
+3679,Pabégou,9.8333,1.5492,Benin,10156.0
+3680,La’tamna,31.91,-7.34,Morocco,10063.0
+3681,Were Īlu,10.6,39.4333,Ethiopia,10062.0
+3682,Marawī,18.4833,31.8167,Sudan,10234.0
+3683,Jemaat Oulad Mhamed,33.0938,-7.0519,Morocco,10187.0
+3684,Ain Karma,34.0071,-5.6182,Morocco,9738.0
+3685,Msoga,-6.5667,38.3,Tanzania,10144.0
+3686,Lohafary,-23.25,47.4333,Madagascar,10000.0
+3687,Ankadindambo,-21.4667,47.15,Madagascar,10000.0
+3688,Mahabo-Mananivo,-23.1833,47.6833,Madagascar,10000.0
+3689,Msila,35.2,-5.5667,Morocco,10153.0
+3690,Aïn Zohra,34.1,-6.35,Morocco,10151.0
+3691,Tissaf,33.4,-3.5833,Morocco,10191.0
+3692,Za’roura,35.2167,-5.6667,Morocco,10137.0
+3693,Antanananivo,-16.3,49.75,Madagascar,10066.0
+3694,Souama,36.6417,4.3416,Algeria,9954.0
+3695,Remada,32.3061,10.3822,Tunisia,10173.0
+3696,Ech Chaïbat,31.6,-7.85,Morocco,9877.0
+3697,Kele,6.0833,38.0333,Ethiopia,10084.0
+3698,Marondry,-18.4167,47.0,Madagascar,10110.0
+3699,Massi,9.9167,1.4667,Benin,10030.0
+3700,Namorona,-21.65,48.2,Madagascar,10046.0
+3701,Zaggota,34.1667,-5.5333,Morocco,10032.0
+3702,Tomboutou,11.855,3.2892,Benin,10026.0
+3703,Bou Nouh,36.5,3.9333,Algeria,9731.0
+3704,Kidira,14.4167,-12.25,Senegal,10065.0
+3705,Zoudjamé,6.8167,1.8667,Benin,9673.0
+3706,Taghbalt,30.62,-5.35,Morocco,10054.0
+3707,’Aïn Leuh,33.2833,-5.3833,Morocco,9669.0
+3708,Bou’nane,32.0275,-3.04,Morocco,10035.0
+3709,Diabougou,14.5431,-12.2186,Senegal,10000.0
+3710,Koumpentoum,13.9833,-14.5667,Senegal,10000.0
+3711,Senanga,-16.1167,23.2667,Zambia,10005.0
+3712,Analalava,-14.6333,47.75,Madagascar,10000.0
+3713,Menzel Kamel,35.6333,10.6667,Tunisia,9532.0
+3714,Ghadāmis,30.1333,9.5,Libya,10000.0
+3715,Tarhjicht,29.0564,-9.4281,Morocco,9988.0
+3716,Oued Laou,35.45,-5.0833,Morocco,9665.0
+3717,Boudinar,35.15,-3.6333,Morocco,9863.0
+3718,Kourimat,31.45,-9.3167,Morocco,9897.0
+3719,Outa Bouabane,34.2606,-4.4139,Morocco,9856.0
+3720,Lagbé,6.6833,2.6833,Benin,9138.0
+3721,Tafersit,35.0167,-3.5333,Morocco,9133.0
+3722,Saidia,35.085,-2.2392,Morocco,8780.0
+3723,Ngaparou,14.4631,-17.0581,Senegal,9500.0
+3724,Agoué,6.25,1.6833,Benin,9589.0
+3725,Toudja,36.7586,4.8933,Algeria,9827.0
+3726,Dasso,7.0167,2.4667,Benin,9607.0
+3727,Jerissa,35.85,8.6333,Tunisia,9807.0
+3728,Gorom-Gorom,14.45,-0.2333,Burkina Faso,9752.0
+3729,Wepener,-29.7333,27.0333,South Africa,9553.0
+3730,Tadla,32.4409,-8.3708,Morocco,9750.0
+3731,Adjarra,6.5333,2.2667,Benin,8651.0
+3732,Aklim,34.9167,-2.4333,Morocco,9695.0
+3733,Quiculungo,-8.5167,15.3167,Angola,9732.0
+3734,El Haouaria,37.05,11.0167,Tunisia,9629.0
+3735,Aghbalou Aqourar,33.9341,-4.7381,Morocco,9715.0
+3736,Sidi Ahmed El Khadir,32.5167,-7.3833,Morocco,9687.0
+3737,Tazarka,36.55,10.8333,Tunisia,9388.0
+3738,Douar Lehouifrat,32.28,-8.31,Morocco,9705.0
+3739,Bni Boufrah,35.1,-4.3167,Morocco,9653.0
+3740,Douar Messassa,34.2803,-4.5336,Morocco,9501.0
+3741,Agareb,34.7414,10.528,Tunisia,9610.0
+3742,Oulad Imloul,32.0333,-7.7167,Morocco,9614.0
+3743,Sidi Bou Othmane,31.9033,-7.9422,Morocco,9181.0
+3744,Gorē,8.149,35.537,Ethiopia,9352.0
+3745,Tatoufet,35.0339,-5.7706,Morocco,9527.0
+3746,Bni Gmil,35.0833,-4.3833,Morocco,9513.0
+3747,Zawyat Sidi Ben Hamdoun,33.045,-7.929,Morocco,9521.0
+3748,El Amim,32.2067,-7.2629,Morocco,9454.0
+3749,Ambatolahy,-19.7333,47.2833,Madagascar,9000.0
+3750,Ouédémè,6.7,1.6833,Benin,9099.0
+3751,Tambura,5.59,27.47,South Sudan,9500.0
+3752,Lanta,7.1,1.8667,Benin,9129.0
+3753,Adjido,7.0333,1.9833,Benin,9064.0
+3754,Soubakaniédougou,10.4824,-5.0098,Burkina Faso,9423.0
+3755,Mhâjâr,35.12,-3.49,Morocco,9386.0
+3756,Sidi El Hattab,32.2667,-7.2833,Morocco,9421.0
+3757,Harqalah,36.0333,10.5,Tunisia,9343.0
+3758,Tissint,29.9006,-7.3203,Morocco,9434.0
+3759,Gammasa,31.4182,-8.3784,Morocco,9388.0
+3760,Laghzawna,33.189,-7.684,Morocco,9315.0
+3761,Ameskroud,30.5308,-9.3283,Morocco,9351.0
+3762,Douar Ezzerarda,34.7667,-5.8333,Morocco,9249.0
+3763,Ifigha,36.6667,4.4167,Algeria,9160.0
+3764,Ouled Rached,36.2119,4.1106,Algeria,9311.0
+3765,Avabodji,6.4533,2.5275,Benin,8668.0
+3766,Kibaya,-5.3014,36.5825,Tanzania,8759.0
+3767,Kopong,-24.4686,25.8922,Botswana,9320.0
+3768,Moka,-20.219,57.496,Mauritius,8846.0
+3769,Dodji-Bata,6.6833,2.2833,Benin,9119.0
+3770,Nansio,-2.1078,33.0864,Tanzania,8644.0
+3771,Seddouk Oufella,36.6061,4.6389,Algeria,8931.0
+3772,Tanakoub,35.1091,-5.4577,Morocco,9236.0
+3773,Oulad Cherif,31.7667,-7.7833,Morocco,9237.0
+3774,Kawara,14.0706,5.6715,Niger,9064.0
+3775,Sidi Lahsene,34.0999,-2.6219,Morocco,9259.0
+3776,Nato,-22.3,47.8167,Madagascar,9000.0
+3777,Lanivo,-22.2833,47.8167,Madagascar,9000.0
+3778,Ādamī Tulu,7.8667,38.7,Ethiopia,9034.0
+3779,Douar Snada,35.0667,-4.2167,Morocco,9176.0
+3780,I-n-Amenas,28.05,9.55,Algeria,9225.0
+3781,Chtiba,32.2,-7.3,Morocco,9122.0
+3782,Sidi Ouassay,30.05,-9.6833,Morocco,9087.0
+3783,Bir Tam Tam,33.9833,-4.6333,Morocco,9141.0
+3784,Mwaline al Oued,33.4467,-7.3283,Morocco,9129.0
+3785,Tulbagh,-33.285,19.1378,South Africa,8969.0
+3786,Abalessa,22.89,4.8472,Algeria,9163.0
+3787,Usakos,-22.0,15.6,Namibia,9147.0
+3788,Al Bardīyah,31.76,25.075,Libya,9149.0
+3789,Boukhralfa,36.6144,5.0872,Algeria,8766.0
+3790,Gtarna,32.9724,-7.9645,Morocco,9084.0
+3791,Iguidiy,30.7467,-7.9258,Morocco,9100.0
+3792,Igana,7.0333,2.7,Benin,8735.0
+3793,Bérégadougou,10.7667,-4.75,Burkina Faso,9036.0
+3794,Bni Sidel,35.1392,-3.1281,Morocco,8930.0
+3795,Had Dra,31.5833,-9.5333,Morocco,8989.0
+3796,Dékanmé,7.1333,1.9667,Benin,8581.0
+3797,Mbamba Bay,-11.2833,34.7717,Tanzania,8997.0
+3798,Foum Zguid,30.0833,-6.8667,Morocco,8986.0
+3799,Zawyat Sidi al Mekki,33.212,-7.717,Morocco,8920.0
+3800,Locogahoué,6.8,1.783,Benin,8567.0
+3801,Beni Hassane,35.57,10.82,Tunisia,8801.0
+3802,Iskourane,30.8433,-9.8186,Morocco,8866.0
+3803,Metsemotlhaba,-24.5531,25.8039,Botswana,8884.0
+3804,Msemrir,31.7028,-5.8125,Morocco,8866.0
+3805,Ait Ikkou,33.5667,-5.65,Morocco,8865.0
+3806,Shoshong,-23.0333,26.5167,Botswana,8887.0
+3807,Imilchil,32.155,-5.6347,Morocco,8870.0
+3808,Ak’ordat,15.55,37.8833,Eritrea,8857.0
+3809,Aït Ouaoumana,32.7128,-5.8042,Morocco,8849.0
+3810,Bouhlou,34.1333,-4.4,Morocco,8748.0
+3811,Agadir Melloul,30.2167,-7.8,Morocco,8848.0
+3812,Iaboutene,35.067,-3.967,Morocco,8715.0
+3813,Cullinan,-25.6728,28.5208,South Africa,8693.0
+3814,Amarzgane,31.05,-7.2167,Morocco,8820.0
+3815,El Marmouta,32.0838,-7.4091,Morocco,8774.0
+3816,Nakaseke,0.73,32.415,Uganda,8600.0
+3817,Sidi Dahbi,33.05,-7.1833,Morocco,8703.0
+3818,Sidi el Mokhfi,34.6039,-4.7889,Morocco,8705.0
+3819,Hassi Berkane,34.8333,-2.8667,Morocco,8788.0
+3820,Tiqqi,29.8667,-9.0667,Morocco,8773.0
+3821,Tleta Taghramt,35.7877,-5.4677,Morocco,8706.0
+3822,Tifra,36.6664,4.6972,Algeria,8547.0
+3823,Amalou,36.4778,4.6333,Algeria,8602.0
+3824,Inékar,15.9492,3.1592,Mali,8714.0
+3825,Chamba,8.7,-0.1333,Ghana,8600.0
+3826,Lakhzazra,33.0333,-7.05,Morocco,8582.0
+3827,Lambarkiyine,33.2,-7.5,Morocco,8559.0
+3828,Nefasīt,15.3333,39.0619,Eritrea,8600.0
+3829,Goundam,16.4144,-3.6708,Mali,8456.0
+3830,Takiéta,13.6806,8.5292,Niger,8554.0
+3831,Oulad Khallouf,34.7167,-2.5833,Morocco,8605.0
+3832,Laanoussar,33.6833,-4.8167,Morocco,8501.0
+3833,As Sallūm,31.55,25.16,Egypt,8445.0
+3834,Outjo,-20.1089,16.1547,Namibia,8445.0
+3835,Aguelhok,19.4614,0.8589,Mali,8080.0
+3836,Kibale,0.7911,31.075,Uganda,7600.0
+3837,Gaoual,11.754,-13.213,Guinea,7461.0
+3838,Kapoeta,4.775,33.59,South Sudan,7042.0
+3839,Vanrhynsdorp,-31.6167,18.7167,South Africa,6272.0
+3840,Port Saint John’s,-31.6288,29.5369,South Africa,6441.0
+3841,Carnarvon,-30.9667,22.1333,South Africa,5785.0
+3842,Nata,-20.2106,26.1806,Botswana,6802.0
+3843,Awjilah,29.1081,21.2869,Libya,6610.0
+3844,Karasburg,-28.0167,18.75,Namibia,6054.0
+3845,Dalaba,10.656,-12.272,Guinea,6349.0
+3846,Zouar,20.45,16.5167,Chad,6432.0
+3847,Melut,10.4404,32.2015,South Sudan,6407.0
+3848,Bir Anzarane,23.8918,-14.5364,Morocco,6244.0
+3849,Dinguiraye,11.299,-10.726,Guinea,6062.0
+3850,Maltahöhe,-24.8333,16.9833,Namibia,6000.0
+3851,Beni Ounif,32.05,-1.25,Algeria,5628.0
+3852,Mali,12.084,-12.301,Guinea,5479.0
+3853,Otavi,-19.65,17.3333,Namibia,5242.0
+3854,Mayumba,-3.4167,10.65,Gabon,5208.0
+3855,Mitzic,0.7833,11.5667,Gabon,4926.0
+3856,Oranjemund,-28.5517,16.4264,Namibia,3900.0
+3857,Pofadder,-29.1286,19.3947,South Africa,4220.0
+3858,Manica,-18.9344,32.8756,Mozambique,4000.0
+3859,Sokolo,14.7328,-6.1219,Mali,4374.0
+3860,Dehiba,32.0167,10.7,Tunisia,4295.0
+3861,Karmah an Nuzul,19.6008,30.4097,Sudan,3928.0
+3862,Teseney,15.11,36.6575,Eritrea,3753.0
+3863,Yomou,7.566,-9.2533,Guinea,3614.0
+3864,Tessalit,20.2011,1.0125,Mali,3612.0
+3865,Mopipi,-21.2019,24.8683,Botswana,3301.0
+3866,Mkokotoni,-5.88,39.2731,Tanzania,2572.0
+3867,Karungu,-0.8496,34.15,Kenya,2376.0
+3868,Buur Gaabo,-1.2175,41.8378,Somalia,3096.0
+3869,I-n-Amguel,23.6936,5.1647,Algeria,3030.0
+3870,Al ‘Alamayn,30.8333,28.95,Egypt,2413.0
+3871,Boffa,10.185,-14.043,Guinea,2332.0
+3872,Katwe,-0.1296,29.92,Uganda,1957.0
+3873,Lehututu,-23.9169,21.8264,Botswana,2284.0
+3874,Alexander Bay,-28.6083,16.5033,South Africa,1500.0
+3875,Nokaneng,-19.6639,22.1917,Botswana,1763.0
+3876,Chibemba,-15.7355,13.8905,Angola,1502.0
+3877,Tajarhī,24.2622,14.5603,Libya,1500.0
+3878,Lokwabe,-24.0961,21.7781,Botswana,1473.0
+3879,Tsau,-20.1686,22.4558,Botswana,1409.0
+3880,Uad Damran,27.4181,-12.9842,Morocco,1108.0
+3881,Yélimané,15.118,-10.572,Mali,988.0
+3882,Ubombo,-27.5667,32.0833,South Africa,564.0
+3883,Isemi-Ile,7.97,3.59,Nigeria,
+3884,Espungabera,-20.4531,32.7725,Mozambique,393.0
+3885,Cazombo,-11.9058,22.9217,Angola,298.0
+3886,Timbedgha,16.2447,-8.1675,Mauritania,245.0
+3887,Al ‘Uqaylah,30.2558,19.1994,Libya,100.0
+3888,Chegga,25.3733,-5.7873,Mauritania,10.0
+3889,Vohitrafeno,-21.6667,47.2167,Madagascar,10000.0
+3890,Vinanitelo,-21.7167,47.2667,Madagascar,10000.0
+3891,Antsoantany,-19.7,47.1667,Madagascar,10000.0
+3892,Miadanandriana,-19.0333,47.7833,Madagascar,10000.0
+3893,Mahabako,-21.75,47.7167,Madagascar,10000.0
+3894,Ambahatrazo,-21.8667,47.95,Madagascar,10000.0
+3895,Vondrozo,-22.8206,47.3217,Madagascar,10000.0
+3896,Ambatolava,-23.5667,47.3,Madagascar,10000.0
+3897,Isahara,-23.7167,47.35,Madagascar,10000.0
+3898,Antaretra,-21.0667,47.85,Madagascar,10000.0
+3899,Tamponala,-19.3,46.4167,Madagascar,10000.0
+3900,Ambodivoara,-14.4,49.95,Madagascar,10000.0
+3901,Morafeno,-21.2,47.2833,Madagascar,10000.0
+3902,Závora,-24.5167,35.2,Mozambique,10000.0
+3903,Ambohitrambo,-18.9167,47.1833,Madagascar,10000.0
+3904,Ankirondro,-19.6333,44.6,Madagascar,10000.0
+3905,Ambohimahazo,-20.6667,47.0833,Madagascar,10000.0
+3906,Andranambolava,-20.9,48.2667,Madagascar,10000.0
+3907,Marosakoa,-16.2333,46.8333,Madagascar,10000.0
+3908,Belavabary,-18.8333,48.0,Madagascar,10000.0
+3909,Ankerana,-21.0333,47.1167,Madagascar,10000.0
+3910,Sahatona-Tamboharivo,-20.9667,47.1,Madagascar,10000.0
+3911,Ampitahana,-21.1333,47.2167,Madagascar,10000.0
+3912,Soatanana,-21.3833,46.9167,Madagascar,10000.0
+3913,Ambararatabe,-18.99,46.19,Madagascar,10000.0
+3914,Aboso,5.3633,-1.9478,Ghana,9945.0
+3915,Zoma-Bealoka,-18.85,47.05,Madagascar,10000.0
+3916,Sahanivotry-Manandona,-20.1167,47.0833,Madagascar,10000.0
+3917,Boanamary,-15.8333,46.3167,Madagascar,10000.0
+3918,Vinanitelo,-22.0167,47.7333,Madagascar,10000.0
+3919,Beanana,-17.3667,48.4333,Madagascar,10000.0
+3920,Ambodimadiro,-14.6,48.0833,Madagascar,10000.0
+3921,Ampasimazava,-17.6667,49.1333,Madagascar,10000.0
+3922,Ifarantsa,-24.9333,46.85,Madagascar,10000.0
+3923,Tanambao-Daoud,-13.9833,50.1333,Madagascar,10000.0
+3924,Mora,14.3278,-4.6,Mali,10000.0
+3925,Ambatomivary,-23.8333,45.5667,Madagascar,10000.0
+3926,Vohitany,-24.1333,44.7667,Madagascar,10000.0
+3927,Maroharatra,-20.7333,47.7667,Madagascar,10000.0
+3928,Miarinarivo,-22.0833,47.05,Madagascar,10000.0
+3929,Ambatomifanongoa,-20.2667,46.9167,Madagascar,10000.0
+3930,Ambovonomby,-14.3667,49.05,Madagascar,10000.0
+3931,Daraina,-13.2,49.6667,Madagascar,10000.0
+3932,Ambohimiarivo,-19.85,47.15,Madagascar,10000.0
+3933,Anosimparihy,-21.5,47.9833,Madagascar,10000.0
+3934,Sandravinany,-24.0333,47.4333,Madagascar,10000.0
+3935,Mazoe,-17.5167,30.9667,Zimbabwe,9966.0
+3936,Soavimbahoaka,-18.6833,46.1,Madagascar,10000.0
+3937,Amparihy,-15.6667,47.1167,Madagascar,10000.0
+3938,Ambatolahy,-22.5333,46.0,Madagascar,10000.0
+3939,Fanjakana,-21.1833,46.8833,Madagascar,10000.0
+3940,Masiaboay,-23.9,44.4667,Madagascar,10000.0
+3941,Ambodisikidy,-14.2333,48.4833,Madagascar,10000.0
+3942,Ebelo,-24.4833,46.0333,Madagascar,10000.0
+3943,Mboki,5.316,25.9571,Central African Republic,10000.0
+3944,Miary-Taheza,-23.1333,44.6167,Madagascar,10000.0
+3945,Andranomenatsa,-23.3167,44.5833,Madagascar,10000.0
+3946,Vohitsaoka,-22.0333,46.7167,Madagascar,10000.0
+3947,Esira,-24.3333,46.7,Madagascar,10000.0
+3948,Soahany,-18.6667,44.2167,Madagascar,10000.0
+3949,Vodiriana,-19.1667,48.5667,Madagascar,10000.0
+3950,Bekodoka,-16.9667,45.1,Madagascar,10000.0
+3951,Ianapera,-23.6167,45.1333,Madagascar,10000.0
+3952,Jangany,-22.85,45.7833,Madagascar,10000.0
+3953,Bedidy,-17.4667,48.0167,Madagascar,10000.0
+3954,Ambodimandresy,-14.7833,48.0833,Madagascar,10000.0
+3955,Tsararano,-17.3333,46.35,Madagascar,10000.0
+3956,Gadoon,5.6897,46.6847,Somalia,10000.0
+3957,Beheloka,-23.9017,43.7635,Madagascar,10000.0
+3958,Ambalanjanakomby,-16.7,47.0833,Madagascar,10000.0
+3959,Mahabe,-17.0833,45.3333,Madagascar,10000.0
+3960,Andranopasy,-21.2833,43.7333,Madagascar,10000.0
+3961,Anontsibe-Sakalava,-21.3667,44.4667,Madagascar,10000.0
+3962,Katsepy,-15.7667,46.2333,Madagascar,10000.0
+3963,Tanamarina,-21.5731,45.94,Madagascar,10000.0
+3964,Amborompotsy,-20.6,46.25,Madagascar,10000.0
+3965,Betrandraka,-17.0333,47.55,Madagascar,10000.0
+3966,Birni Lafia,11.9783,3.2225,Benin,9946.0
+3967,Ambinanintromby,-21.6667,47.5167,Madagascar,9748.0
+3968,Gamba,-2.725,10.0167,Gabon,9928.0
+3969,Kouarfa,10.4833,1.5167,Benin,9809.0
+3970,Mohlanapeng,-29.6975,28.6947,Lesotho,9882.0
+3971,Imlil,31.7567,-7.0106,Morocco,9796.0
+3972,Ankazotsifantatra,-19.95,48.55,Madagascar,9880.0
+3973,Ambodiriana,-17.8861,49.1875,Madagascar,9861.0
+3974,Basso,10.5,3.6833,Benin,9827.0
+3975,Sūknah,29.0669,15.7847,Libya,9887.0
+3976,Djangoa,-13.7833,48.3167,Madagascar,9800.0
+3977,Sirka,9.5719,1.3183,Togo,9700.0
+3978,Anjahamana,-18.3667,48.9667,Madagascar,9846.0
+3979,Oulad ’Azzouz,32.7693,-6.7543,Morocco,9815.0
+3980,Fandrandava,-21.5167,47.25,Madagascar,9742.0
+3981,Andrainjato,-21.4667,47.0833,Madagascar,9742.0
+3982,Seforong,-30.1028,28.1864,Lesotho,9720.0
+3983,Tsaramasoandro,-17.9833,47.2,Madagascar,9747.0
+3984,Ranomafana,-21.25,47.45,Madagascar,9705.0
+3985,Tayakou,10.55,1.2,Benin,9716.0
+3986,Tounfafi,14.0464,5.9812,Niger,9530.0
+3987,Datori,10.4017,0.7828,Benin,9615.0
+3988,Gaada,35.1594,-2.9892,Morocco,9497.0
+3989,Ankadimanga,-18.9667,47.75,Madagascar,9526.0
+3990,Bou Zemou,32.1114,-5.5197,Morocco,9583.0
+3991,Bougou,9.4333,1.6167,Benin,9505.0
+3992,Sonsoro,11.0875,2.7597,Benin,9501.0
+3993,Fitampito,-20.9667,46.3167,Madagascar,9546.0
+3994,Sokotindji,10.8528,3.4297,Benin,9493.0
+3995,Douar Oulad Bouziane,34.2083,-5.0522,Morocco,9372.0
+3996,Berkine,33.7665,-3.8438,Morocco,9469.0
+3997,Alakamisy Anativato,-19.8833,46.9,Madagascar,9407.0
+3998,Shendē,10.6333,36.9333,Ethiopia,9293.0
+3999,Mēga,4.0167,38.25,Ethiopia,9370.0
+4000,Barei,9.6833,1.5667,Benin,9259.0
+4001,Boali,4.8,18.1167,Central African Republic,9314.0
+4002,Bandio,13.8888,1.0896,Niger,9237.0
+4003,Douar Oulad Sidi Moussa,32.2726,-7.1987,Morocco,9260.0
+4004,Douar El Mellaliyine,35.6264,-5.3414,Morocco,9177.0
+4005,Analaroa,-18.4083,47.7083,Madagascar,9282.0
+4006,Tasso,9.6737,3.2333,Benin,9234.0
+4007,Talata-Angavo,-18.2,47.1,Madagascar,9240.0
+4008,Tanamarina-Sakay,-21.4667,46.6167,Madagascar,9235.0
+4009,Bīkē,9.5297,41.1969,Ethiopia,9197.0
+4010,Intich’o,14.2667,39.15,Ethiopia,9048.0
+4011,As Sidrah,30.6294,18.3503,Libya,9186.0
+4012,Morarano,-19.4333,47.4833,Madagascar,9000.0
+4013,Aïn el Mediour,30.4,-8.8833,Morocco,9000.0
+4014,Morafeno,-14.4,50.0333,Madagascar,9000.0
+4015,Ankarana-Miraihina,-23.0833,47.6333,Madagascar,9000.0
+4016,Ambodivoanio,-16.1833,49.6667,Madagascar,9000.0
+4017,Alakamisy-Ambohimahazo,-20.4,47.35,Madagascar,9000.0
+4018,Andilana Avaratra,-17.35,48.5333,Madagascar,9042.0
+4019,Bazimini,-12.1833,44.45,Comoros,8952.0
+4020,Anteza,-21.6667,47.85,Madagascar,9000.0
+4021,Antanankambano,-22.05,47.4833,Madagascar,9000.0
+4022,Mahamaibe,-21.75,47.8833,Madagascar,9000.0
+4023,Vohilava,-21.7667,47.9167,Madagascar,9000.0
+4024,Salobe,-23.5333,44.7167,Madagascar,9000.0
+4025,Bemarivo,-17.6333,44.75,Madagascar,9091.0
+4026,Ampary,-19.1833,46.5833,Madagascar,9000.0
+4027,Antsahavaribe,-13.85,49.8667,Madagascar,9000.0
+4028,Anjialava,-14.0667,49.7333,Madagascar,9000.0
+4029,Mitanty,-21.7333,48.0,Madagascar,9000.0
+4030,Ranopiso,-25.05,46.6667,Madagascar,9000.0
+4031,Sarasambo,-25.1,46.7833,Madagascar,9000.0
+4032,Tsaratanana,-15.65,47.85,Madagascar,9000.0
+4033,Fierenana,-18.4833,48.4,Madagascar,9000.0
+4034,Soamahamanina,-18.9833,47.0167,Madagascar,9000.0
+4035,Belinta,-19.95,45.1167,Madagascar,9000.0
+4036,Antsatramidola,-15.6333,48.9667,Madagascar,9000.0
+4037,Ambalaromba,-14.6667,49.3333,Madagascar,9000.0
+4038,Mandīshah,28.3515,28.9317,Egypt,9016.0
+4039,Ambariokorano,-15.8833,48.9667,Madagascar,9000.0
+4040,Ivandrika,-22.8667,47.7333,Madagascar,9000.0
+4041,Iara,-23.0833,47.4333,Madagascar,9000.0
+4042,Ambodimahabibo,-15.7333,48.0833,Madagascar,9000.0
+4043,Vatananto,-23.6667,47.25,Madagascar,9000.0
+4044,Ambinanin’ Andravory,-13.7667,49.75,Madagascar,9000.0
+4045,Ambatoharanana,-16.4333,49.5833,Madagascar,9000.0
+4046,Soanierana,-25.0,46.8833,Madagascar,9000.0
+4047,Benato-Toby,-23.0833,45.8667,Madagascar,9000.0
+4048,Bemaharivo,-16.1333,46.4,Madagascar,9000.0
+4049,Ampasimpotsy-Gara,-18.9667,48.35,Madagascar,9023.0
+4050,Marovatolena,-15.1833,47.65,Madagascar,9000.0
+4051,Ambatoria,-14.5,48.95,Madagascar,9000.0
+4052,Maropaika,-22.7,46.9833,Madagascar,9000.0
+4053,Sahatsiho-Ambohimanjaka,-20.2,47.0333,Madagascar,9000.0
+4054,Ambarimaninga,-16.5,46.0,Madagascar,9000.0
+4055,Akpassi,8.45,1.8833,Benin,8979.0
+4056,Marotolana,-14.65,48.9833,Madagascar,9000.0
+4057,Antaly,-24.3833,44.4,Madagascar,9000.0
+4058,Andribavontsona,-15.4,47.5167,Madagascar,9000.0
+4059,Manampaneva,-16.05,48.6833,Madagascar,9000.0
+4060,Antambohobe,-22.3,46.7667,Madagascar,9000.0
+4061,Nosibe,-13.15,49.8,Madagascar,9000.0
+4062,Ankiliabo,-24.6833,44.7167,Madagascar,9000.0
+4063,Amboronabo,-22.6667,44.4,Madagascar,9000.0
+4064,Bekopaka,-19.0167,44.85,Madagascar,9000.0
+4065,Mahabo,-24.2833,45.2153,Madagascar,9000.0
+4066,Beparasy,-19.1667,48.0333,Madagascar,9000.0
+4067,Manevy,-24.3833,46.8,Madagascar,9000.0
+4068,Soamanonga,-23.8667,44.7833,Madagascar,9000.0
+4069,Tsimafana,-19.7167,44.5833,Madagascar,9000.0
+4070,Soanenga,-16.5,44.6,Madagascar,9000.0
+4071,Ankirihitra,-16.7667,46.45,Madagascar,9000.0
+4072,Antsaidoha-Bebao,-17.3667,44.55,Madagascar,9000.0
+4073,Tandrano,-22.0833,44.6333,Madagascar,9000.0
+4074,Ambalajia,-17.4833,46.1167,Madagascar,9000.0
+4075,Antseza,-16.2167,45.8667,Madagascar,9000.0
+4076,Befotaka,-20.8333,45.6667,Madagascar,9000.0
+4077,Manja,-21.4333,44.3333,Madagascar,9000.0
+4078,Douar Ait Taleb,32.3839,-8.1856,Morocco,8888.0
+4079,Moulay Abdelkader,34.6422,-5.7678,Morocco,8871.0
+4080,Toulou,14.1688,5.199,Niger,8785.0
+4081,Takouta,10.3,1.2,Benin,8811.0
+4082,Mousoulou,7.3899,1.9367,Benin,8806.0
+4083,Al Abraq,32.7867,21.9978,Libya,8861.0
+4084,Amberomanga,-19.25,46.6167,Madagascar,8772.0
+4085,Mahela,-19.4833,48.4833,Madagascar,8815.0
+4086,Rudewa,-10.1008,34.6836,Tanzania,8747.0
+4087,Marrupa,-13.1833,37.5,Mozambique,8762.0
+4088,Gidan Idèr,14.0131,5.3185,Niger,8582.0
+4089,Sèmèrè,9.6268,1.4515,Benin,8566.0
+4090,Ankatafa,-13.6167,48.3667,Madagascar,8652.0
+4091,Tanmpègré,10.48,1.45,Benin,8560.0
+4092,Anjahamarina,-18.0167,49.2,Madagascar,8564.0
+4093,Tionk Essil,12.7856,-16.5217,Senegal,8507.0
+4094,Olamzé,2.2167,11.0833,Cameroon,8518.0
+4095,Oldeani,-3.35,35.55,Tanzania,8000.0
+4096,Kontcha,7.9667,12.2333,Cameroon,8018.0
+4097,Kalabo,-14.9911,22.6789,Zambia,7731.0
+4098,Bossembele,5.2667,17.65,Central African Republic,7287.0
+4099,Okondja,-0.6519,13.6778,Gabon,7155.0
+4100,Zambezi,-13.55,23.1167,Zambia,7074.0
+4101,Nicoadala,-17.6077,36.8197,Mozambique,6945.0
+4102,Karibib,-21.9381,15.8544,Namibia,6898.0
+4103,Ndendé,-2.4014,11.3589,Gabon,6436.0
+4104,Aiyomojok,5.7504,8.9833,Cameroon,5798.0
+4105,Fdérik,22.6783,-12.7114,Mauritania,5760.0
+4106,Witu,-2.3889,40.4378,Kenya,5380.0
+4107,Ouadda,8.0667,22.4,Central African Republic,5434.0
+4108,Qaşr al Farāfirah,27.0583,27.97,Egypt,5000.0
+4109,Mékambo,1.0167,13.9333,Gabon,4891.0
+4110,Al Qaşr,25.6959,28.8837,Egypt,4474.0
+4111,Bekily,-24.2162,45.3166,Madagascar,4286.0
+4112,Araouane,18.905,-3.5283,Mali,4026.0
+4113,Ligonha,-15.1757,37.74,Mozambique,3500.0
+4114,Lukulu,-14.4083,23.2667,Zambia,3349.0
+4115,Taoudenni,22.6667,-3.9833,Mali,3019.0
+4116,Al Jaghbūb,29.7425,24.5169,Libya,2768.0
+4117,Bîr Mogreïn,25.2167,-11.6167,Mauritania,2761.0
+4118,Marādah,29.2333,19.2167,Libya,2500.0
+4119,Omboué,-1.5667,9.25,Gabon,2057.0
+4120,Konza,-1.7496,37.12,Kenya,2004.0
+4121,Nasir,8.6,33.0667,South Sudan,1741.0
+4122,Kipili,-7.4329,30.6,Tanzania,1533.0
+4123,Nyimba,-14.5495,30.81,Zambia,1336.0
+4124,Fulacunda,11.773,-15.195,Guinea-Bissau,1311.0
+4125,Regedor Quissico,-24.7257,34.766,Mozambique,1210.0
+4126,Bala Cangamba,-13.6833,19.8667,Angola,1307.0
+4127,Daraj,30.15,10.45,Libya,931.0
+4128,Muhembo,-18.2996,21.8,Botswana,757.0
+4129,Satadougou,12.617,-11.4066,Mali,706.0
+4130,Calatrava,1.1164,9.4186,Equatorial Guinea,628.0
+4131,Massangena,-21.5378,32.9564,Mozambique,650.0
+4132,Panda,-24.0629,34.7303,Mozambique,602.0
+4133,Chiramba,-16.8921,34.6559,Mozambique,556.0
+4134,Mereeg,3.7667,47.3,Somalia,548.0
+4135,Calenga,-11.3196,16.2,Angola,531.0
+4136,Caluula,11.9667,50.75,Somalia,513.0
+4137,Tchitado,-17.3167,13.9167,Angola,500.0
+4138,Yakossi,5.617,23.3167,Central African Republic,500.0
+4139,Tmassah,26.3667,15.8,Libya,500.0
+4140,Tsavo,-2.9828,38.4666,Kenya,414.0
+4141,Kanyato,-4.4565,30.2614,Tanzania,232.0
+4142,Umm al ‘Abīd,27.517,15.0333,Libya,300.0
+4143,Androka,-25.0219,44.0749,Madagascar,174.0
+4144,Hurdiyo,10.5667,51.1333,Somalia,176.0
+4145,Bifoun,-0.3333,10.3833,Gabon,134.0
+4146,Lemsid,26.5482,-13.8482,Morocco,100.0
+4147,Zillah,28.5489,17.5511,Libya,10.0
+4148,Barnīs,23.946,35.4842,Egypt,10.0
+4149,Djado,21.015,12.3075,Niger,10.0
